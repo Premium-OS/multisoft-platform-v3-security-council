@@ -1,0 +1,1 @@
+{"bugIds":["1975144"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"e1afb491-0776-4052-9827-3263e0dadf56","last_modified":1753706723206,"schema":1753458337244,"topLevelUrlPattern":"*://shop.lensology.co.uk/*","urlPattern":"*://bat.bing.com/*"}

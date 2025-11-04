@@ -1,0 +1,1 @@
+{"bugIds":["1941815"],"category":"convenience","classifierFeatures":["tracking-protection","emailtracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"3bb54427-0825-4fe2-9638-78ccf0282284","last_modified":1757595909470,"schema":1757580612653,"topLevelUrlPattern":"*://portlandgeneral.com/*","urlPattern":"*://nebula-cdn.kampyle.com/*"}

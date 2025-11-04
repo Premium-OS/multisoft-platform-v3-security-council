@@ -1,0 +1,1 @@
+{"bugIds":["1980907"],"category":"baseline","classifierFeatures":["tracking-protection","emailtracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"1b47958e-b4af-4082-a041-1bcee1e3a9ad","last_modified":1755515702490,"schema":1755481752085,"topLevelUrlPattern":"*://www.kjrh.com/*","urlPattern":"*://*.uplynk.com/*"}

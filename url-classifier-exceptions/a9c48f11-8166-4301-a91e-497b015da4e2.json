@@ -1,0 +1,1 @@
+{"bugIds":["1979901"],"category":"baseline","classifierFeatures":["tracking-protection","emailtracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"a9c48f11-8166-4301-a91e-497b015da4e2","last_modified":1755515702510,"schema":1755481758742,"topLevelUrlPattern":"*://francais.news-pravda.com/*","urlPattern":"*://*.vk.com/*"}

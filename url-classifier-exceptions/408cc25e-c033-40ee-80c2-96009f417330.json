@@ -1,0 +1,1 @@
+{"bugIds":["1982010"],"category":"baseline","classifierFeatures":["tracking-protection","emailtracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"408cc25e-c033-40ee-80c2-96009f417330","last_modified":1755515702414,"schema":1755481738734,"topLevelUrlPattern":"*://academy.zerotomastery.io/*","urlPattern":"*://static-media.hotmart.com/*"}

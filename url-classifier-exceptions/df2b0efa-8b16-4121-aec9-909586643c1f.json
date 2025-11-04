@@ -1,0 +1,1 @@
+{"bugIds":["1981701"],"category":"baseline","classifierFeatures":["tracking-protection","emailtracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"df2b0efa-8b16-4121-aec9-909586643c1f","last_modified":1755515702455,"schema":1755481740926,"topLevelUrlPattern":"*://www.whittard.com/*","urlPattern":"*://*.bc0a.com/*"}

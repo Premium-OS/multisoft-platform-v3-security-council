@@ -1,0 +1,1 @@
+{"bugIds":["1960661"],"category":"baseline","classifierFeatures":["tracking-protection","emailtracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"796bf97c-0d07-4198-871d-958eda609838","last_modified":1757923927880,"schema":1757921800157,"topLevelUrlPattern":"*://hosted.pushplanet.com/*","urlPattern":"*://jsapi.lightboxcdn.com/*"}

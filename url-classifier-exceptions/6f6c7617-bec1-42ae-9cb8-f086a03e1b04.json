@@ -1,0 +1,1 @@
+{"bugIds":["1914900"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"6f6c7617-bec1-42ae-9cb8-f086a03e1b04","last_modified":1760964214416,"schema":1760962312967,"topLevelUrlPattern":"*://vix.com/*","urlPattern":"*://*.conviva.com/*"}

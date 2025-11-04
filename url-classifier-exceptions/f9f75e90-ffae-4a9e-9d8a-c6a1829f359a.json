@@ -1,0 +1,1 @@
+{"bugIds":["1916415"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"f9f75e90-ffae-4a9e-9d8a-c6a1829f359a","last_modified":1760964214420,"schema":1760962309990,"topLevelUrlPattern":"*://www.spencerledger.com/*","urlPattern":"*://widget.trustpilot.com/*"}

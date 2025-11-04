@@ -1,0 +1,1 @@
+{"bugIds":["1975154"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"cde069dd-3658-4517-b9b6-3d6daced9660","last_modified":1753706723095,"schema":1753458335388,"topLevelUrlPattern":"*://customer.kfc-listens.com/*","urlPattern":"*://fra1.qualtrics.com/*"}

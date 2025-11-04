@@ -1,0 +1,1 @@
+{"bugIds":["1980034"],"category":"convenience","classifierFeatures":["tracking-protection","emailtracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"12846f41-a5ce-4f84-8c8a-00316a1c9bdd","last_modified":1758111764315,"schema":1758109200206,"topLevelUrlPattern":"*://privacy.openai.com/*","urlPattern":"*://api.transcend.io/*"}

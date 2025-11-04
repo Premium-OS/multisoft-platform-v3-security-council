@@ -1,0 +1,1 @@
+{"bugIds":["1989296"],"category":"baseline","classifierFeatures":["tracking-protection","socialtracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"a0c71977-bd62-4cfd-9be3-a8d5a4c2d178","last_modified":1760619440681,"schema":1760598865093,"topLevelUrlPattern":"*://www.radio.fr/*","urlPattern":"*://static.ads-twitter.com/*"}

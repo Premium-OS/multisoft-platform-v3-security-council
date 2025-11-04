@@ -1,0 +1,1 @@
+{"bugIds":["1880285","1948597","1962066"],"category":"convenience","classifierFeatures":["tracking-protection","emailtracking-protection"],"filterContentBlockingCategories":[],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"5ebd545c-d432-4a56-9581-a961e208f80b","last_modified":1761134093162,"schema":1761071650214,"urlPattern":"*://cdn.medallia.com/*"}

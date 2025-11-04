@@ -1,0 +1,1 @@
+{"bugIds":["1976199"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"d55f2f0c-f8ae-46e1-9dca-d1838c0f4ff2","last_modified":1753706723254,"schema":1753458329816,"topLevelUrlPattern":"*://northskysocial.com/*","urlPattern":"*://pages.convertkit.com/*"}

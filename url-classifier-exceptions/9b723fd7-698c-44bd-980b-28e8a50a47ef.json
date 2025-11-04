@@ -1,0 +1,1 @@
+{"bugIds":["1979651"],"category":"convenience","classifierFeatures":["tracking-protection","emailtracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"9b723fd7-698c-44bd-980b-28e8a50a47ef","last_modified":1757595909532,"schema":1757580609891,"topLevelUrlPattern":"*://novena.habyt.com/*","urlPattern":"*://builder-assets.unbounce.com/*"}

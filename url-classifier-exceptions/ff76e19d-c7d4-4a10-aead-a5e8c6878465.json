@@ -1,0 +1,1 @@
+{"bugIds":["1961797"],"category":"convenience","classifierFeatures":["tracking-protection"],"filterContentBlockingCategories":[],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"ff76e19d-c7d4-4a10-aead-a5e8c6878465","last_modified":1751477149109,"schema":1751476775501,"urlPattern":"*://www.klaviyo.com/*"}

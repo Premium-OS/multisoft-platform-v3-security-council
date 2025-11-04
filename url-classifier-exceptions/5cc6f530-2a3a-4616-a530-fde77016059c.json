@@ -1,0 +1,1 @@
+{"bugIds":["1979670"],"category":"convenience","classifierFeatures":["tracking-protection","emailtracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"5cc6f530-2a3a-4616-a530-fde77016059c","last_modified":1755515702459,"schema":1755481763122,"topLevelUrlPattern":"*://www.spectator.co.uk/*","urlPattern":"*://*.tinypass.com/*"}
