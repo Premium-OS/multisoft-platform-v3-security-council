@@ -1,0 +1,1 @@
+{"base":{"classification":"unknown","name":"MercadoLibre Chile","urls":{"search":{"base":"https://www.mercadolibre.cl/jm/search","searchTermParamName":"as_word"}}},"id":"725cae5c-d5d8-4f4b-9ed9-d8364d74c3dc","identifier":"mercadolibre-cl","last_modified":1702906221354,"recordType":"engine","schema":1702901539030,"variants":[{"environment":{"locales":["es-CL"]}}]}
