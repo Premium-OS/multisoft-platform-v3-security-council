@@ -1,0 +1,1 @@
+{"bugIds":["1973962"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"3babd4c6-4ca5-40f6-9577-715d1ca35504","last_modified":1753458383478,"schema":1753458343145,"topLevelUrlPattern":"*://herbals.co.nz/*","urlPattern":"*://*.judge.me/*"}

@@ -1,0 +1,1 @@
+{"bugIds":["1947405"],"category":"convenience","classifierFeatures":["tracking-protection","emailtracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"2d2cb45b-8f98-484a-a840-6cad74f5c6ea","last_modified":1758109207420,"schema":1758109203528,"topLevelUrlPattern":"*://www.theperfectloaf.com/*","urlPattern":"*://*.slickstream.com/*"}

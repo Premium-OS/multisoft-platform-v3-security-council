@@ -1,0 +1,1 @@
+{"bugIds":["1978296"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"49a6e3cc-9f8a-4672-899f-9b4e43086a2c","last_modified":1753458383482,"schema":1753458312948,"topLevelUrlPattern":"*://openrouter.ai/*","urlPattern":"*://us5.datadoghq.com/*"}

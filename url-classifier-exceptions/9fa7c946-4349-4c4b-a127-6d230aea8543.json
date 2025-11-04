@@ -1,0 +1,1 @@
+{"bugIds":["1904667","1914175","1927779","1932596","1944311"],"category":"baseline","classifierFeatures":["tracking-protection"],"filterContentBlockingCategories":[],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"9fa7c946-4349-4c4b-a127-6d230aea8543","last_modified":1761073753906,"schema":1761068766554,"urlPattern":"*://*.line-scdn.net/*"}

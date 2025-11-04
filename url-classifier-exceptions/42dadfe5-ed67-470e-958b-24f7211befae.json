@@ -1,0 +1,1 @@
+{"bugIds":["1976418"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"42dadfe5-ed67-470e-958b-24f7211befae","last_modified":1753458383562,"schema":1753458327960,"topLevelUrlPattern":"*://borgesandscott.com/*","urlPattern":"*://cdnwidget.judge.me/*"}

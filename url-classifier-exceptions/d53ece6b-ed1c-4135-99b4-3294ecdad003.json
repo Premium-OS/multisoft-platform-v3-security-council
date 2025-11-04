@@ -1,0 +1,1 @@
+{"bugIds":["1919077"],"category":"convenience","classifierFeatures":["tracking-protection","socialtracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"d53ece6b-ed1c-4135-99b4-3294ecdad003","last_modified":1756964145612,"schema":1756964141793,"topLevelUrlPattern":"*://www.spacex.com/*","urlPattern":"*://platform.twitter.com/*"}
