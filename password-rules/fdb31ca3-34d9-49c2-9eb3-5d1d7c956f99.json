@@ -1,0 +1,1 @@
+{"Domain":"hypovereinsbank.de","id":"fdb31ca3-34d9-49c2-9eb3-5d1d7c956f99","last_modified":1738430652705,"password-rules":"minlength: 6; maxlength: 10; required: lower, upper, digit; allowed: [!\"#$%&()*+:;<=>?@[{}~]];"}

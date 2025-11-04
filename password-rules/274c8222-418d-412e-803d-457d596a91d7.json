@@ -1,0 +1,1 @@
+{"Domain":"bochk.com","id":"274c8222-418d-412e-803d-457d596a91d7","last_modified":1738430652276,"password-rules":"minlength: 8; maxlength: 12; max-consecutive: 3; required: lower; required: upper; required: digit; allowed: [#$%&()*+,.:;<=>?@_];"}

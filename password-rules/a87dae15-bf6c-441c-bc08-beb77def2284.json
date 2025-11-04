@@ -1,0 +1,1 @@
+{"Domain":"training.confluent.io","id":"a87dae15-bf6c-441c-bc08-beb77def2284","last_modified":1738430652166,"password-rules":"minlength: 6; maxlength: 16; required: lower; required: upper; required: digit; allowed: [!#$%*@^_~];"}

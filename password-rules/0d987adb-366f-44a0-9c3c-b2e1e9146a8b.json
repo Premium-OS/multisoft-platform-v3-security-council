@@ -1,0 +1,1 @@
+{"Domain":"serviziconsolari.esteri.it","id":"0d987adb-366f-44a0-9c3c-b2e1e9146a8b","last_modified":1738430652453,"password-rules":"minlength: 8; maxlength: 16; required: lower; required: upper; required: digit; required: special;"}

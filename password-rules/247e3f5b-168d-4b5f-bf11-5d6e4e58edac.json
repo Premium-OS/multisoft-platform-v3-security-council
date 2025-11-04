@@ -1,0 +1,1 @@
+{"Domain":"mintmobile.com","id":"247e3f5b-168d-4b5f-bf11-5d6e4e58edac","last_modified":1738430652599,"password-rules":"minlength: 8; maxlength: 20; required: lower; required: upper; required: digit; required: special; allowed: [!#$%&()*+:;=@[^_`{}~]];"}

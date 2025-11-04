@@ -1,0 +1,1 @@
+{"Domain":"callofduty.com","id":"21c95237-08b2-44f4-9904-bbc5a91c118a","last_modified":1738430652927,"password-rules":"minlength: 8; maxlength: 20; max-consecutive: 2; required: lower, upper; required: digit;"}

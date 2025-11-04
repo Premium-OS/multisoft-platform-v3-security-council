@@ -1,0 +1,1 @@
+{"Domain":"irctc.co.in","id":"4ad68b52-5b23-43a1-b919-dbc087ff7d1e","last_modified":1738430652676,"password-rules":"minlength: 8; maxlength: 15; required: lower; required: upper; required: digit; required: [!@#$%^&*()+];"}

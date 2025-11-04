@@ -1,0 +1,1 @@
+{"Domain":"app.digiboxx.com","id":"4990a066-79ef-4833-9523-793f3d6c52fe","last_modified":1738430652103,"password-rules":"minlength: 8; maxlength: 14; required: lower; required: upper; required: digit; required: [@$!%*?&];"}

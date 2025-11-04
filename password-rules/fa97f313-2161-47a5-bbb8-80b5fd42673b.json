@@ -1,0 +1,1 @@
+{"Domain":"areariservata.bancaetica.it","id":"fa97f313-2161-47a5-bbb8-80b5fd42673b","last_modified":1738430652293,"password-rules":"minlength: 8; maxlength: 10; required: lower; required: upper; required: digit; required: [!#&*+/=@_];"}
