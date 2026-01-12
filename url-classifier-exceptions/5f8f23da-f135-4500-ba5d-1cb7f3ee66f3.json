@@ -1,0 +1,1 @@
+{"bugIds":["1985016"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"5f8f23da-f135-4500-ba5d-1cb7f3ee66f3","last_modified":1756964145629,"schema":1756964138782,"topLevelUrlPattern":"*://app-eu1.hubspotdocuments.com/*","urlPattern":"*://app-eu1.hubspot.com/*"}

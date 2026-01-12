@@ -1,0 +1,1 @@
+{"bugIds":["1991102"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"84f91f96-57fa-4302-9b28-460f384047f3","last_modified":1759758993554,"schema":1759758991322,"topLevelUrlPattern":"*://www.tmj4.com/*","urlPattern":"*://*.uplynk.com/*"}

@@ -1,0 +1,1 @@
+{"bugIds":["1924930"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"2dea1222-2ccc-4ac0-87cb-6ccbf0b04411","last_modified":1762191176575,"schema":1762191172888,"topLevelUrlPattern":"*://www.idahostatesman.com/*","urlPattern":"*://widget.beop.io/*"}

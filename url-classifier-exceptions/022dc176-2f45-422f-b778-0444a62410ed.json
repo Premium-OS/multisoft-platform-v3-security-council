@@ -1,0 +1,1 @@
+{"bugIds":["1930157"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"022dc176-2f45-422f-b778-0444a62410ed","last_modified":1760598877793,"schema":1760598873855,"topLevelUrlPattern":"*://edd.ca.gov/*","urlPattern":"*://*.qualtrics.com/*"}

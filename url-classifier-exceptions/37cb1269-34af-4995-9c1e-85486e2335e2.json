@@ -1,0 +1,1 @@
+{"bugIds":["1954433"],"category":"convenience","classifierFeatures":["tracking-protection","emailtracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"37cb1269-34af-4995-9c1e-85486e2335e2","last_modified":1758198966515,"schema":1758161742768,"topLevelUrlPattern":"*://www.simplehuman.com/*","urlPattern":"*://*.gorgias.chat/*"}

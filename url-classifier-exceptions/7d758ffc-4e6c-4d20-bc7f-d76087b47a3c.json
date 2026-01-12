@@ -1,0 +1,1 @@
+{"bugIds":["2002740"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"7d758ffc-4e6c-4d20-bc7f-d76087b47a3c","last_modified":1764641413677,"schema":1764641413032,"topLevelUrlPattern":"*://t.lt02.net/*","urlPattern":"*://services.listrak.com/*"}

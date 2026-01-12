@@ -1,0 +1,1 @@
+{"bugIds":["2006629"],"category":"baseline","classifierFeatures":["tracking-protection","emailtracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"eb1bc13e-f39d-4fe4-94fa-59571c985890","last_modified":1766369411588,"schema":1766369410595,"topLevelUrlPattern":"*://zendesk.com/*","urlPattern":"*://edge.adobedc.net/*"}

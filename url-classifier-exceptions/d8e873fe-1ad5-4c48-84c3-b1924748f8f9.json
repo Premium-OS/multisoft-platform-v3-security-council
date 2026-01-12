@@ -1,0 +1,1 @@
+{"bugIds":["1983620"],"category":"baseline","classifierFeatures":["tracking-protection","emailtracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"d8e873fe-1ad5-4c48-84c3-b1924748f8f9","last_modified":1757580615641,"schema":1757580608337,"topLevelUrlPattern":"*://nenepark.org.uk/*","urlPattern":"*://api.aws.parking.godaddy.com/*"}

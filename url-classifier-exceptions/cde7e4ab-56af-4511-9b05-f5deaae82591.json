@@ -1,0 +1,1 @@
+{"bugIds":["1950803"],"category":"convenience","classifierFeatures":["tracking-protection","socialtracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"cde7e4ab-56af-4511-9b05-f5deaae82591","last_modified":1757580615670,"schema":1757580610618,"topLevelUrlPattern":"*://instalker.org/*","urlPattern":"*://pbs.twimg.com/*"}

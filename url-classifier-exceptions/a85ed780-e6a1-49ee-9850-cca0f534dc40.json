@@ -1,0 +1,1 @@
+{"bugIds":["1865665"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"a85ed780-e6a1-49ee-9850-cca0f534dc40","last_modified":1763604614604,"schema":1763604613993,"topLevelUrlPattern":"*://www.telltims.ca/*","urlPattern":"*://rbixm.qualtrics.com/*"}

@@ -1,0 +1,1 @@
+{"bugIds":["1922473"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"ef8e1db3-f885-4304-b003-2cb98608f180","last_modified":1762272013758,"schema":1762272013093,"topLevelUrlPattern":"*://www.wnyc.org/*","urlPattern":"*://pdst.fm/*"}

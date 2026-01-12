@@ -1,0 +1,1 @@
+{"bugIds":["1995763"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"d4fad754-51e3-451f-b995-a1b3d2718305","last_modified":1762567814769,"schema":1762567814512,"topLevelUrlPattern":"*://www.investing.com/*","urlPattern":"*://live.primis.tech/*"}

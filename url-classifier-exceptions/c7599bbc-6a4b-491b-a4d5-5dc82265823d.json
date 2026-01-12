@@ -1,0 +1,1 @@
+{"bugIds":["1965446"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"c7599bbc-6a4b-491b-a4d5-5dc82265823d","last_modified":1753458383653,"schema":1753458365478,"topLevelUrlPattern":"*://www.bv2008.cn/*","urlPattern":"*://code.bdstatic.com/*"}

@@ -1,0 +1,1 @@
+{"bugIds":["1926821"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"cfb546eb-7213-49a1-b88b-ecee4a6e97f0","last_modified":1764036610321,"schema":1764036609738,"topLevelUrlPattern":"*://www.lttstore.com/*","urlPattern":"*://cdnwidget.judge.me/*"}

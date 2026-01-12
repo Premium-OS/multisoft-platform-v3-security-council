@@ -1,0 +1,1 @@
+{"bugIds":["2000785"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"80d7861f-49c4-485a-b989-fd55da0167b1","last_modified":1763518210505,"schema":1763432143531,"topLevelUrlPattern":"*://kriztalz.sh/*","urlPattern":"*://ipinfo.io/*"}

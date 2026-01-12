@@ -1,0 +1,1 @@
+{"bugIds":["2006344"],"category":"convenience","classifierFeatures":["tracking-protection","emailtracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"7dfe0989-cff1-4519-b65e-c0593461c3c0","last_modified":1766369411567,"schema":1766369411128,"topLevelUrlPattern":"*://get.sequencing.com/*","urlPattern":"*://builder-assets.unbounce.com/*"}
