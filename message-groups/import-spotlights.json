@@ -1,0 +1,1 @@
+{"enabled":true,"frequency":{"custom":[{"cap":1,"period":60000}],"lifetime":4},"id":"import-spotlights","last_modified":1670281947879,"type":"remote-settings","userPreferences":["browser.newtabpage.activity-stream.asrouter.userprefs.cfr.features"]}
