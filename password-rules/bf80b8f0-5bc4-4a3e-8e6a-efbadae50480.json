@@ -1,0 +1,1 @@
+{"Domain":"aesop.com","id":"bf80b8f0-5bc4-4a3e-8e6a-efbadae50480","last_modified":1765818003311,"password-rules":"minlength: 8; maxlength: 25; required: lower; required: upper; required: digit; required: [!@#$%&?];"}

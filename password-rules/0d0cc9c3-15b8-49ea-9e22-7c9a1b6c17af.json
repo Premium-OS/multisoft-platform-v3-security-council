@@ -1,0 +1,1 @@
+{"Domain":"powells.com","id":"0d0cc9c3-15b8-49ea-9e22-7c9a1b6c17af","last_modified":1624479191717,"password-rules":"minlength: 8; maxlength: 16; required: lower; required: upper; required: digit; required: [\"!@#$%^&*(){}[]];"}

@@ -1,0 +1,1 @@
+{"Domain":"ebrap.org","id":"279d425f-d1b6-4967-bf43-b7ef4d371bed","last_modified":1624479191981,"password-rules":"minlength: 15; required: lower; required: lower; required: upper; required: upper; required: digit; required: digit; required: [-!@#$%^&*()_+|~=`{}[:\";'?,./.]]; required: [-!@#$%^&*()_+|~=`{}[:\";'?,./.]];"}

@@ -1,0 +1,1 @@
+{"Domain":"medicare.gov","id":"24b74cfb-f020-4f00-8e74-ad48ed6d5af3","last_modified":1650895202040,"password-rules":"minlength: 8; maxlength: 16; required: lower; required: upper; required: digit; required: [@!$%^*()];"}

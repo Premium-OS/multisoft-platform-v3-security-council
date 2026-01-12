@@ -1,0 +1,1 @@
+{"Domain":"girlscouts.org","id":"8cf4c093-f127-402c-b6f4-7c84921dfb25","last_modified":1624479191926,"password-rules":"minlength: 8; maxlength: 16; required: lower; required: upper; required: digit; allowed: [$#!];"}

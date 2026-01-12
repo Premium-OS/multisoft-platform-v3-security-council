@@ -1,0 +1,1 @@
+{"Domain":"capitalone.com","id":"399ee329-873f-4034-9649-b8c950168679","last_modified":1624479192094,"password-rules":"minlength: 8; maxlength: 32; required: lower, upper; required: digit; allowed: [-_./\\@$*&!#];"}

@@ -1,0 +1,1 @@
+{"Domain":"hertz.cv","id":"a5689a5b-7a2a-4ec8-9afb-308d3ad3541a","last_modified":1729591442202,"password-rules":"minlength: 8; maxlength: 30; max-consecutive: 3; required: lower; required: upper; required: digit; required: [#$%^&!@];"}

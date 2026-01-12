@@ -1,0 +1,1 @@
+{"Domain":"lg.com","id":"28db74b1-28de-40f1-ae1d-ca52f36f03bc","last_modified":1650895202065,"password-rules":"minlength: 8; maxlength: 16; required: lower; required: upper; required: digit; allowed: [-!#$%&'()*+,.:;=?@[^_{|}~]];"}
