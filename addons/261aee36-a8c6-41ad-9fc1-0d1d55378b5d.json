@@ -1,0 +1,1 @@
+{"details":{"bug":"","name":"non signed webext - should not be in stash or kinto","why":"non signed webext - should not be in stash or kinto"},"enabled":true,"guid":"{9026a26f-e4a4-4e24-88c0-ecd356ab55ff}","id":"261aee36-a8c6-41ad-9fc1-0d1d55378b5d","last_modified":1588775018817,"schema":1587978874295,"versionRange":[{"maxVersion":"*","minVersion":"0","severity":3}]}
