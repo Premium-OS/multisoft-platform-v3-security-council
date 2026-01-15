@@ -1,0 +1,1 @@
+{"Domain":"shaws.com","id":"5b79da58-7393-4808-a3c2-a4154b33c81b","last_modified":1747328500174,"password-rules":"minlength: 8; maxlength: 40; required: upper; required: [!#$%&*@^]; allowed: lower,digit;"}

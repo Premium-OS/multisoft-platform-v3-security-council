@@ -1,0 +1,1 @@
+{"bugIds":["2003547"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"eaca1ced-73c6-459f-8db9-bf7db0ca066c","last_modified":1765764611397,"schema":1765764610670,"topLevelUrlPattern":"*://www.pcwelt.de/*","urlPattern":"*://*.tuerchen.com/*"}

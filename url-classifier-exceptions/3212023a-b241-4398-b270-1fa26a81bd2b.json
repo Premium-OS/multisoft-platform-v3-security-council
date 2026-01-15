@@ -1,0 +1,1 @@
+{"bugIds":["1950882"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"3212023a-b241-4398-b270-1fa26a81bd2b","last_modified":1762191176555,"schema":1762191170676,"topLevelUrlPattern":"*://aws.amazon.com/*","urlPattern":"*://*.omtrdc.net/*"}

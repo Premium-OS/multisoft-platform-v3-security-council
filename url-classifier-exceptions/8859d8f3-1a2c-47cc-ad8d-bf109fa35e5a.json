@@ -1,0 +1,1 @@
+{"bugIds":["1974211"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"8859d8f3-1a2c-47cc-ad8d-bf109fa35e5a","last_modified":1753458383554,"schema":1753458339223,"topLevelUrlPattern":"*://labile.me/*","urlPattern":"*://api.ipify.org/*"}

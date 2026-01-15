@@ -1,0 +1,1 @@
+{"bugIds":["1969415"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"0295a006-9ab6-4c49-9f28-d315bdac5ae5","last_modified":1753458383618,"schema":1753458353392,"topLevelUrlPattern":"*://stefansundin.github.io/*","urlPattern":"*://ipinfo.io/*"}

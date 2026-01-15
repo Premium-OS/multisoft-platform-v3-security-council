@@ -1,0 +1,1 @@
+{"bugIds":["1985716"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"d4a9891f-0350-495e-bc02-1bad5d283e84","last_modified":1756964145616,"schema":1756964135124,"topLevelUrlPattern":"*://www.meteomedia.com/*","urlPattern":"*://j.theweathernetwork.com/*"}

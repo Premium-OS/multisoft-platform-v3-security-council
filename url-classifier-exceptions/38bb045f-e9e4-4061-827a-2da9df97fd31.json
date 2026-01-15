@@ -1,0 +1,1 @@
+{"bugIds":["2009843"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"38bb045f-e9e4-4061-827a-2da9df97fd31","last_modified":1768356613070,"schema":1768356612399,"topLevelUrlPattern":"*://stardreamcruises.com/*","urlPattern":"*://ipinfo.io/*"}

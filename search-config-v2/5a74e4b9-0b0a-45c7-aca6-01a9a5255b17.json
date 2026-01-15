@@ -1,0 +1,1 @@
+{"base":{"classification":"unknown","name":"MercadoLivre","urls":{"search":{"base":"https://www.mercadolivre.com.br/jm/search","searchTermParamName":"as_word"}}},"id":"5a74e4b9-0b0a-45c7-aca6-01a9a5255b17","identifier":"mercadolivre","last_modified":1702901654243,"recordType":"engine","schema":1702901540235,"variants":[{"environment":{"locales":["pt-BR"]}}]}

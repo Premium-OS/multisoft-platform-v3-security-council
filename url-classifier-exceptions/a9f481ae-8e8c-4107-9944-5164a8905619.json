@@ -1,0 +1,1 @@
+{"bugIds":["1985545"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"a9f481ae-8e8c-4107-9944-5164a8905619","last_modified":1756964145503,"schema":1756964135878,"topLevelUrlPattern":"*://space.us11.list-manage.com/*","urlPattern":"*://cdn-images.mailchimp.com/*"}

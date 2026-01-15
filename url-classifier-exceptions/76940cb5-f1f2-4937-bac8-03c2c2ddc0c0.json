@@ -1,0 +1,1 @@
+{"bugIds":["1968525"],"category":"baseline","classifierFeatures":["tracking-protection","emailtracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"76940cb5-f1f2-4937-bac8-03c2c2ddc0c0","last_modified":1753969463623,"schema":1753969459210,"topLevelUrlPattern":"*://www.saleturbo.com/*","urlPattern":"*://i.ebayimg.com/*"}

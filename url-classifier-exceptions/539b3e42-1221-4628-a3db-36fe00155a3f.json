@@ -1,0 +1,1 @@
+{"bugIds":["1977810"],"category":"baseline","classifierFeatures":["tracking-protection","socialtracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"539b3e42-1221-4628-a3db-36fe00155a3f","last_modified":1753458383465,"schema":1753458318501,"topLevelUrlPattern":"*://www.24vids.com/*","urlPattern":"*://video-s.twimg.com/*"}

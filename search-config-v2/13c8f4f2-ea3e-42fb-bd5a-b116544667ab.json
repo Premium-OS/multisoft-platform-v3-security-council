@@ -1,0 +1,1 @@
+{"base":{"classification":"unknown","name":"Mapy.cz","urls":{"search":{"base":"https://www.mapy.cz/","params":[{"name":"sourceid","value":"Searchmodule_3"}],"searchTermParamName":"q"}}},"id":"13c8f4f2-ea3e-42fb-bd5a-b116544667ab","identifier":"mapy-cz","last_modified":1702901654254,"recordType":"engine","schema":1702901537820,"variants":[{"environment":{"locales":["cs"]}}]}

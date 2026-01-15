@@ -1,0 +1,1 @@
+{"bugIds":["1982788"],"category":"baseline","classifierFeatures":["tracking-protection","emailtracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"6bb0d46d-2fbf-4a7e-9e2c-06b38e3260b9","last_modified":1755481767645,"schema":1755481732162,"topLevelUrlPattern":"*://www.rogers.com/*","urlPattern":"*://js-cdn.dynatrace.com/*"}

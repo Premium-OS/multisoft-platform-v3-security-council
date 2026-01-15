@@ -1,0 +1,1 @@
+{"Domain":"secure.snnow.ca","id":"7ea440a4-d46e-4a9b-a8c4-75f558f11fce","last_modified":1650895201956,"password-rules":"minlength: 7; maxlength: 16; required: digit; allowed: lower, upper;"}

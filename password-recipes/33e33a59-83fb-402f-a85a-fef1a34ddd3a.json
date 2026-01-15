@@ -1,0 +1,1 @@
+{"description":"Bug 1595339: Checking account type=password fields get login suggestions","hosts":["www.dmv.ca.gov"],"id":"33e33a59-83fb-402f-a85a-fef1a34ddd3a","last_modified":1598544380725,"notPasswordSelector":"#bankRoutingNo, #validateBankRoutingNo, #bankAcctNo, #validateBankAcctNo","schema":1598544126230}

@@ -1,0 +1,1 @@
+{"description":"Username field will be incorrectly captured in the change password form (bug 1243722)","hosts":["www.facebook.com"],"id":"6fc115ca-c528-4808-b249-71dfa9c58f3e","last_modified":1598278219616,"notUsernameSelector":"#password_strength","schema":1598195455137}

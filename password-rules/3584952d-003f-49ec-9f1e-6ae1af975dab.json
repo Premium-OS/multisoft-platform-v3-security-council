@@ -1,0 +1,1 @@
+{"Domain":"chase.com","id":"3584952d-003f-49ec-9f1e-6ae1af975dab","last_modified":1624479192081,"password-rules":"minlength: 8; maxlength: 32; max-consecutive: 2; required: lower, upper; required: digit; required: [!#$%+/=@~];"}

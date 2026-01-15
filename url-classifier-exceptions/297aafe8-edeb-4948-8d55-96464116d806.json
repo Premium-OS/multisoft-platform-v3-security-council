@@ -1,0 +1,1 @@
+{"bugIds":["1979027"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"297aafe8-edeb-4948-8d55-96464116d806","last_modified":1763604614608,"schema":1763576321410,"topLevelUrlPattern":"*://www.intherooms.com/*","urlPattern":"*://s0.2mdn.net/*"}

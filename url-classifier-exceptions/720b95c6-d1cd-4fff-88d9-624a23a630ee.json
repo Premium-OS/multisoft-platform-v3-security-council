@@ -1,0 +1,1 @@
+{"bugIds":["1794549","1968450","1909205"],"category":"convenience","classifierFeatures":["tracking-protection","emailtracking-protection"],"filterContentBlockingCategories":[],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"720b95c6-d1cd-4fff-88d9-624a23a630ee","last_modified":1761219774785,"schema":1761216758584,"urlPattern":"*://*.lpsnmedia.net/*"}

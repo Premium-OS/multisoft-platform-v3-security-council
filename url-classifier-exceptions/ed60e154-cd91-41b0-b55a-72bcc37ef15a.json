@@ -1,0 +1,1 @@
+{"bugIds":["2001945"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"ed60e154-cd91-41b0-b55a-72bcc37ef15a","last_modified":1764036610331,"schema":1764017086187,"topLevelUrlPattern":"*://www.edp24.co.uk/*","urlPattern":"*://cdn.viafoura.net/*"}

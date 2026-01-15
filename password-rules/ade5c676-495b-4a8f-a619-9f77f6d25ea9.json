@@ -1,0 +1,1 @@
+{"Domain":"irs.gov","id":"ade5c676-495b-4a8f-a619-9f77f6d25ea9","last_modified":1624479191854,"password-rules":"minlength: 8; maxlength: 32; required: lower; required: upper; required: digit; required: [!#$%&*@];"}

@@ -1,0 +1,1 @@
+{"Domain":"access.service.gov.uk","id":"b296ca7d-16ed-47ba-88fd-53ddc58d6ad4","last_modified":1624479192208,"password-rules":"minlength: 10; required: lower; required: upper; required: digit; required: special;"}

@@ -1,0 +1,1 @@
+{"bugIds":["2002555"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"5ac15b70-92c1-497f-a6c8-3bef2266ede3","last_modified":1764641413705,"schema":1764641413364,"topLevelUrlPattern":"*://open.fm/*","urlPattern":"*://static.criteo.net/*"}

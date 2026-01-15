@@ -1,0 +1,1 @@
+{"Domain":"commerzbank.de","id":"0c5727b4-b4ad-40be-8d93-6b23e3f5b908","last_modified":1624479192052,"password-rules":"minlength: 5; maxlength: 8; required: lower, upper; required: digit;"}

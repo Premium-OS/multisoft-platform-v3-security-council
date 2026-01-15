@@ -1,0 +1,1 @@
+{"attachment":{"filename":"weather-fr.json","hash":"1eaeee3b918e5918c0548f0c5878905db554de0681afd96430f892e04d4fb7ee","location":"main-workspace/quicksuggest-other/f3fb7e9e-30d3-4970-996f-436e48575af8.json","mimetype":"application/json","size":1047},"filter_expression":"env.locale in ['fr']","id":"weather-fr","last_modified":1751005859259,"schema":1751005834642,"type":"weather"}

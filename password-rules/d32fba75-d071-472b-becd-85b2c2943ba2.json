@@ -1,0 +1,1 @@
+{"Domain":"target.com","id":"d32fba75-d071-472b-becd-85b2c2943ba2","last_modified":1624479191627,"password-rules":"minlength: 8; maxlength: 20; required: lower, upper; required: digit, [-!\"#$%&'()*+,./:;=?@[\\^_`{|}~];"}

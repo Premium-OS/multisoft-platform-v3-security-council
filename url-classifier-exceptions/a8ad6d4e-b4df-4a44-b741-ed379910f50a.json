@@ -1,0 +1,1 @@
+{"bugIds":["1967966"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"a8ad6d4e-b4df-4a44-b741-ed379910f50a","last_modified":1753458383449,"schema":1753458357289,"topLevelUrlPattern":"*://as.com/*","urlPattern":"*://*.disqus.com/*"}

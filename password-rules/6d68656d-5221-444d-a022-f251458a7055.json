@@ -1,0 +1,1 @@
+{"Domain":"flysas.com","id":"6d68656d-5221-444d-a022-f251458a7055","last_modified":1650895202111,"password-rules":"minlength: 8; maxlength: 14; required: lower; required: upper; required: digit; required: [-~!@#$%^&_+=`|(){}[:\"'<>,.?]];"}

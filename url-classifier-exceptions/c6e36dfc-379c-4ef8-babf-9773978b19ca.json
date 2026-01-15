@@ -1,0 +1,1 @@
+{"bugIds":["1984326"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"c6e36dfc-379c-4ef8-babf-9773978b19ca","last_modified":1756964145608,"schema":1756964139512,"topLevelUrlPattern":"*://www.wegmans.com/*","urlPattern":"*://edge.adobedc.net/*"}

@@ -1,0 +1,1 @@
+{"Domain":"balduccis.com","id":"d2c9e9e2-8633-4b51-bdf0-499fd6702780","last_modified":1747328500141,"password-rules":"minlength: 8; maxlength: 40; required: upper; required: [!#$%&*@^]; allowed: lower,digit;"}

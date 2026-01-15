@@ -1,0 +1,1 @@
+{"description":"Merrill's benefits website has six type=password fields which is over our threshold for filling (Bug 1538026)","hosts":["www.benefits.ml.com"],"id":"762e9b5d-46f6-4b27-8338-76995f1beda1","last_modified":1598544380728,"passwordSelector":"#SFText_Password","pathRegex":"^\\/login\\/login$","schema":1598544126137,"usernameSelector":"#SFText_UserName"}

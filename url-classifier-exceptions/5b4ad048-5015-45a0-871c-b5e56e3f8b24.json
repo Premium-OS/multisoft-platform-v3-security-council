@@ -1,0 +1,1 @@
+{"bugIds":["2009844"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"5b4ad048-5015-45a0-871c-b5e56e3f8b24","last_modified":1768356613060,"schema":1768222271298,"topLevelUrlPattern":"*://p-d-m.livejournal.com/*","urlPattern":"*://*.foto.my.mail.ru/*"}

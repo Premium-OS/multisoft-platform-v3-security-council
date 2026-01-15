@@ -1,0 +1,1 @@
+{"Domain":"cigna.co.uk","id":"7801f90b-7230-4e44-afcb-631f10e0876b","last_modified":1624479192078,"password-rules":"minlength: 8; maxlength: 12; required: lower; required: upper; required: digit;"}

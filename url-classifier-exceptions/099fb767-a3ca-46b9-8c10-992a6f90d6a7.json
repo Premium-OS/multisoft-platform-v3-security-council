@@ -1,0 +1,1 @@
+{"bugIds":["1914872","1939463","1947186","1975163"],"category":"baseline","classifierFeatures":["tracking-protection"],"filterContentBlockingCategories":[],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"099fb767-a3ca-46b9-8c10-992a6f90d6a7","last_modified":1761073753881,"schema":1761068055864,"urlPattern":"*://a.pub.network/*"}

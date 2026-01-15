@@ -1,0 +1,1 @@
+{"bugIds":["1889634"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"201233cc-6799-4403-ba3f-fe821c6268f1","last_modified":1762191176585,"schema":1762191175083,"topLevelUrlPattern":"*://www.dol.gov/*","urlPattern":"*://*.qualtrics.com/*"}
