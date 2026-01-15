@@ -1,0 +1,1 @@
+{"Domain":"mypay.dfas.mil","id":"3fa42363-af4c-4286-84cf-610e0ac81592","last_modified":1738430651811,"password-rules":"minlength: 9; maxlength: 30; required: lower; required: upper; required: digit; required: [#@$%^!*+=_];"}

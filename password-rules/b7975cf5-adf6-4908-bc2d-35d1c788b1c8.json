@@ -1,0 +1,1 @@
+{"Domain":"salslimo.com","id":"b7975cf5-adf6-4908-bc2d-35d1c788b1c8","last_modified":1738430652175,"password-rules":"minlength: 8; maxlength: 50; required: upper; required: lower; required: digit; required: [!@#$&*];"}

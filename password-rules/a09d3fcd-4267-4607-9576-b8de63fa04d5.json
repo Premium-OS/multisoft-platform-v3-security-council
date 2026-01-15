@@ -1,0 +1,1 @@
+{"Domain":"americanexpress.com","id":"a09d3fcd-4267-4607-9576-b8de63fa04d5","last_modified":1738430652304,"password-rules":"minlength: 8; maxlength: 20; max-consecutive: 4; required: lower, upper; required: digit; allowed: [%&_?#=];"}

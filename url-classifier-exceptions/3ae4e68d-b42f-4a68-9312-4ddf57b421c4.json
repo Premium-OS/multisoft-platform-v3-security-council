@@ -1,0 +1,1 @@
+{"bugIds":["2000600"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"3ae4e68d-b42f-4a68-9312-4ddf57b421c4","last_modified":1763576321211,"schema":1763411206901,"topLevelUrlPattern":"*://kanandraw.neocities.org/*","urlPattern":"*://www5.cbox.ws/*"}

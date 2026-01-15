@@ -1,0 +1,1 @@
+{"bugIds":["1988700"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"0d650df3-2bd1-4502-8c11-e4dabc46a999","last_modified":1760619440694,"schema":1760598867275,"topLevelUrlPattern":"*://www.eftsure.com/*","urlPattern":"*://app-efts01saase6g1tp001.cms.optimizely.com/*"}

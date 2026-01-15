@@ -1,0 +1,1 @@
+{"Domain":"usps.com","id":"f3dbc5e2-9ba1-4f40-b4d7-88868393360b","last_modified":1738430652163,"password-rules":"minlength: 8; maxlength: 50; max-consecutive: 2; required: lower; required: upper; required: digit; allowed: [-!\"#&'()+,./?@];"}

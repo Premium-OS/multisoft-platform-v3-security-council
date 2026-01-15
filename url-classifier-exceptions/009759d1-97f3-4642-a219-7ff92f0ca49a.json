@@ -1,0 +1,1 @@
+{"bugIds":["1985490"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"009759d1-97f3-4642-a219-7ff92f0ca49a","last_modified":1756976639236,"schema":1756964136565,"topLevelUrlPattern":"*://www.muji.us/*","urlPattern":"*://swymstore-v3premium-01.swymrelay.com/*"}

@@ -1,0 +1,1 @@
+{"bugIds":["1964618"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"63e18872-2eab-474e-b918-f9f8a9ec6a8b","last_modified":1753706723315,"schema":1753458369736,"topLevelUrlPattern":"*://global.gartner.com/*","urlPattern":"*://*.t.eloqua.com/*"}

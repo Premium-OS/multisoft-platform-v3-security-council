@@ -1,0 +1,1 @@
+{"Domain":"tdscpc.gov.in","id":"9be7b879-8515-421f-bdb5-6adfdba9165e","last_modified":1738430651791,"password-rules":"minlength: 8; maxlength: 15; required: lower; required: upper; required: digit; required: [ &',;\"];"}

@@ -1,0 +1,1 @@
+{"buckets":{"max":"100","min":"0"},"description":"Use GeckoView web renderer in nightly","id":"cdc93645-8dce-4010-adf1-16e7684437c3","last_modified":1536245524176,"match":{"regions":[],"version":"7\\.[0-9]+(\\.?[0-9])+"},"name":"use-gecko-nightly","schema":1536245466617}

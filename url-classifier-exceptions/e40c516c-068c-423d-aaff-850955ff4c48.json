@@ -1,0 +1,1 @@
+{"bugIds":["1976820"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"e40c516c-068c-423d-aaff-850955ff4c48","last_modified":1753706723231,"schema":1753458326100,"topLevelUrlPattern":"*://www.dr.dk/*","urlPattern":"*://cdn.segment.com/*"}

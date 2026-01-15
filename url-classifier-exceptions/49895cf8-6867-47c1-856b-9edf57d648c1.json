@@ -1,0 +1,1 @@
+{"bugIds":["1969909"],"category":"baseline","classifierFeatures":["tracking-protection","socialtracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"49895cf8-6867-47c1-856b-9edf57d648c1","last_modified":1753706723262,"schema":1753458351411,"topLevelUrlPattern":"*://nabd.com/*","urlPattern":"*://video.twimg.com/*"}

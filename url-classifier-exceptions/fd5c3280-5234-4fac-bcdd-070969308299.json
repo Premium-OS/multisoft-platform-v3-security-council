@@ -1,0 +1,1 @@
+{"bugIds":["1991636"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"fd5c3280-5234-4fac-bcdd-070969308299","last_modified":1759759606379,"schema":1759758990589,"topLevelUrlPattern":"*://pages.greggs.com/*","urlPattern":"*://cdn.braze.com/*"}

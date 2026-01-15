@@ -1,0 +1,1 @@
+{"bugIds":["1950357"],"category":"convenience","classifierFeatures":["tracking-protection","emailtracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"e9fbcdef-825c-4402-b959-55da7b41939b","last_modified":1758111764334,"schema":1758109202707,"topLevelUrlPattern":"*://www.universe.co.jp/*","urlPattern":"*://chirashi.line.me/*"}

@@ -1,0 +1,1 @@
+{"bugIds":["1964687"],"category":"baseline","classifierFeatures":["tracking-protection","emailtracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"e50e5200-3a26-482b-8147-04ba73f7be84","last_modified":1758111764330,"schema":1758109201080,"topLevelUrlPattern":"*://www.repubblica.it/*","urlPattern":"*://static.chartbeat.com/*"}

@@ -1,0 +1,1 @@
+{"bugIds":["1978548"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"5cb8d3b4-bace-483b-8a01-caa0032baa27","last_modified":1753706723102,"schema":1753458309015,"topLevelUrlPattern":"*://www.ripe.net/*","urlPattern":"*://widget-mediator.zopim.com/*"}

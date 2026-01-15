@@ -1,0 +1,1 @@
+{"bugIds":["1988491"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"6f98d2b1-5ac8-43d5-8db6-4b5353adb833","last_modified":1760619440697,"schema":1760598870199,"topLevelUrlPattern":"*://juliet-hammer-llc.kit.com/*","urlPattern":"*://pages.convertkit.com/*"}

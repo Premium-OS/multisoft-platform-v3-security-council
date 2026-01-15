@@ -1,0 +1,1 @@
+{"bugIds":["1986318"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"06671fc6-267b-4aae-a4c3-df1ad224a5c4","last_modified":1756976639168,"schema":1756952139410,"topLevelUrlPattern":"*://www.20minutes.fr/*","urlPattern":"*://cdn.viafoura.net/*"}

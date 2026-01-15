@@ -1,0 +1,1 @@
+{"Domain":"telekom-dienste.de","id":"29fdb549-016e-4041-9353-7cff6bd26cfc","last_modified":1738430652394,"password-rules":"minlength: 8; maxlength: 16; required: lower; required: upper; required: digit; required: [#$%&()*+,./<=>?@_{|}~];"}

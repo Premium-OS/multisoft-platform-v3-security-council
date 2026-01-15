@@ -1,0 +1,1 @@
+{"bugIds":["1934240"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"e6f78aed-cc98-4db0-b4b2-26cfb10f259c","last_modified":1762271408040,"schema":1762191171387,"topLevelUrlPattern":"*://fiddlershop.com/*","urlPattern":"*://*.stamped.io/*"}

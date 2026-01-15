@@ -1,0 +1,1 @@
+{"bugIds":["1921983"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"e7c1d33b-9c4c-4b6f-949b-a3c1e98b78c1","last_modified":1760964214439,"schema":1760962308497,"topLevelUrlPattern":"*://www.hao123.com/*","urlPattern":"*://*.bdstatic.com/*"}

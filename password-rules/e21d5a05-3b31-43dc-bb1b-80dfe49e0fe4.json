@@ -1,0 +1,1 @@
+{"Domain":"appleloan.citizensbank.com","id":"e21d5a05-3b31-43dc-bb1b-80dfe49e0fe4","last_modified":1738430652100,"password-rules":"minlength: 10; maxlength: 20; max-consecutive: 2; required: lower; required: upper; required: digit; required: [!#$%@^_];"}

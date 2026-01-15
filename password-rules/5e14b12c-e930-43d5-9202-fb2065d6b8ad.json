@@ -1,0 +1,1 @@
+{"Domain":"portlandgeneral.com","id":"5e14b12c-e930-43d5-9202-fb2065d6b8ad","last_modified":1738430652524,"password-rules":"minlength: 8; maxlength: 16; required: lower; required: upper; required: digit; allowed: [!#$%&*?@];"}

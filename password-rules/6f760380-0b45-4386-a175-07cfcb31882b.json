@@ -1,0 +1,1 @@
+{"Domain":"hertz.cn","id":"6f760380-0b45-4386-a175-07cfcb31882b","last_modified":1738430651991,"password-rules":"minlength: 8; maxlength: 30; max-consecutive: 3; required: lower; required: upper; required: digit; required: [#$%^&!@];"}

@@ -1,0 +1,1 @@
+{"bugIds":["1907548"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"daaf9fb6-a68a-4449-84cf-23b6785293c6","last_modified":1753706723358,"schema":1753458379566,"topLevelUrlPattern":"*://account.jetbrains.com/*","urlPattern":"*://app-lon02.marketo.com/*"}

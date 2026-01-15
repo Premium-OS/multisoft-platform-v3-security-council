@@ -1,0 +1,1 @@
+{"base":{"classification":"unknown","name":"MercadoLibre Mexico","urls":{"search":{"base":"https://www.mercadolibre.com.mx/jm/search","searchTermParamName":"as_word"}}},"id":"6caa89ff-bdfb-4990-81ca-7f480f56aea5","identifier":"mercadolibre-mx","last_modified":1702906221351,"recordType":"engine","schema":1702901539628,"variants":[{"environment":{"locales":["es-MX"]}}]}

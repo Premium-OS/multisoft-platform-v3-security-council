@@ -1,0 +1,1 @@
+{"bugIds":["1928976"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"f7defbea-b49d-44bd-b6db-328ad8b6d8ae","last_modified":1758111764359,"schema":1758109205124,"topLevelUrlPattern":"*://www.mediaite.com/*","urlPattern":"*://pagead2.googlesyndication.com/*"}

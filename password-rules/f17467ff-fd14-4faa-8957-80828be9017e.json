@@ -1,0 +1,1 @@
+{"Domain":"prestocard.ca","id":"f17467ff-fd14-4faa-8957-80828be9017e","last_modified":1738430652195,"password-rules":"minlength: 8; required: lower; required: upper; required: digit,[!\"#$%&'()*+,<>?@];"}

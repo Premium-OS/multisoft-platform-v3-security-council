@@ -1,0 +1,1 @@
+{"bugIds":["1657355"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"dd43d6e9-9550-44db-9e59-a86e3f65da2d","last_modified":1758111764318,"schema":1758109205888,"topLevelUrlPattern":"*://reddit.premii.com/*","urlPattern":"*://www.reddit.com/*"}

@@ -1,0 +1,1 @@
+{"Domain":"hsbc.com.hk","id":"7cad2e28-8f2d-4ccd-a172-9fada14a88a1","last_modified":1738430652242,"password-rules":"minlength: 6; maxlength: 30; required: lower; required: upper; required: digit; allowed: ['.@_];"}

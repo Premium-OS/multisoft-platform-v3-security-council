@@ -1,0 +1,1 @@
+{"bugIds":["1981492"],"category":"baseline","classifierFeatures":["tracking-protection","emailtracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"45d2ffef-9690-45c3-9096-2feb03582ca6","last_modified":1755515702434,"schema":1755481743130,"topLevelUrlPattern":"*://nvpap.com/*","urlPattern":"*://*.sentry-cdn.com/*"}

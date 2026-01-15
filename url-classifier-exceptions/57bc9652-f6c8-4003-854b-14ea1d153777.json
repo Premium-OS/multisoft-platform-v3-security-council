@@ -1,0 +1,1 @@
+{"bugIds":["2002514"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"57bc9652-f6c8-4003-854b-14ea1d153777","last_modified":1764235083314,"schema":1764209409122,"topLevelUrlPattern":"*://ring.com/*","urlPattern":"*://prod.ringtercom-compatibility-checker.ring.amazon.dev/*"}

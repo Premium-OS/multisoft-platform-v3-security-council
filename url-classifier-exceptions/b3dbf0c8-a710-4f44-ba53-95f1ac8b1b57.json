@@ -1,0 +1,1 @@
+{"bugIds":["1981099"],"category":"baseline","classifierFeatures":["tracking-protection","emailtracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"b3dbf0c8-a710-4f44-ba53-95f1ac8b1b57","last_modified":1755515702470,"schema":1755481747651,"topLevelUrlPattern":"*://junipurrjewelry.com/*","urlPattern":"*://ipinfo.io/*"}

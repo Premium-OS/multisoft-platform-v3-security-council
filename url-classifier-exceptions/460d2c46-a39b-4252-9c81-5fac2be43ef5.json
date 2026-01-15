@@ -1,0 +1,1 @@
+{"bugIds":["1977193"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"460d2c46-a39b-4252-9c81-5fac2be43ef5","last_modified":1753706723217,"schema":1753458322329,"topLevelUrlPattern":"*://en.protothema.gr/*","urlPattern":"*://player.glomex.com/*"}

@@ -1,0 +1,1 @@
+{"bugIds":["1980125"],"category":"baseline","classifierFeatures":["tracking-protection","emailtracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"236ca5e4-7fb0-4076-97ff-6a3e7a4f96c0","last_modified":1755515702400,"schema":1755481756458,"topLevelUrlPattern":"*://twstalker.com/*","urlPattern":"*://*.twimg.com/*"}

@@ -1,0 +1,1 @@
+{"bugIds":["1924760"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"aad2a80d-dba2-41ec-a522-6ad30349d56c","last_modified":1764083112549,"schema":1764036609885,"topLevelUrlPattern":"*://www.megynkelly.com/*","urlPattern":"*://pdst.fm/*"}

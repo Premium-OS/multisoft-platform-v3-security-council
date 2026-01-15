@@ -1,0 +1,1 @@
+{"bugIds":["1978318"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"9432a4cd-ee3f-449a-94e9-bb096f424b92","last_modified":1753706723083,"schema":1753458310956,"topLevelUrlPattern":"*://www.hoopladigital.com/*","urlPattern":"*://marvel-b1-cdn.bc0a.com/*"}

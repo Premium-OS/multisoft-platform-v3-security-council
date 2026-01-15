@@ -1,0 +1,1 @@
+{"bugIds":["1990239"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"0e16f61c-4c8c-4e15-8eb9-8207fa0c0fb5","last_modified":1760619440662,"schema":1760598862856,"topLevelUrlPattern":"*://treblehealth.com/*","urlPattern":"*://ipinfo.io/*"}

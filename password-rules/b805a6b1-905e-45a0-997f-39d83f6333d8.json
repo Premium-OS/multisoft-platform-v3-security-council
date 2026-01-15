@@ -1,0 +1,1 @@
+{"Domain":"hsbc.com.my","id":"b805a6b1-905e-45a0-997f-39d83f6333d8","last_modified":1738430652709,"password-rules":"minlength: 8; maxlength: 30; required: lower, upper; required: digit; allowed: [-!$*.=?@_'];"}
