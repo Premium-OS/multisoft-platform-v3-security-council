@@ -1,0 +1,1 @@
+{"bugIds":["2011194"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"f0ece603-bfd8-40e0-9d6a-4ed56a80b88c","last_modified":1768875010217,"schema":1768388544129,"topLevelUrlPattern":"*://www.gloriousgaming.com/*","urlPattern":"*://*.gorgias.chat/*"}
