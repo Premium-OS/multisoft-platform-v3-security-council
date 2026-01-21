@@ -1,0 +1,1 @@
+{"Domain":"parksmarter.com","id":"4c55854c-85f2-4ba5-b24b-0c4c676cc76c","last_modified":1768496406016,"password-rules":"minlength: 8; maxlength: 50; required: upper; required: digit; required: [!@#$%^&]; allowed: lower;"}
