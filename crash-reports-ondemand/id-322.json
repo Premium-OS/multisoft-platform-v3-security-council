@@ -1,1 +1,1 @@
-{"description":"main (Mac nightly): mozilla::net::nsSocketTransportService::AttachSocket","hashes":["2692080ee71e458dd5a02af2b49582e73013c046f1d02e7595a94f2cf5f9888f","02683d62bcbc7c69881cded5eceeab515f8766780ebb887fe10bd71005d97cae"],"id":"id-322","last_modified":1768465844345,"schema":1768465830127}
+{"description":"socket (Windows nightly): OOM | small","hashes":["bceb99ab02c82abd84dc269d52847e8bd5fc142eda793bfc277150dd5ddfe1dd"],"id":"id-322","last_modified":1768898444316,"schema":1768898430398}
