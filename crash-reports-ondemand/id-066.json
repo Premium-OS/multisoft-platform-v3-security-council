@@ -1,1 +1,1 @@
-{"description":"gpu (Android beta): libsrv_um.so","hashes":["54cf4f2a0cb9229a9d28d29399989a19bc5985cf4c51be0d904060433e280c0a","49790986c5af885ebc429c18da72b4ba0ea4d0a57219a2c2c376a4d2da424a20"],"id":"id-066","last_modified":1768898444414,"schema":1768898412658}
+{"description":"content (Android beta): <.plt ELF section in libxul.so> | mozilla::MozPromise<T>::ThenValueBase::ResolveOrRejectRunnable::~ResolveOrRejectRunnable","hashes":["5aabdcc9088bb32288fe227fdcdc6d5aa634d16951e95cb1ca12e89f20177c45"],"id":"id-066","last_modified":1769071247321,"schema":1769071216436}
