@@ -1,1 +1,1 @@
-{"description":"content (Linux nightly): mozilla::StyleOwnedSlice<T>::AsSpan","hashes":["29ceebdf4914a013d283b492293e67e62a6e309daaf94b6bccaf594de87f41eb"],"id":"id-478","last_modified":1768898445704,"schema":1768898440949}
+{"description":"utility (Windows beta): mozilla::ipc::UtilityMediaServiceParent::RecvUpdateVar","hashes":["4afdf19662a9f2a4551d0a902b09e3feca851aeec43f1bcfe63085564d9e8180","2320846fa98d827f04c4a68fb3e8993a6c27e8aef1837113b4258910de5fd257"],"id":"id-478","last_modified":1769071248552,"schema":1769071243921}
