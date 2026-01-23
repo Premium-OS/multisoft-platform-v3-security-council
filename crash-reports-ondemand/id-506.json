@@ -1,1 +1,1 @@
-{"description":"utility (Mac release): mozilla::AlignedBuffer<T>::AlignedBuffer","hashes":["f3ed3d26bef858317538f8f01209d34e1c7fd425db9701a737217dbd7aa408e7"],"id":"id-506","last_modified":1769071248930,"schema":1769071245647}
+{"description":"utility (Windows beta): mozilla::ipc::UtilityProcessImpl::LoadLibraryOrCrash","hashes":["9339dfee21e13b5d800bd199798f4b9761ce4455c92b70b175bd851c82e35deb","e6ed36133bb7578c17d01220f8f79bf93af3597eea4c1edd76df0f906529610d"],"id":"id-506","last_modified":1769157648704,"schema":1769157644630}
