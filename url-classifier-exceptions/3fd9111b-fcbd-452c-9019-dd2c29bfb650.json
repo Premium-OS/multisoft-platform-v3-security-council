@@ -1,0 +1,1 @@
+{"bugIds":["2011822"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"3fd9111b-fcbd-452c-9019-dd2c29bfb650","last_modified":1769134210328,"schema":1769040007824,"topLevelUrlPattern":"*://www.united.com/*","urlPattern":"*://api.ipify.org/*"}
