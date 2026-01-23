@@ -1,1 +1,1 @@
-{"description":"gmplugin (Windows beta): widevinecdm.dll | mozilla::WidevineFileIO::ReadComplete","hashes":["51fee193ce81c0553bd92a8230781be7bfa76715d0d92d143ef075889c37cc2f"],"id":"id-128","last_modified":1769071247736,"schema":1769071220869}
+{"description":"gmplugin (Windows nightly): mozilla::gmp::GMPChild::ProcessingError","hashes":["36b3894f50c0b4902e46d44e4c3a08155e4b826c66c21121c3f93977a552dd45"],"id":"id-128","last_modified":1769157647359,"schema":1769157620324}
