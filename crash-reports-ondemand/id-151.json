@@ -1,1 +1,1 @@
-{"description":"gmplugin (Linux nightly): mozilla::ChromiumCDMAdapter::GMPInit","hashes":["e2845a3bdc84ca4eaf6924e8761d615d215be203493e97f77c8b9c467f17c576"],"id":"id-151","last_modified":1769157648036,"schema":1769157621825}
+{"description":"gmplugin (Windows beta): widevinecdm.dll | mozilla::WidevineFileIO::ReadComplete","hashes":["51fee193ce81c0553bd92a8230781be7bfa76715d0d92d143ef075889c37cc2f","a2e6ea80b1992622eb2e8c8c65389b002cc63992e9de6853c54e12b014340119"],"id":"id-151","last_modified":1769244040448,"schema":1769244017089}

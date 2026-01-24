@@ -1,1 +1,1 @@
-{"description":"utility (Windows beta): RtlpReAllocateHeapInternal | RtlReAllocateHeap | SogouTSF.ime","hashes":["4d853b1aeccdf65dc5af857b4850cac9a6acb4b3239aebff339b27977923baf7"],"id":"id-519","last_modified":1769157649715,"schema":1769157645411}
+{"description":"utility (Windows nightly): Microsoft::WRL::ComPtr<T>::InternalRelease","hashes":["1d721207447c0b764d46aa953e59e3665a8a72f6a298fc29d503473c4a87b9bc"],"id":"id-519","last_modified":1769244041170,"schema":1769244037916}
