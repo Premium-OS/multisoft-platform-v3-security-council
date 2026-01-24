@@ -1,1 +1,1 @@
-{"description":"utility (Windows nightly): @0x1e26bf59480","hashes":["526939fe8201fd7240eec5f4b9646634456f3332ebdf95c753d875ad93b4b587"],"id":"id-505","last_modified":1769157646843,"schema":1769157644576}
+{"description":"utility (Mac release): arena_t::MallocSmall | arena_t::Malloc | BaseAllocator::calloc | MozJemalloc::calloc | PageCalloc","hashes":["74a10326b524bc294456f84e9ef5fdac00002aa0e75d434628f041bc03d913be"],"id":"id-505","last_modified":1769244039375,"schema":1769244037061}
