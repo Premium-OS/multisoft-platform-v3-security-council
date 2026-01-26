@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): core::result::unwrap_failed | webrender::renderer::upload::copy_into_staging_buffer","hashes":["e73817890faf72cea3166966a11eaab344fad982d8b7ae635f193b165c22e49a"],"id":"id-232","last_modified":1769244039599,"schema":1769244021412}
+{"description":"gpu (Mac beta): mozilla::layers::NativeLayerMacSurfaceHandler::NextSurface","hashes":["151ad13d810e388c4e80c982506ed113ab153af081325a0dffbf2c988c2c4699"],"id":"id-232","last_modified":1769416242490,"schema":1769416222230}

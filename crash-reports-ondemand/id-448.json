@@ -1,1 +1,1 @@
-{"description":"socket (Windows nightly): nsThreadPool::PutEvent","hashes":["048225887430bb237fa1f2b0a35d77499aaf483910254cf05072b149721c3ae8"],"id":"id-448","last_modified":1769244038891,"schema":1769244033225}
+{"description":"socket (Linux release): abort | nr_transport_addr_is_loopback","hashes":["013551f5eaf0c64b1eaeba32e0900f2d546a78d0b9d8c0cd9317821e33d6c68b"],"id":"id-448","last_modified":1769416241808,"schema":1769416236176}
