@@ -1,1 +1,1 @@
-{"description":"content (Android nightly): libc.so | arena_t::Ralloc | BaseAllocator::realloc | MozJemalloc::moz_arena_realloc","hashes":["e9ddf4f321db3781a2c8564797a7d34f868e604d6f8f61003556cd87d8c3502b","1bd840a8e8886c15a0b1fd39b01bba519bca9e8bc9550141143e1d53c10f1999"],"id":"id-057","last_modified":1769416241714,"schema":1769416212717}
+{"description":"content (Android nightly): AllocInfo::GetInChunk","hashes":["3876b25951a09391e748d177322b871c9144a027bd13d8f85ecc363681135822"],"id":"id-057","last_modified":1769503844448,"schema":1769503816979}
