@@ -1,1 +1,1 @@
-{"description":"gpu (Android beta): libsrv_um.so","hashes":["936d902a178d3f53b85234a0ddaf0f0ad64b47ef22b7e88e49b2979e41f91191"],"id":"id-232","last_modified":1769503846955,"schema":1769503826826}
+{"description":"gpu (Android beta): libc.so | libGLES_mali.so","hashes":["0b11ff89384250c0746f02288f6bd703c0676a8472712f7a50ab650d96833efd","a27a43f12d27d34879639efccc7f90d57c224204bd751e2ba7694ffb8550c1e9"],"id":"id-232","last_modified":1769590247778,"schema":1769590226158}
