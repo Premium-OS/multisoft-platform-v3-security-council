@@ -1,1 +1,1 @@
-{"description":"gpu (Android beta): libc.so | libGLES_mali.so","hashes":["0b11ff89384250c0746f02288f6bd703c0676a8472712f7a50ab650d96833efd","a27a43f12d27d34879639efccc7f90d57c224204bd751e2ba7694ffb8550c1e9"],"id":"id-232","last_modified":1769590247778,"schema":1769590226158}
+{"description":"gpu (Android nightly): libc.so | nsThread::DispatchDirectTask","hashes":["5d66302d6aa8d0edd80520c1a9d2eee99084eaf31ebd5ef37e83bb6e45e56892"],"id":"id-232","last_modified":1769676652134,"schema":1769676628370}
