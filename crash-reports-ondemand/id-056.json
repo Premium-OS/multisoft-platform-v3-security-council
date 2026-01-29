@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): mozilla::detail::InvalidArrayIndex_CRASH | mozilla::Vector<T>::operator[] | ProfileBuffer::MaybeStreamExecutionTraceToJSON<T>","hashes":["1907c509ef9311c42c963f210e73baae3935c2d5f25b9fd5921672c811e036af"],"id":"id-056","last_modified":1769590246080,"schema":1769590215011}
+{"description":"content (Linux nightly): js::frontend::BytecodeEmitter::emitGetFunctionThis","hashes":["ec6e839d3edd6232f9ee040cd97fb5305465742dd17da9c5282fd3e618b20022"],"id":"id-056","last_modified":1769676649972,"schema":1769676616304}
