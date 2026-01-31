@@ -1,1 +1,1 @@
-{"description":"utility (Windows nightly): @0x11bae6de430","hashes":["4e404d32156782461b23bac191af046d1d505aa8e8397167607d423529b1d7c5"],"id":"id-498","last_modified":1769676652152,"schema":1769676645925}
+{"description":"content (Android nightly): mozilla::Variant<T>::as<T> | mozilla::Variant<T>::~Variant | js::LiveSavedFrameCache::FramePtr::~FramePtr","hashes":["a66c3c99599781eff6f1bbdbdd731df30c0d93ccc5f546d81819ef59468d8741"],"id":"id-498","last_modified":1769849451622,"schema":1769849446007}

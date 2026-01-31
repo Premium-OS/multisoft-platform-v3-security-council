@@ -1,1 +1,1 @@
-{"description":"gpu (Mac nightly): <wgpu_core::device::queue::Queue as core::ops::drop::Drop>::drop","hashes":["5138eadb5965f537c8c3fc2d402311825490b32aa8fd8248d8d43f2fa9d93f64"],"id":"id-253","last_modified":1769676652017,"schema":1769676629778}
+{"description":"socket (Mac release): libdispatch.dylib","hashes":["5691d627736ddfc1941089a5aaeaa4f28d194aa6cb126265802e541bfc668a04"],"id":"id-253","last_modified":1769849451506,"schema":1769849429798}
