@@ -1,1 +1,1 @@
-{"description":"content (Linux nightly): js::SetCompartmentHasMarkedCells<T>","hashes":["3bc48bfe3fd2d72cb9dec4760a8440d09f5e4af6be0569990d97771da54661f7"],"id":"id-021","last_modified":1769849450091,"schema":1769849413691}
+{"description":"content (Windows nightly): IPCError-content | RecvConstructBrowser BrowserChild::Init failed (rv=NS_ERROR_UNEXPECTED)","hashes":["f9401a07dffa222bc53353bb29920553b38ca1632d353b533293294a0f06323a","142ccbd68c03871a536ea8f24b097c09e5dc6211724dc7068be5feb7b8d0b5fa"],"id":"id-021","last_modified":1769935243015,"schema":1769935210014}
