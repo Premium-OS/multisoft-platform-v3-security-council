@@ -1,1 +1,1 @@
-{"description":"content (Android nightly): arena_chunk_t::arena_chunk_t | arena_t::InitChunk | arena_t::AllocRun | arena_t::MallocLarge | arena_t::Malloc | BaseAllocator::malloc | MozJemalloc::moz_arena_malloc","hashes":["134a1f53719844e7313e1f35a446847bbbc15a8f01cc24a814f01be410edc240"],"id":"id-465","last_modified":1769849451238,"schema":1769849443874}
+{"description":"socket (Mac release): sftk_DestroySessionObjectData","hashes":["891b3615f8f863def71e058bd8f1513bc308efb47335fb357a47e290fcacad73"],"id":"id-465","last_modified":1769935244467,"schema":1769935236924}
