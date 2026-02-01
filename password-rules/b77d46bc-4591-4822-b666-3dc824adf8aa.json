@@ -1,0 +1,1 @@
+{"Domain":"consular.mfa.gov.cn","id":"b77d46bc-4591-4822-b666-3dc824adf8aa","last_modified":1769965208030,"password-rules":"minlength: 9; maxlength: 16; required: digit; required: [!@#$^*]; allowed: lower, upper;"}
