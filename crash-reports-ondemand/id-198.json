@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): libc.so | libufwriter.so","hashes":["15d7bcf6ac30ba27bffcf75a6f350b78e0ee4ee7a3199509e9e438491f7d332a","501e551e8dcf5c3ca324703fe4ff6093fa91987c397dcd9d6a0f036e0b649b7b"],"id":"id-198","last_modified":1769935241584,"schema":1769935219681}
+{"description":"gpu (Android nightly): libGLES_mali.so","hashes":["990978409d9ab0643b8f49809759a4ec2361b043bc05aabb3938d67798d1676e","5276f18e76f669b7ad00c9f03ee2c0a80f8ca81dfc1a246156e7734cc23da52f"],"id":"id-198","last_modified":1770028244472,"schema":1770028223298}

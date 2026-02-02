@@ -1,1 +1,1 @@
-{"description":"gmplugin (Windows beta): @0xffffffffffffffff","hashes":["62b70f83b821e21da5583775a367c3fcabf4a738e4768c1867ccf2e00bd86e49"],"id":"id-135","last_modified":1769935241835,"schema":1769935216172}
+{"description":"gmplugin (Windows nightly): widevinecdm.dll | mozilla::gmp::ChromiumCDMChild::RecvDecryptAndDecodeFrame","hashes":["8fc935d77886900cc3069cdd98b4f741839d4c78a2505b8e532f2a00c53dfdfd"],"id":"id-135","last_modified":1770028244683,"schema":1770028219655}
