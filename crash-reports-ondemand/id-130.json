@@ -1,1 +1,1 @@
-{"description":"gmplugin (Mac release): dyld","hashes":["a7f2cf40a21d3ca3d43b35f7cdd0bdf2365df6fadcd18e97b435e57e658fcc51"],"id":"id-130","last_modified":1770028245689,"schema":1770028219394}
+{"description":"gmplugin (Windows nightly): widevinecdm.dll | mozilla::gmp::ChromiumCDMChild::RecvDecryptAndDecodeFrame","hashes":["8fc935d77886900cc3069cdd98b4f741839d4c78a2505b8e532f2a00c53dfdfd"],"id":"id-130","last_modified":1770108651034,"schema":1770108625638}
