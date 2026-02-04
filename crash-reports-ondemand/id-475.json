@@ -1,1 +1,1 @@
-{"description":"utility (Windows beta): @0x77e991e0","hashes":["48ddaa56f66bb6ea8bb1a19237ac48e68e07f36b9f3a24e268be25070bbb0d88","4a218abe1b79bf39c6b70cc28b5ae13949e35b8b1f85353f3a1d20d29977220b"],"id":"id-475","last_modified":1770108651477,"schema":1770108646614}
+{"description":"socket (Windows nightly): RtlpWakeSRWLock | LdrpFindLoadedDllByHandle","hashes":["067c3b8891a03c1d21ebf0e52f56ec8ba03409d5e37b81b559d1fa38e4298ced"],"id":"id-475","last_modified":1770194444707,"schema":1770194439401}
