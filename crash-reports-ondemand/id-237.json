@@ -1,1 +1,1 @@
-{"description":"gpu (Mac beta): mozilla::layers::CanvasTranslator::SetDataSurfaceBuffer","hashes":["36fdf5b4ebbdc6a0e3398a289436c1f29522566c91a2fafa2d53c46a82338d12"],"id":"id-237","last_modified":1770108650842,"schema":1770108631699}
+{"description":"gpu (Mac beta): mozilla::layers::NativeLayerMacSurfaceHandler::NextSurface","hashes":["30b9b5e6b2279598b8bfe176c179ec9308b2076a1b01b406ccd016e116f54e7f"],"id":"id-237","last_modified":1770194443866,"schema":1770194425261}
