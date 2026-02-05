@@ -1,1 +1,1 @@
-{"description":"content (Android nightly): libc.so | arena_t::Ralloc | BaseAllocator::realloc | MozJemalloc::moz_arena_realloc","hashes":["d2a61dfbea5d29487de8411b2eb183a59d7f1ece42b8ebeca526ed4193bf9de3"],"id":"id-461","last_modified":1770194443821,"schema":1770194438483}
+{"description":"utility (Mac release): CoreAnalytics::Client::updateDaemonState","hashes":["c434d5f4ae102319b750105772bd39c806a81be8fe116d3f8958f062dd5e49f1"],"id":"id-461","last_modified":1770281442917,"schema":1770281438088}
