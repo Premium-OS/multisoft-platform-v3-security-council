@@ -1,1 +1,1 @@
-{"description":"content (Linux nightly): core::str::slice_error_fail_rt | core::str::slice_error_fail | core::str::traits::<T>::index","hashes":["8801aeac6a41d4adb9de99a7829a0e7484ae415e28c6269691ebf6f8610a5a80","c7e22726ee5594f0a58513c87245ed3b66367f081efd3bd6b02c27cd7d07b1fb"],"id":"id-439","last_modified":1770281445007,"schema":1770281436748}
+{"description":"main (Mac beta): CallQueryInterface<T>","hashes":["ed789484a3b2b7bbca027e629d8eb66815daaf7618dfe3b958740e972b2a2c64"],"id":"id-439","last_modified":1770367846944,"schema":1770367839061}
