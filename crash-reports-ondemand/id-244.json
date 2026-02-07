@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): mozilla::Maybe<T>::emplace<T> | mozilla::wr::RendererOGL::RequestScreenPixels","hashes":["be2cc8a03dcff3e252bb44a26e8ae011a6032f97b5b9c4f64ea559cb253e5387","37bbbe04fbbf8b0b461e34415259eefc349363b827555d8125febfe6f45caab1"],"id":"id-244","last_modified":1770367846685,"schema":1770367827801}
+{"description":"gpu (Android beta): libc.so | libufwriter.so","hashes":["27b625b5bb5954d85811d3f72f4df242d4e5ce5d0965bee090367eaae54def74"],"id":"id-244","last_modified":1770454251602,"schema":1770454231122}
