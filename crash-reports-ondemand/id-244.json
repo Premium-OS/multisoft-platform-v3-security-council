@@ -1,1 +1,1 @@
-{"description":"gpu (Android beta): libc.so | libufwriter.so","hashes":["27b625b5bb5954d85811d3f72f4df242d4e5ce5d0965bee090367eaae54def74"],"id":"id-244","last_modified":1770454251602,"schema":1770454231122}
+{"description":"gpu (Linux nightly): wgpu_core::storage::Storage<T>::get","hashes":["49ef230b154b1c0beac973fb9a6762f1cdada3e10cb068279506a4100b653f30"],"id":"id-244","last_modified":1770539445718,"schema":1770539425776}

@@ -1,1 +1,1 @@
-{"description":"gpu (Android beta): vulkan.samsung.so","hashes":["325b38bc8adf25fdb87addc41f7d213e5514707b4e71dc3ce0cde5f208a7d4d7"],"id":"id-198","last_modified":1770454250970,"schema":1770454227933}
+{"description":"gpu (Linux nightly): wgpu_hal::vulkan::get_unexpected_err","hashes":["d8d7c879a555f6c44d0a8d31b4fc293d2893495ee92186af2e1eb1edb569b070"],"id":"id-198","last_modified":1770539445125,"schema":1770539423052}
