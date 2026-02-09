@@ -1,1 +1,1 @@
-{"description":"gpu (Mac nightly): mozilla::gfx::GPUParent::RecvCrashProcess","hashes":["8da23e105b849c243d1828defcaaf0eff42acf6cbfa86e78fc6f89ffc1f6723b"],"id":"id-248","last_modified":1770539443292,"schema":1770539426017}
+{"description":"gpu (Linux nightly): wgpu_core::storage::Storage<T>::get","hashes":["49ef230b154b1c0beac973fb9a6762f1cdada3e10cb068279506a4100b653f30"],"id":"id-248","last_modified":1770626443723,"schema":1770626426297}
