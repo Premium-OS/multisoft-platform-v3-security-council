@@ -1,1 +1,1 @@
-{"description":"main (Mac beta): objc_msgSend | _dispatch_call_block_and_release","hashes":["3270a85a4b8a40dfa187dea234b68d75404b0da9676c88a116b8eead69d4c85e"],"id":"id-364","last_modified":1770539446278,"schema":1770539433101}
+{"description":"main (Mac nightly): mozilla::gfx::GPUProcessManager::MaybeCrashIfGpuProcessOnceStable","hashes":["5ba0c6939bc73d4f49de292c71e39211c9e9105847d438629df4e1c0c9db467e","30181734ad4f9df2bd397f648ed4a245bb09449e28287e75fbd2244f06f8f042"],"id":"id-364","last_modified":1770626446606,"schema":1770626433157}

@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): libc.so | webrender::device::gl::Device::compile_shader","hashes":["a892752eab7d94b79cf4deaed5ffa893bba9b48fec1662f4416660772c216529","788598c97e430de5fc1867037bc5422cc53c5ed2e91e0e1b2f7db0d23b8f1e91"],"id":"id-237","last_modified":1770539445078,"schema":1770539425372}
+{"description":"gpu (Mac nightly): mozilla::gfx::GPUParent::RecvCrashProcess","hashes":["bad2be4fb126a9c8c8d60b68239eb0a27e083699bc6abf80c2b48b466181eb3c"],"id":"id-237","last_modified":1770626445443,"schema":1770626425644}
