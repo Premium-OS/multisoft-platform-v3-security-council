@@ -1,1 +1,1 @@
-{"description":"gpu (Mac nightly): mozilla::gfx::GPUParent::RecvCrashProcess","hashes":["bad2be4fb126a9c8c8d60b68239eb0a27e083699bc6abf80c2b48b466181eb3c"],"id":"id-237","last_modified":1770626445443,"schema":1770626425644}
+{"description":"gpu (Linux nightly): abort | libgallium-25.3.4 - kisak-mesa PPA.so","hashes":["91ad95bae98f6b9b446ae6905ec70c1f829134616b103d943547efa95818c75d"],"id":"id-237","last_modified":1770799851804,"schema":1770799831839}
