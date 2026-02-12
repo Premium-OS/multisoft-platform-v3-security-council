@@ -1,1 +1,1 @@
-{"description":"content (Linux nightly): servo_arc::Arc<T>::is_static","hashes":["54aa84a212064f2e886eeb7e7f7bf3a2a8092135bcb7a83d8924dd2eb1a08c9c","4a28e30f48a26c77e13b7b8144426484e51125a0d5e806ecdc3d84c84e6630b9"],"id":"id-108","last_modified":1770799850137,"schema":1770799824214}
+{"description":"content (Linux nightly): js::gc::Arena::zone","hashes":["03408b8ac58a2f1f49f041dea26164fa5fcbab88c93d98bf654fd2d695f8d4bf","be7862294b30595e6ec6c8d376c4de7b3ca07f88fe994e1403eeeda0fa21c714"],"id":"id-108","last_modified":1770886242407,"schema":1770886217165}
