@@ -1,1 +1,1 @@
-{"description":"gpu (Mac beta): os_unfair_lock_lock_with_options","hashes":["25a8686c0a56d69160ec3b55291562f26a0629c3c079983b302ac3d190c37233"],"id":"id-192","last_modified":1770799851688,"schema":1770799829189}
+{"description":"gpu (Mac nightly): <wgpu_core::device::queue::Queue as core::ops::drop::Drop>::drop","hashes":["3001d53eea1ef5eeb6a2b2601cd3c02c68228bf8073c3930b832f27eadfd7052"],"id":"id-192","last_modified":1770886243920,"schema":1770886221920}

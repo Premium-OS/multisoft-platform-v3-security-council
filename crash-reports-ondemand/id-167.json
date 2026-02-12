@@ -1,1 +1,1 @@
-{"description":"gpu (Linux release): mozilla::layers::AsyncPanZoomController::RequestContentRepaint","hashes":["87d1babb15652e56cb68d7aad4e1970d100f0e0aebe922ba5366f663f5d0ca88"],"id":"id-167","last_modified":1770799853038,"schema":1770799827681}
+{"description":"gpu (Mac nightly): core::option::expect_failed | webrender::scene_building::SceneBuilder::build_all","hashes":["60e946e696d72729380db7f7ff5a1030caa99036012f28ec0c5e310cf5c819b3"],"id":"id-167","last_modified":1770886245354,"schema":1770886220501}
