@@ -1,1 +1,1 @@
-{"description":"rdd (Windows beta): av_freep | vp9_tile_data_free | free_buffers | vp9_decode_free | ff_frame_thread_free | ff_codec_close","hashes":["41eb97c679c822a21658ac24ffba81e9d890f3a6736897e68260e61c2009348c"],"id":"id-436","last_modified":1770886242621,"schema":1770886236106}
+{"description":"rdd (Windows beta): CDevice::SetMultithreadProtected","hashes":["24c0db40c239d846b74ac6e056c144d5cfb148846fad153571dad851c869df73"],"id":"id-436","last_modified":1770972641543,"schema":1770972635509}

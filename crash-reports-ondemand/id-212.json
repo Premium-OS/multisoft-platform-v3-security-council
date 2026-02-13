@@ -1,1 +1,1 @@
-{"description":"gpu (Mac beta): <webrender::compositor::sw_compositor::SwCompositor as webrender::composite::Compositor>::bind","hashes":["92c1566cc694497e4effc0fcbc1c6006d537ef75492171c29021471e95c2e897"],"id":"id-212","last_modified":1770886243038,"schema":1770886223073}
+{"description":"gpu (Linux nightly): mozilla::webgpu::WebGPUParent::MapCallback","hashes":["e5ae9512661e3aacdbea40f24941a58546c2bb59f66e3865e62804f68c07a276"],"id":"id-212","last_modified":1770972641950,"schema":1770972623571}
