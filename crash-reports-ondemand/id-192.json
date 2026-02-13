@@ -1,1 +1,1 @@
-{"description":"gpu (Mac nightly): <wgpu_core::device::queue::Queue as core::ops::drop::Drop>::drop","hashes":["3001d53eea1ef5eeb6a2b2601cd3c02c68228bf8073c3930b832f27eadfd7052"],"id":"id-192","last_modified":1770886243920,"schema":1770886221920}
+{"description":"gpu (Linux nightly): wgpu_hal::vulkan::get_unexpected_err","hashes":["03a3f9fb56931183ab59f08cb714d1101316db6a1b3c99965407d29ee354fd5a"],"id":"id-192","last_modified":1770972642884,"schema":1770972622490}
