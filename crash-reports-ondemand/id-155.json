@@ -1,1 +1,1 @@
-{"description":"gmplugin (Linux release): elf_dynamic_do_Rela","hashes":["36c01cb135d2a3b322cac39e32fa6b862f37c4978dfc2e3cbf126d30fe688379","00c2d550082d356b3c4fd881a4d4b3f9e603b2e27e2146882a66ae2a0fb57634"],"id":"id-155","last_modified":1770972641940,"schema":1770972620504}
+{"description":"gmplugin (Linux release): <.plt ELF section in libxul.so> | mozilla::gmp::PChromiumCDMChild::OnMessageReceived","hashes":["c951621a1fd78d86b5fdf8db61291779a6b1fdbf9ae480d34c63d9082766fceb"],"id":"id-155","last_modified":1771059044639,"schema":1771059023832}

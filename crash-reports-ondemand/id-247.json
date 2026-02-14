@@ -1,1 +1,1 @@
-{"description":"gpu (Linux release): mozilla::layers::AsyncPanZoomController::RequestContentRepaint","hashes":["87d1babb15652e56cb68d7aad4e1970d100f0e0aebe922ba5366f663f5d0ca88"],"id":"id-247","last_modified":1770972641511,"schema":1770972625370}
+{"description":"gpu (Linux nightly): mozilla::webgpu::WebGPUParent::MapCallback","hashes":["e5ae9512661e3aacdbea40f24941a58546c2bb59f66e3865e62804f68c07a276"],"id":"id-247","last_modified":1771059044251,"schema":1771059028600}
