@@ -1,1 +1,1 @@
-{"description":"rdd (Windows nightly): RtlpAllocateHeap | RtlpAllocateHeapInternal | RtlpAllocateUserBlockFromHeap | RtlpAllocateUserBlock | RtlpLowFragHeapAllocFromContext | RtlpAllocateHeapInternal | malloc | new","hashes":["8d23fa91dd2b9574b8f7992354375fcee0bafd1478419a2819714f9e000f0df7"],"id":"id-416","last_modified":1771059045629,"schema":1771059037569}
+{"description":"rdd (Windows beta): dav1d_prep_8tap_8bpc_ssse3","hashes":["597546e92637311ad6ceabf478dbb6e5494e9796b1f4b257479f46ef837bc88a"],"id":"id-416","last_modified":1771144853908,"schema":1771144846109}

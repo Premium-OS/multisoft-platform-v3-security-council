@@ -1,1 +1,1 @@
-{"description":"gpu (Android beta): libc.so | libGLES_mali.so","hashes":["1bbcb4d60e41064860fc3b2542662ffb10f4f2764da70a37c05585c369ebbe1b","b059ea64201d4a538020913f2a6c37c930f9b3be4c403a49d91408fc7a0eff21","7b89658f98ed4000b77524e4e7b8c9ffe7fd6cca2e688ee9f91758f8ce2b6527"],"id":"id-210","last_modified":1771059046526,"schema":1771059026659}
+{"description":"gpu (Mac beta): mozilla::layers::NativeLayerMacSurfaceHandler::NextSurface","hashes":["1183711622b9960c4e1b3d8ef78af8e061318e18f5d36fdd9a564e9270d6cb14"],"id":"id-210","last_modified":1771144854902,"schema":1771144835294}

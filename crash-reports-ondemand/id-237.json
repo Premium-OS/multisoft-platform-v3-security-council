@@ -1,1 +1,1 @@
-{"description":"gpu (Android beta): egl","hashes":["f7c2034afcfba1f0ba7fb6fa2557355b6ebad64e1d769361f2b347e60a4aace5"],"id":"id-237","last_modified":1771059045334,"schema":1771059028065}
+{"description":"gpu (Mac nightly): arena_t::Purge | arena_t::PurgeLoop | arena_t::MayDoOrQueuePurge | arena_dalloc | BaseAllocator::free | MozJemalloc::free | PageFree","hashes":["273521f7d592ed1cddcda0b7bf6ceadceed06e646dde0ec16ff45000dec4676c"],"id":"id-237","last_modified":1771144853654,"schema":1771144836700}

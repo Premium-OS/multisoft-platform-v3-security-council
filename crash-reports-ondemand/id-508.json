@@ -1,1 +1,1 @@
-{"description":"utility (Windows nightly): RtlpWaitOnCriticalSection | RtlpEnterCriticalSectionContended","hashes":["129acd20a0ce73c80f2ae12192b1eb820c98ad3dc0818ae4ce9b12395bd2cd8b"],"id":"id-508","last_modified":1771059046237,"schema":1771059042416}
+{"description":"utility (Windows nightly): RtlReportFatalFailure","hashes":["d52873a8719bf9fc04b3182d0edf30a13aa76327a69b23782e331786e00f3051","ec5087ae99bd1ffcfe38c303a912551003d7233843f5a806ab7cf51f412cf5cc"],"id":"id-508","last_modified":1771144854585,"schema":1771144850871}
