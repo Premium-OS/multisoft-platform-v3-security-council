@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): libc.so | libGLESv2_powervr.so","hashes":["133bec0aecd1415cb1e47869d9d434cb2c4d0351d6ae46b363cd6b352d03e637","e8d007accfdb8c1d4027323250573d2c3bd95f622fac3ca127b02a7b43a3a8c1"],"id":"id-235","last_modified":1771059043880,"schema":1771059027963}
+{"description":"gpu (Android beta): libc.so | libufwriter.so","hashes":["c68e844dfc2e252e186a2b11ce983eedd80aacbc15d6eb69388320853e077c87"],"id":"id-235","last_modified":1771144852118,"schema":1771144836598}

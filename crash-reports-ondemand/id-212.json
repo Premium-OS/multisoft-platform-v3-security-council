@@ -1,1 +1,1 @@
-{"description":"gpu (Mac nightly): arena_t::Purge | arena_t::PurgeLoop | arena_t::MayDoOrQueuePurge | arena_dalloc | BaseAllocator::free | MozJemalloc::free | PageFree","hashes":["273521f7d592ed1cddcda0b7bf6ceadceed06e646dde0ec16ff45000dec4676c"],"id":"id-212","last_modified":1771059044646,"schema":1771059026762}
+{"description":"gpu (Mac beta): _sigtramp","hashes":["d49b11a6cab013aeb53f1a8058cdec177af1c725646a08be7f399668891c24ce"],"id":"id-212","last_modified":1771144852937,"schema":1771144835400}

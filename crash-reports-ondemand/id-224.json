@@ -1,1 +1,1 @@
-{"description":"gpu (Linux nightly): glib_log_writer_func","hashes":["11aa60a8fd008f68f77187f7580d9886887057b7ea5769745a6e4ea391277001"],"id":"id-224","last_modified":1771059044971,"schema":1771059027389}
+{"description":"gpu (Mac nightly): <wgpu_core::device::queue::Queue as core::ops::drop::Drop>::drop","hashes":["3001d53eea1ef5eeb6a2b2601cd3c02c68228bf8073c3930b832f27eadfd7052"],"id":"id-224","last_modified":1771144853281,"schema":1771144836036}
