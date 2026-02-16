@@ -1,1 +1,1 @@
-{"description":"gmplugin (Linux beta): mozilla::gmp::GMPLoader::Load","hashes":["a27314816b7d1d5ae248242059dc69b81792a98b5c201d147d28351d85cb6d28"],"id":"id-142","last_modified":1771144852133,"schema":1771144831684}
+{"description":"gmplugin (Mac release): arena_dalloc | BaseAllocator::free | MozJemalloc::free | PageFree","hashes":["a7dadd2d1b6f79c87d357be6852779b95ad85fc46f362f1553e557dc3409dfdd"],"id":"id-142","last_modified":1771230639215,"schema":1771230618468}

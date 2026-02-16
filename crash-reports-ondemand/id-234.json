@@ -1,1 +1,1 @@
-{"description":"gpu (Mac nightly): AGX::BlitContext<T>::copyTextureToBuffer","hashes":["80d2eeb1ae656e3674aef9a189d139548b6b54250cc9773da1030835a1d91dfa"],"id":"id-234","last_modified":1771144852729,"schema":1771144836547}
+{"description":"gpu (Mac beta): arena_t::MallocLarge | arena_t::Malloc | BaseAllocator::calloc | MozJemalloc::calloc | PageCalloc","hashes":["e8308bf19e81e54070138ff8e3d96a1116ce71e70f3fba7d1f0f546f3cb32368"],"id":"id-234","last_modified":1771230639819,"schema":1771230623347}
