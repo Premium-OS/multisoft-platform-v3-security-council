@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): libc.so | libGLESv2_adreno.so","hashes":["a9fa991f2001ddc8435c49a39c4f45c7108a2ab996fb6a0652a088e11770f0da","877ca3735e6e4b5b261bf8907643e2ed51637d6e232c75c4b6a4881e113b1565"],"id":"id-245","last_modified":1771144853651,"schema":1771144837122}
+{"description":"gpu (Mac nightly): AGX::BlitContext<T>::copyTextureToBuffer","hashes":["80d2eeb1ae656e3674aef9a189d139548b6b54250cc9773da1030835a1d91dfa"],"id":"id-245","last_modified":1771230640857,"schema":1771230623937}
