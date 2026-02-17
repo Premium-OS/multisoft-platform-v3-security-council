@@ -1,1 +1,1 @@
-{"description":"gpu (Mac beta): arena_t::MallocLarge | arena_t::Malloc | BaseAllocator::calloc | MozJemalloc::calloc | PageCalloc","hashes":["e8308bf19e81e54070138ff8e3d96a1116ce71e70f3fba7d1f0f546f3cb32368"],"id":"id-234","last_modified":1771230639819,"schema":1771230623347}
+{"description":"gpu (Android beta): libc.so | libufwriter.so","hashes":["c68e844dfc2e252e186a2b11ce983eedd80aacbc15d6eb69388320853e077c87","7f31e0469ce21df43991cdd88ab01a890c87e2f2bdeadad264ba8dc012dad943"],"id":"id-234","last_modified":1771322442278,"schema":1771322426018}

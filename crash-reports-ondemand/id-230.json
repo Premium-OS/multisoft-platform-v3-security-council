@@ -1,1 +1,1 @@
-{"description":"gpu (Linux release): <.text ELF section in libnvidia-eglcore.so.580.126.09>","hashes":["e8d76fd2dfdc56c03e25d891d50dfae070284120fcc7b05b98feb9cae0d994e8"],"id":"id-230","last_modified":1771230639987,"schema":1771230623126}
+{"description":"gpu (Mac beta): arena_t::MallocLarge | arena_t::Malloc | BaseAllocator::calloc | MozJemalloc::calloc | PageCalloc","hashes":["e8308bf19e81e54070138ff8e3d96a1116ce71e70f3fba7d1f0f546f3cb32368"],"id":"id-230","last_modified":1771322442446,"schema":1771322425811}
