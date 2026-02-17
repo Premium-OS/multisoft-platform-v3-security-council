@@ -1,1 +1,1 @@
-{"description":"gmplugin (Windows beta): @0x7ff865fcca40","hashes":["5692ce0734963ab25630830212aed9520c37b56924249aaf9fa78309c8651105"],"id":"id-146","last_modified":1771230642323,"schema":1771230618680}
+{"description":"gmplugin (Mac release): arena_dalloc | BaseAllocator::free | MozJemalloc::free | PageFree","hashes":["a7dadd2d1b6f79c87d357be6852779b95ad85fc46f362f1553e557dc3409dfdd"],"id":"id-146","last_modified":1771322444482,"schema":1771322421202}
