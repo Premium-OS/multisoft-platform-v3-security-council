@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): libc.so | libsrv_um.so","hashes":["05161fd8071c38b55f8df859b4ee1f2f6d6bbd6225dd7517333fbc3e8c6314d6","de51e6388179a9670aad1a77d950c2486862529c51563a2edf2334ba3c01fdfb"],"id":"id-206","last_modified":1771322442754,"schema":1771322424541}
+{"description":"gpu (Mac beta): abort | gpusKillClientExt","hashes":["e6ba1745c8632605cbaa7fdd860b30640ef2eaf714b00a5f888fc7ced36fdd04"],"id":"id-206","last_modified":1771404643073,"schema":1771404623498}

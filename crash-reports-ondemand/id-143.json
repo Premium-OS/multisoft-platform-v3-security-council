@@ -1,1 +1,1 @@
-{"description":"gmplugin (Mac beta): libwidevinecdm.dylib","hashes":["885c6586d76c47f5ee402fb2817c56aba947ccb518c3f80dbb5c3feddee5041e"],"id":"id-143","last_modified":1771322442777,"schema":1771322421041}
+{"description":"gmplugin (Mac release): arena_dalloc | BaseAllocator::free | MozJemalloc::free | PageFree","hashes":["a7dadd2d1b6f79c87d357be6852779b95ad85fc46f362f1553e557dc3409dfdd"],"id":"id-143","last_modified":1771404643098,"schema":1771404619875}
