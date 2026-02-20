@@ -1,1 +1,1 @@
-{"description":"utility (Windows beta): RtlpWaitOnCriticalSection | RtlpEnterCriticalSectionContended | RtlEnterCriticalSection | CPropMgrImpl::Clean","hashes":["a3f7078208d7d697774c7e2907296d70dbc5a0c41d417bbd90ba5524be49dd85","8ccc7569149a3b1148fef9ea816bc812924a1ee299edd8254f7075d811af1ada"],"id":"id-503","last_modified":1771404643830,"schema":1771404640654}
+{"description":"rdd (Windows nightly): mc_luma_unscaled","hashes":["700020a8d4bd613fd54233a653d074e2305b3d7600b5ef767f4265e547e3279b"],"id":"id-503","last_modified":1771577444983,"schema":1771577441752}
