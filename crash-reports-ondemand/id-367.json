@@ -1,1 +1,1 @@
-{"description":"content (Android nightly): mozilla::jni::Accessor::EndAccess<T>","hashes":["58e15f5e7b57ae9e4e305c110c9ebc02b28149e97c5f5e1e106d3dedf6729609","041e130e927de8a8acd898f9c167dc52b585511ffea7d9de70de306a60f5c5f9"],"id":"id-367","last_modified":1771577444967,"schema":1771577433982}
+{"description":"main (Mac nightly): -[GeckoNSApplication reportException:]","hashes":["d1d32a1aaa81a96713c4c9e853175223b91f09f01a729b7a668cd89d97331845"],"id":"id-367","last_modified":1771663709621,"schema":1771663561754}

@@ -1,1 +1,1 @@
-{"description":"utility (Windows beta): @0x5255af3e","hashes":["2f1c891a5cad05b1b6d89eecef6fae64f6cfbfcf7fa7b113ee6c7d4ef31fb638"],"id":"id-460","last_modified":1771577445841,"schema":1771577439255}
+{"description":"socket (Mac release): nsTArray_Impl<T>::~nsTArray_Impl | nsTArray<T>::~nsTArray | CopyableTArray<T>::~CopyableTArray","hashes":["04a136fae9f728883923d769d78fcf83d37a2342f0cdd5a232f37da2dbfbaa68"],"id":"id-460","last_modified":1771663710493,"schema":1771663647842}

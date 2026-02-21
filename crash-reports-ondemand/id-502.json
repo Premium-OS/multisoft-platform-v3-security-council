@@ -1,1 +1,1 @@
-{"description":"content (Android nightly): mozilla::jni::detail::ProxyNativeCall<T>::Call<T>","hashes":["5c1fe39e44d8a791eaa655a6d3c8c1a748a4979d41e12d5ff8df849bd98ab3b7","cf3465d22bc368119c547df09bca14aaa647cc6f98ceffc8b164fe7d397c6006"],"id":"id-502","last_modified":1771577445146,"schema":1771577441693}
+{"description":"utility (Windows nightly): mozilla::MFTDecoder::~MFTDecoder","hashes":["b5ded6f580d8a47f014521b97938201e4061349fcaabcc4aedf37f17485e64fa"],"id":"id-502","last_modified":1771663709815,"schema":1771663687710}

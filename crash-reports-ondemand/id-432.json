@@ -1,1 +1,1 @@
-{"description":"utility (Windows nightly): CDefFolderMenu::GetCommandString","hashes":["2bd85076f1da5cad78d6cbc3243f1c34c08d4c9df3a51f1307c4e2a9c7b8a1fb"],"id":"id-432","last_modified":1771577445279,"schema":1771577437713}
+{"description":"rdd (Windows beta): RtlpFreeHeap | RtlpFreeHeapInternal | RtlFreeHeap | _free_base | free | _aligned_free | av_free | av_buffer_default_free | buffer_replace","hashes":["723917778e7d6d2e7773c33299065623a5cc64a4d6470f7c6e08bc9e58d8f038"],"id":"id-432","last_modified":1771663709929,"schema":1771663622499}
