@@ -1,1 +1,1 @@
-{"description":"socket (Windows nightly): mozilla::ipc::UtilityProcessImpl::LoadLibraryOrCrash","hashes":["74e04849d68670738098cbc9ba664c48837a14cb8768b36e7a77307020a4b07f"],"id":"id-492","last_modified":1771577443117,"schema":1771577441120}
+{"description":"utility (Windows beta): mozilla::ipc::UtilityProcessImpl::LoadLibraryOrCrash","hashes":["cab48cc559a51798ac196fa9768aeab4229674e37d71dd97a336e8e6e503ef32","81fc61ed5ca09cb60219b146521574114cbecbbdf03ccf310991f8e6a02f02a8"],"id":"id-492","last_modified":1771663707848,"schema":1771663678665}
