@@ -1,1 +1,1 @@
-{"description":"rdd (Mac release): @0x0 | _CFRuntimeCreateInstance","hashes":["b7d8f8668bf021613c298c88b983b913ed192b4eb81c61df2ca2dc88009a6882"],"id":"id-406","last_modified":1771663708987,"schema":1771663598982}
+{"description":"rdd (Windows beta): RtlpFreeHeap | RtlpFreeHeapInternal | RtlFreeHeap | _free_base | free | _aligned_free | av_free | av_buffer_default_free | buffer_replace","hashes":["723917778e7d6d2e7773c33299065623a5cc64a4d6470f7c6e08bc9e58d8f038"],"id":"id-406","last_modified":1771750098200,"schema":1771749988085}

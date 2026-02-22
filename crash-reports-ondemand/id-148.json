@@ -1,1 +1,1 @@
-{"description":"gmplugin (Windows beta): widevinecdm.dll | mozilla::gmp::ChromiumCDMChild::RecvDecryptAndDecodeFrame","hashes":["342afcb976dcba91a22b639cf6f20135da1c3e11cec44f6a577a1c496e3f03db","e88ce6e942047790c3f231534620c5201d68d66085da6bcc7906aa1ce8539265"],"id":"id-148","last_modified":1771663708802,"schema":1771663359082}
+{"description":"gmplugin (Linux release): libxul.so | firefox","hashes":["d1c3de213fa76f6e66b5e521089422763a9a9d9d902d1b515472565bf7185004"],"id":"id-148","last_modified":1771750098049,"schema":1771749749842}

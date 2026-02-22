@@ -1,1 +1,1 @@
-{"description":"gpu (Mac beta): abort | libGPUSupportMercury.dylib","hashes":["f3fca1fc39fe8a931bcab1701211bee4c9aa990a408e0c9af6370d5c6dd94806"],"id":"id-202","last_modified":1771663707992,"schema":1771663410028}
+{"description":"gpu (Android nightly): libc.so | libglslcompiler.so","hashes":["89bff0a6a3f0de7318dca599f02b8806898bb750a701ca57940c56f6375b100a","1c95e5f4a8e25c034ae42593f3612bc9f44bec347af0d16034499fb49d724881"],"id":"id-202","last_modified":1771750097335,"schema":1771749800320}

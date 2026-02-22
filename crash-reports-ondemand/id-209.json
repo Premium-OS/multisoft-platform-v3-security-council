@@ -1,1 +1,1 @@
-{"description":"gpu (Android beta): libc.so | libufwriter.so","hashes":["7f31e0469ce21df43991cdd88ab01a890c87e2f2bdeadad264ba8dc012dad943","c68e844dfc2e252e186a2b11ce983eedd80aacbc15d6eb69388320853e077c87"],"id":"id-209","last_modified":1771663708647,"schema":1771663416400}
+{"description":"gpu (Mac nightly): abort | gpusKillClientExt","hashes":["ed24de515fbe9a16116e405e3db8a8cc235766fdd905258c67345d8844aca3ca"],"id":"id-209","last_modified":1771750097813,"schema":1771749806588}
