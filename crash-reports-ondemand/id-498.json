@@ -1,1 +1,1 @@
-{"description":"utility (Windows beta): @0x6e457256","hashes":["4a7050008fa822b049e5f05cc39ab330c1563dcaf635d1aa439ece622d90c8c1"],"id":"id-498","last_modified":1771836515926,"schema":1771836489119}
+{"description":"utility (Windows nightly): strlen | wrap_strdup | moz_xstrdup | PrefValue::Init","hashes":["be3535896760d614dbcb9094cc77f349b09988d9475c22f4e4571415f9b32704"],"id":"id-498","last_modified":1771931320273,"schema":1771931290805}

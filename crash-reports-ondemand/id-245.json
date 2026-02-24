@@ -1,1 +1,1 @@
-{"description":"gpu (Mac beta): IOAccelerator","hashes":["3f1d30187fe332bcd27a16e9acbb369d5bb7d1acc133cff0876974986ec01463"],"id":"id-245","last_modified":1771836516841,"schema":1771836247358}
+{"description":"gpu (Mac nightly): mozilla::layers::APZCTreeManager::NotifyAutoscrollRejected","hashes":["5d3247e036be0a58cfd116d570a5734e5d72f72a27bec0b306ac7464ff3761f6"],"id":"id-245","last_modified":1771931321205,"schema":1771931048637}

@@ -1,1 +1,1 @@
-{"description":"gmplugin (Mac release): mozilla::gmp::GMPChild::GetUTF8LibPath","hashes":["808d1ac0f4eab67d0138feb168162344fc9149ffd0bf21c83f70e7dd14f324e3"],"id":"id-134","last_modified":1771836516205,"schema":1771836142891}
+{"description":"gmplugin (Windows beta): widevinecdm.dll | mozilla::gmp::ChromiumCDMChild::RecvDecryptAndDecodeFrame","hashes":["e88ce6e942047790c3f231534620c5201d68d66085da6bcc7906aa1ce8539265"],"id":"id-134","last_modified":1771931320621,"schema":1771930942688}

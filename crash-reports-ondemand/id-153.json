@@ -1,1 +1,1 @@
-{"description":"gmplugin (Linux release): arena_run_reg_dalloc | arena_t::DallocSmall | arena_dalloc | BaseAllocator::free | MozJemalloc::free | PageFree","hashes":["c581c161799a39d94321d6805577e98a790e2506884f11a5eb368a049ab95589"],"id":"id-153","last_modified":1771836515945,"schema":1771836160373}
+{"description":"gmplugin (Linux release): libxul.so | firefox","hashes":["d1c3de213fa76f6e66b5e521089422763a9a9d9d902d1b515472565bf7185004"],"id":"id-153","last_modified":1771931320306,"schema":1771930960522}
