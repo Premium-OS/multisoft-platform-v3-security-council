@@ -1,1 +1,1 @@
-{"description":"gpu (Mac beta): mozilla::layers::NativeLayerMacSurfaceHandler::NextSurface","hashes":["68ebc882fb534dfb576a242b2cae6f9bc24f739a450343d755da077595ad3684"],"id":"id-239","last_modified":1771836517911,"schema":1771836241844}
+{"description":"gpu (Android nightly): mozilla::gl::AndroidSharedBlitGL::~AndroidSharedBlitGL","hashes":["84eb3011524aea96889ea6b5122ab7cc5be9b9568bbeaa387b0e3a0e51e6e92f","c2afb2466393d6ca56a085e22bf9b5d38aae1e5494ed3dcbd9eee7100a1cbb74"],"id":"id-239","last_modified":1771931322450,"schema":1771931042964}
