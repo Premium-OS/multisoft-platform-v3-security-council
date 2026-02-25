@@ -1,1 +1,1 @@
-{"description":"socket (Mac release): mozilla::ipc::ProtocolIdToName","hashes":["1fbe9e8b62c39fddb893d59f400f662815c86a198214dc8d94fb360cd43d3147"],"id":"id-457","last_modified":1771931322592,"schema":1771931250868}
+{"description":"content (Mac nightly): js::LifoAlloc::freeAll | js::LifoAlloc::~LifoAlloc","hashes":["a5194ad888156a1d85909ff594c9a3829a3ec349c777a30bea55363abadce37f"],"id":"id-457","last_modified":1772010553899,"schema":1772010483701}

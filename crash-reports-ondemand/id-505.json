@@ -1,1 +1,1 @@
-{"description":"utility (Windows beta): mozilla::nt::PEHeaders::GetPdbInfo","hashes":["d1f64abf6223c059b8e8bd78c3957006b9486be785a81a64368334f4548158aa"],"id":"id-505","last_modified":1771931322218,"schema":1771931297690}
+{"description":"socket (Mac release): nsTArray_Impl<T>::AppendElementInternal<T> | nsTArray<T>::AppendElement<T> | mozilla::net::ChildDNSService::AsyncResolveInternal","hashes":["ecc7f5e7709249285647d3446053308443134635e4343cb56d7d9ba0c24c5116"],"id":"id-505","last_modified":1772010553514,"schema":1772010533509}
