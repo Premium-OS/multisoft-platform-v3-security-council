@@ -1,1 +1,1 @@
-{"description":"socket (Mac release): nsTArray_Impl<T>::AppendElementInternal<T> | nsTArray<T>::AppendElement<T> | mozilla::net::ChildDNSService::AsyncResolveInternal","hashes":["ecc7f5e7709249285647d3446053308443134635e4343cb56d7d9ba0c24c5116"],"id":"id-505","last_modified":1772010553514,"schema":1772010533509}
+{"description":"socket (Mac release): mozilla::ipc::ProtocolIdToName","hashes":["1fbe9e8b62c39fddb893d59f400f662815c86a198214dc8d94fb360cd43d3147"],"id":"id-505","last_modified":1772179120266,"schema":1772179102997}
