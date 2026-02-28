@@ -1,1 +1,1 @@
-{"description":"gpu (Windows nightly): <unknown in nvwgf2umx.dll>","hashes":["36132c3d708206fae160e0e2568707af7081d17c2d08b883f68a504a61d20548","36088657fa0bc32e319b56415613ab0471b969d052471cba310f609654239932","df1381aa2b3f5efda81be61eaf408d4412980f71c23e4a5ff5893909905620cc"],"id":"id-502","last_modified":1772179118428,"schema":1772179100194}
+{"description":"gpu (Linux nightly): wgpu_hal::vulkan::get_lost_err","hashes":["6dd63ed23f1a73946348ed83cf9bfc2ee61ed305c83a20aa2e8d08f5ceb82e2f"],"id":"id-502","last_modified":1772266745004,"schema":1772266727129}
