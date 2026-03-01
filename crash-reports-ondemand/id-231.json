@@ -1,1 +1,1 @@
-{"description":"main (Mac nightly): google_breakpad::ExceptionHandler::WaitForMessage | libsystem_pthread.dylib","hashes":["f40006925e49cecb5a21b5c57413e4662474e8a9165621ad1074c80435e0c7d7","4d45edffb38fb252cc431cd0d367d2ab17bd3c3e2c42c5daa191734ec90a72b2"],"id":"id-231","last_modified":1772266745339,"schema":1772266446266}
+{"description":"socket (Windows beta): RtlpWakeSRWLock | LdrpIncrementModuleLoadCount","hashes":["1552cd8494956891815ea605c18d01ee016cfc4abe57f7549310a01e486ed088"],"id":"id-231","last_modified":1772353730999,"schema":1772353439882}
