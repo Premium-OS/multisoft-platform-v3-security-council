@@ -1,1 +1,1 @@
-{"description":"gpu (Windows nightly): amdxx64.dll | Mtx_lock","hashes":["779c572d48bf6581e6b5cdff13de639674d784afda0321a57df124dbe91a6644","ab336a954afb81b62b84fa865590fad8156c2da3a20f1c5bbb070473520da8c1","b7a6aeaf97269d42c2b77300fbdcc28e93d2bbd9735c7c0366bbb0bf7e7a46e6"],"id":"id-490","last_modified":1772266747787,"schema":1772266715141}
+{"description":"gpu (Mac nightly): abort | gpusKillClientExt","hashes":["54fddeab2019fe07a3630f83eb74e1c74683733f4daabd49389429a22ec0956d"],"id":"id-490","last_modified":1772353733367,"schema":1772353700610}
