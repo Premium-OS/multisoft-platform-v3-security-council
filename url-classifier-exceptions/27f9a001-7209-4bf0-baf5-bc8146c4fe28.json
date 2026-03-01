@@ -1,0 +1,1 @@
+{"bugIds":["2015011"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"27f9a001-7209-4bf0-baf5-bc8146c4fe28","last_modified":1772358567460,"schema":1772331017186,"topLevelUrlPattern":"*://member.insight.rakuten.us/*","urlPattern":"*://challenger.api.global.rakuten.com/*"}

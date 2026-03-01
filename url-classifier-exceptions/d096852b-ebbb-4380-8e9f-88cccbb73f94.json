@@ -1,0 +1,1 @@
+{"bugIds":["2014168"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"d096852b-ebbb-4380-8e9f-88cccbb73f94","last_modified":1772358567481,"schema":1772331017851,"topLevelUrlPattern":"*://www.lexa.nl/*","urlPattern":"*://cdn.services.match.com/*"}

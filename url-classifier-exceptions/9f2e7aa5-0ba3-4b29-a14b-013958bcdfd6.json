@@ -1,0 +1,1 @@
+{"bugIds":["2017546"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"9f2e7aa5-0ba3-4b29-a14b-013958bcdfd6","last_modified":1772358567292,"schema":1772331014477,"topLevelUrlPattern":"*://www.redfin.com/*","urlPattern":"*://connect.facebook.net/*"}

@@ -1,0 +1,1 @@
+{"bugIds":["2017035"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"a3fc2cf0-eb5c-4229-979b-95a985b4ca17","last_modified":1772358567361,"schema":1772331015554,"topLevelUrlPattern":"*://www.zoro.com/*","urlPattern":"*://mpsnare.iesnare.com/*"}

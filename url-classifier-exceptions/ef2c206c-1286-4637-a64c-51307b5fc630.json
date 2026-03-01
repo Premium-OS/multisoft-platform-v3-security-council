@@ -1,0 +1,1 @@
+{"bugIds":["2014977"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"ef2c206c-1286-4637-a64c-51307b5fc630","last_modified":1772358567164,"schema":1772331017318,"topLevelUrlPattern":"*://www.sozcu.com.tr/*","urlPattern":"*://prebid.adnxs.com/*"}

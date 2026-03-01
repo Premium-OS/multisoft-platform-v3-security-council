@@ -1,0 +1,1 @@
+{"bugIds":["2015418"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"b40e9ef2-3311-49ea-8b99-9745febebd3e","last_modified":1772358567337,"schema":1772331016767,"topLevelUrlPattern":"*://www.disonsdemain.fr/*","urlPattern":"*://cdn.services.match.com/*"}
