@@ -1,0 +1,1 @@
+{"bugIds":["2015390"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"dd6c9308-db01-49c8-860a-dfac71212ba3","last_modified":1772331019399,"schema":1772331017045,"topLevelUrlPattern":"*://www.joyn.de/*","urlPattern":"*://player.glomex.com/*"}

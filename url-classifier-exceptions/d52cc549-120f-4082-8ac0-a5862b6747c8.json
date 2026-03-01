@@ -1,0 +1,1 @@
+{"bugIds":["2014678"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"d52cc549-120f-4082-8ac0-a5862b6747c8","last_modified":1772331019379,"schema":1772331017455,"topLevelUrlPattern":"*://feverup.com/*","urlPattern":"*://cdn.optimizely.com/*"}

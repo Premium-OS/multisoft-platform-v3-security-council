@@ -1,0 +1,1 @@
+{"bugIds":["2016038"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"7a45783d-dfab-4ed4-9448-3a6cdaaf36e3","last_modified":1772331019348,"schema":1772331016213,"topLevelUrlPattern":"*://undelete.pullpush.io/*","urlPattern":"*://api.reddit.com/*"}

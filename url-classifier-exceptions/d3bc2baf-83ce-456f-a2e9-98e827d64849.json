@@ -1,0 +1,1 @@
+{"bugIds":["2017301"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"d3bc2baf-83ce-456f-a2e9-98e827d64849","last_modified":1772331019211,"schema":1772331014610,"topLevelUrlPattern":"*://bydash.com/*","urlPattern":"*://js.smile.io/*"}

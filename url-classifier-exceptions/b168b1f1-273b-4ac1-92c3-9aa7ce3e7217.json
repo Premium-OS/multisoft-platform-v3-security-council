@@ -1,0 +1,1 @@
+{"bugIds":["2019221"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"b168b1f1-273b-4ac1-92c3-9aa7ce3e7217","last_modified":1772331019246,"schema":1772331013806,"topLevelUrlPattern":"*://indavideo.hu/*","urlPattern":"*://indexhu.adocean.pl/*"}

@@ -1,0 +1,1 @@
+{"bugIds":["2018553"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"2417e626-4b91-450e-b772-cc578ef6ee0d","last_modified":1772331019138,"schema":1772331014349,"topLevelUrlPattern":"*://privacycenter.notion.so/*","urlPattern":"*://api.transcend.io/*"}
