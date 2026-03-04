@@ -1,1 +1,1 @@
-{"description":"gpu (Android beta): libc.so | libGLESv2_powervr.so","hashes":["4da591463f5bc634496ebcb356525f800c7ed8bdf6b821641f58f4c2c913868d","083a001f4f2e964d49d78923e2cba9adb9223ffba416bfa3286e74e61ae044cd"],"id":"id-370","last_modified":1772440140838,"schema":1772439984700}
+{"description":"utility (Mac release): once_cell::imp::OnceCell<T>::is_initialized","hashes":["697b48d564581edf4e425a50f52a7d3d597da0629ee51cfd19f321c43d80a518"],"id":"id-370","last_modified":1772613523480,"schema":1772613373131}

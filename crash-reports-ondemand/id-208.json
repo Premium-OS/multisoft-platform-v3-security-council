@@ -1,1 +1,1 @@
-{"description":"utility (Windows nightly): @0x20ec8116040","hashes":["b739dd46b83315c0208869881b6861eb02a9f77481c9cbd3dd32f315622fb3b8"],"id":"id-208","last_modified":1772440139680,"schema":1772439821585}
+{"description":"gmplugin (Mac release): IPC::ChannelPosix::ProcessOutgoingMessages | IPC::ChannelPosix::Send | mozilla::ipc::NodeChannel::SendMessage","hashes":["0f58b07fb808a2f7b4b4e1bf1e4644058a4d7284aa6ffcc57688b47da2e7cbd3"],"id":"id-208","last_modified":1772613521998,"schema":1772613211955}
