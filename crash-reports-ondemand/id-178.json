@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): mozilla::dom::BrowsingContext::BrowsingContext","hashes":["0da89a48bbac992a8399e45530593e85d919c72d730af622ce4622b3c43bc91d","9d7a4655e8f95b840b23b9f69301e30c0b8a0c59a6c4131fec11c14ebd0012d0"],"id":"id-178","last_modified":1772440138547,"schema":1772439792261}
+{"description":"gmplugin (Windows beta): widevinecdm.dll | mozilla::gmp::ChromiumCDMChild::RecvDecryptAndDecodeFrame","hashes":["94762096f311ab8d8d0f33703031662941c6f29987063a62805420a022fbe9fc"],"id":"id-178","last_modified":1772613520928,"schema":1772613182964}
