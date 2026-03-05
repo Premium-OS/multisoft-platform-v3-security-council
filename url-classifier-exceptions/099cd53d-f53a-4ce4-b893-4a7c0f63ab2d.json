@@ -1,1 +1,0 @@
-{"bugIds":["1925979"],"category":"convenience","classifierFeatures":["tracking-protection","socialtracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"099cd53d-f53a-4ce4-b893-4a7c0f63ab2d","last_modified":1772676612397,"schema":1772676610911,"topLevelUrlPattern":"*://www.facebook.com/*","urlPattern":"*://*.apps.fbsbx.com/*"}
