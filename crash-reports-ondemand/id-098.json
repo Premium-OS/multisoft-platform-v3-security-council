@@ -1,1 +1,1 @@
-{"description":"rdd (Windows beta): mozilla::layers::TextureClientRecycleAllocator::CreateOrRecycle","hashes":["6ab839c9fd9cd11dd88c4f7e6095c88b51a35a49aae9465580ca816956b7ebac"],"id":"id-098","last_modified":1772788725262,"schema":1772788307867}
+{"description":"gpu (Mac nightly): mozilla::layers::APZCTreeManager::NotifyAutoscrollRejected","hashes":["72078613a9a0cc7f1884c336dd3b39312084b66c2091b07d82fc7bf0bfc87ad7"],"id":"id-098","last_modified":1772873330596,"schema":1772872907447}
