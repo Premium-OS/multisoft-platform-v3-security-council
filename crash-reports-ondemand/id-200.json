@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): libusc.so","hashes":["476c447df3b7dd8c649d34001fed79b41b085b20d5e3717d24aa060a91444c07","0f7887e4787f280b77af101299fc5ca6b18811e0df8c5f0b868fe8819109fa98","e46c58839317fe48e47c82fe9a1b7013000ee8a5a8fbd60fd171f893882c3de0"],"id":"id-200","last_modified":1772788723479,"schema":1772788410978}
+{"description":"gpu (Mac beta): <wgpu_core::device::queue::Queue as core::ops::drop::Drop>::drop","hashes":["96aa4d77f8cd16cb33c256a6d7883399ae56a5b0c925dcd1fcf718e7be269cc9"],"id":"id-200","last_modified":1772873328677,"schema":1772873010090}

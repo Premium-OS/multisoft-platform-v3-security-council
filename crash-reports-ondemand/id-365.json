@@ -1,1 +1,1 @@
-{"description":"utility (Windows nightly): RtlpWaitOnCriticalSection | RtlpEnterCriticalSectionContended","hashes":["baa7acbec5e8b0f4b4310d8414ac257a30d3e09c09f91cd3248eb6e0641ea417"],"id":"id-365","last_modified":1772788722719,"schema":1772788576977}
+{"description":"content (Linux nightly): js::gc::AllocSite::zone","hashes":["8155400922c198bbeb7d48345bb9a91f78e7a071161a830d4eb6ee2c5a99cf14","dca61c5b36ff9a8dbbf3f27177fbcf09035fc517c6bf921442df36bb282f29a9"],"id":"id-365","last_modified":1772873327925,"schema":1772873176795}
