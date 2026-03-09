@@ -1,1 +1,1 @@
-{"description":"main (Windows nightly): mozilla::AppShutdown::DoImmediateExit","hashes":["71d185d71dc86d9086bb2bb79a079c54579eecd8ca9df5e3b0078f3d776a433d","34cfe57e818ae163297448e77724187bcb98951f5ea0747a57bea3fd464e5546","4f5e72ebcbaea06152fd98c5d0153f64a86823639b10c266732c5c95c5296a0c"],"id":"id-475","last_modified":1772959141036,"schema":1772959101571}
+{"description":"socket (Windows beta): ReadFile","hashes":["8ba5301dc2e314e0626b99c6a16d252de5e6c76ea6a12dfcb10d22ae49dd33a3"],"id":"id-475","last_modified":1773052733371,"schema":1773052690276}
