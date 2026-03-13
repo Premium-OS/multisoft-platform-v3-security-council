@@ -1,1 +1,1 @@
-{"description":"rdd (Mac release): objc_release | -[__NSFrozenDictionaryM dealloc]","hashes":["158d6ce5eb6afa12b1ce19ef6d10a06689177ea85c229589ad5f46750933ef28","8a6fae520e08db4f01d0241f06eac9e8ec6cda8f6d3daefcbcca9017f3555e7b"],"id":"id-471","last_modified":1773052733348,"schema":1773052686232}
+{"description":"utility (Mac release): <firefox_on_glean::private::metric_getter::BaseMetricId as core::cmp::PartialEq>::eq","hashes":["f79069fadda3f66f07baed1758d5088b5e72a10bc4b84925bd869eaa7b4c0828"],"id":"id-471","last_modified":1773394720483,"schema":1773394674469}
