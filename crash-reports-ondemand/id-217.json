@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): IPCError-content | RecvConstructBrowser BrowserChild::Init failed (rv=NS_ERROR_NOT_AVAILABLE)","hashes":["be2593af7a0c118b97cf1e8e4cf37033f1c751a9336bf2b7abf60bcfc019fa1f"],"id":"id-217","last_modified":1773480515250,"schema":1773480221929}
+{"description":"gpu (Mac nightly): abort | gpusKillClientExt","hashes":["9c61a47dd3d5ce60029b1b9cbfba7611ca7f6ba7a10257d21e7c7b7a340e509c"],"id":"id-217","last_modified":1773566338642,"schema":1773566031832}
