@@ -1,1 +1,1 @@
-{"description":"socket (Mac release): nsTArray_Impl<T>::end | mozilla::MediaTransportHandlerSTS::~MediaTransportHandlerSTS","hashes":["bf9d96396b3f404ebae6b0b43fe3ad0cf9de583431e64df75093124fb292b119"],"id":"id-248","last_modified":1773653369847,"schema":1773653075610}
+{"description":"utility (Mac release): mozilla::ShmemRecycleAllocator<T>::ReleaseBuffer","hashes":["d18cf0ee1a31848e62cab930fd336aa688f13e31a6a398cc0282ad2614f34291"],"id":"id-248","last_modified":1773744540797,"schema":1773744262898}
