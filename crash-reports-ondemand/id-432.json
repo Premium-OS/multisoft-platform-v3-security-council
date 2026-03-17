@@ -1,1 +1,1 @@
-{"description":"gpu (Android beta): OOM | small","hashes":["2aeee5b5e3b3d4d69061d616a462e5e6532266dbfd6eaedaf4988a9bd7349bb0","b6735de3ebbf3a3d461141016308960088cacd5ee0f8349db05ec7dd471c673c"],"id":"id-432","last_modified":1773653367731,"schema":1773653276284}
+{"description":"gpu (Android nightly): alloc::raw_vec::RawVecInner<T>::current_memory","hashes":["bb1faa0988b6d23d24bb84d8f3a233d81da86fbd0df702591567e88536c1a1af"],"id":"id-432","last_modified":1773744538865,"schema":1773744450149}
