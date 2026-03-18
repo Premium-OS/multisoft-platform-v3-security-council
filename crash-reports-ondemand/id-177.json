@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): core::option::expect_failed | webrender::clip::ClipTreeBuilder::build_clip_set","hashes":["da627dc52761d545c1092eb5ef329b2526a3e5e6ef4372b402a8f703d3b570bc"],"id":"id-177","last_modified":1773744541008,"schema":1773744190213}
+{"description":"socket (Windows nightly): OOM | small","hashes":["d95e4b835bb0fa9c64443a2741aec888f19a828f1c52ce2af455e68229f7def1","948050e4e5487575edc114c2c4eca03b430cba6cfab63efb03894e02fcc55c67"],"id":"id-177","last_modified":1773827348205,"schema":1773826994825}
