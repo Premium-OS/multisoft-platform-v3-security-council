@@ -1,1 +1,1 @@
-{"description":"gmplugin (Mac release): mozilla::gmp::GMPChild::GetUTF8LibPath","hashes":["0293ce189295cc40e47cd63139b743b8b2a487e622f301fefdbb4fa0ac096356"],"id":"id-464","last_modified":1773913175448,"schema":1773913119034}
+{"description":"rdd (Windows beta): mozilla::detail::InvalidArrayIndex_CRASH | nsTArray_Impl<T>::ElementAt | nsTArray_Impl<T>::operator[] | mozilla::WMFVideoMFTManager::Output","hashes":["c6a2148e563b78bc484325592ec9c1fbc0751a1a17f3a740440c497e506db48d"],"id":"id-464","last_modified":1773999566147,"schema":1773999508729}
