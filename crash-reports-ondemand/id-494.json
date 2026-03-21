@@ -1,1 +1,1 @@
-{"description":"utility (Windows beta): zfhooksfdlpplugin.dll | <unknown in comdlg32.pdb>","hashes":["8deef6fc33371d7081fff4e45aef3ed24acdda83cab0dd5e996fe844f7a7086b"],"id":"id-494","last_modified":1773999566518,"schema":1773999540120}
+{"description":"rdd (Windows beta): mozilla::detail::InvalidArrayIndex_CRASH | nsTArray_Impl<T>::ElementAt | nsTArray_Impl<T>::operator[] | mozilla::WMFVideoMFTManager::Output","hashes":["29c5a8b6bde5e2b93d8499d35c7f67e8107b69bbe2ba715752b0747168de5d51"],"id":"id-494","last_modified":1774085336337,"schema":1774085311365}
