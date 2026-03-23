@@ -1,1 +1,1 @@
-{"description":"content (Linux nightly): nsTArray_Impl<T>::SwapElements<T> | nsAnimationManager::DoUpdateAnimations","hashes":["4932cc0d731d257486fc269bcf1b7a9190d4bc915812801bfde258711b8e6446"],"id":"id-075","last_modified":1774171119185,"schema":1774170681703}
+{"description":"content (Linux beta): js::ObjectElements::isFixed","hashes":["f061081a548060d6d821ae5ea689c5e7fc7649019aead2a4e148aad27e7c4605","97fa534f81e0e27b3baf3d13c0056ff12e8ebbfd869b522dcae85f301dd8794f"],"id":"id-075","last_modified":1774257529830,"schema":1774257085291}
