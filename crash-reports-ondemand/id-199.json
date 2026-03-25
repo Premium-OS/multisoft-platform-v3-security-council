@@ -1,1 +1,1 @@
-{"description":"gpu (Mac nightly): mozilla::layers::APZCTreeManager::NotifyAutoscrollRejected","hashes":["ea019cb1237f60287e90ceb58060fec7842b44e0370f88c73b8b8bba2370adf5"],"id":"id-199","last_modified":1774344532047,"schema":1774344213000}
+{"description":"gpu (Mac nightly): mozilla::wr::RenderTextureHostSWGL::UpdatePlanes","hashes":["c5edc4f14e17e99c0acce334ab6409561d48602e2c0829a61b8a54e529dd5b2a"],"id":"id-199","last_modified":1774430937062,"schema":1774430614731}
