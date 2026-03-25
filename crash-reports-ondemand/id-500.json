@@ -1,1 +1,1 @@
-{"description":"rdd (Mac release): unserializeReplacementIOKitTypeRef","hashes":["b875bd791978908026b1c251381c7ea16294ee6be7b73169348a4689b6abd305"],"id":"id-500","last_modified":1774344530009,"schema":1774344521993}
+{"description":"rdd (Windows beta): mozilla::detail::InvalidArrayIndex_CRASH | nsTArray_Impl<T>::ElementAt | nsTArray_Impl<T>::operator[] | mozilla::WMFVideoMFTManager::Output","hashes":["ac1d100ba1b06f8acf4a2e9ebce78f353cf0544c1743f5c476e9b68bf00a1d74"],"id":"id-500","last_modified":1774430935059,"schema":1774430926964}
