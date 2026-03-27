@@ -1,1 +1,1 @@
-{"description":"gmplugin (Linux release): memset | _dl_map_segments","hashes":["48cda360219778a85b8c54d3047e4e24d77d37765c846165239d1e2b84bfec80","2bb0c6c0a7db93d7b0220ee2d47e3645049ce34ee9ff638194d933df80a3d8de"],"id":"id-446","last_modified":1774516742389,"schema":1774516672577}
+{"description":"gpu (Android nightly): <wgpu_core::device::queue::Queue as core::ops::drop::Drop>::drop","hashes":["2b79e45863d14fb541f07fbc1c0e086b01d5c76b2fe1e2f9450238226cb017e2"],"id":"id-446","last_modified":1774600135478,"schema":1774600066428}

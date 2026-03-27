@@ -1,1 +1,1 @@
-{"description":"rdd (Windows beta): mozilla::detail::InvalidArrayIndex_CRASH | nsTArray_Impl<T>::ElementAt | nsTArray_Impl<T>::operator[] | mozilla::WMFVideoMFTManager::Output","hashes":["ac1d100ba1b06f8acf4a2e9ebce78f353cf0544c1743f5c476e9b68bf00a1d74"],"id":"id-476","last_modified":1774516741822,"schema":1774516703216}
+{"description":"gmplugin (Linux release): mozilla::SetMediaPluginSandbox","hashes":["75bedef8b9c4a6317b331e36f3fe5cd592a0869f5053aa966e9b6cd46dd2464d"],"id":"id-476","last_modified":1774600134913,"schema":1774600098527}

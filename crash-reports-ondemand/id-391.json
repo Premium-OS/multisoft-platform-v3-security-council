@@ -1,1 +1,1 @@
-{"description":"content (Linux nightly): JSString::isRope","hashes":["c03c0e575aa8d63873e1f963e9abbd86eeed8ea55e36718fe50a1293ffcfc62e","aa70c9369e9ab8b5f9f4fedbeae0c13f4e0381c793d3fbe45da03b2603e05346"],"id":"id-391","last_modified":1774516742400,"schema":1774516616412}
+{"description":"gpu (Mac nightly): mozilla::webgpu::WebGPUParent::MapCallback","hashes":["82b79a471b3a03044715c35fba6c20ec10333ac6c45e79fc43586eea042eb358"],"id":"id-391","last_modified":1774600135491,"schema":1774600011559}

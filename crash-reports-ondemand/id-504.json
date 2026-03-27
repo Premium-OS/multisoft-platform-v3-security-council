@@ -1,1 +1,1 @@
-{"description":"socket (Mac release): libdispatch.dylib","hashes":["cc84b7a66c319ad02acde52e26bebdf81728d2904e1ca1abc37bb17876b849f5"],"id":"id-504","last_modified":1774516742190,"schema":1774516733480}
+{"description":"socket (Mac beta): pthread_getspecific","hashes":["9447bdd34d23bc7c3d6718bfeece9fad9f25bc3d09cbebae5d51411f4bab76b6"],"id":"id-504","last_modified":1774600135273,"schema":1774600126500}
