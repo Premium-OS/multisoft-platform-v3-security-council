@@ -1,1 +1,1 @@
-{"description":"gpu (Mac beta): core::option::expect_failed | webrender::scene_building::SceneBuilder::build_all","hashes":["6e5b425012e5771907a61f65590c8fb054838bf7fa99881310b386ee787055ae"],"id":"id-274","last_modified":1774600135058,"schema":1774599892480}
+{"description":"gpu (Mac nightly): mozilla::layers::APZCTreeManager::NotifyAutoscrollRejected","hashes":["ea019cb1237f60287e90ceb58060fec7842b44e0370f88c73b8b8bba2370adf5"],"id":"id-274","last_modified":1774688337401,"schema":1774688092602}
