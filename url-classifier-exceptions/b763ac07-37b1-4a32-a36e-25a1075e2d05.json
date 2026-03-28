@@ -1,0 +1,1 @@
+{"bugIds":["2022822"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"b763ac07-37b1-4a32-a36e-25a1075e2d05","last_modified":1774663811601,"schema":1774663810998,"topLevelUrlPattern":"*://nitter.space/*","urlPattern":"*://*.twimg.com/*"}

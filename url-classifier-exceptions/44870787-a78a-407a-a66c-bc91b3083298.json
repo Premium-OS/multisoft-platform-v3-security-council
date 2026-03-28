@@ -1,0 +1,1 @@
+{"bugIds":["2026207"],"category":"convenience","classifierFeatures":["tracking-protection","emailtracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"44870787-a78a-407a-a66c-bc91b3083298","last_modified":1774663811551,"schema":1774663809903,"topLevelUrlPattern":"*://www.roadscholar.org/*","urlPattern":"*://*.optimizely.com/*"}
