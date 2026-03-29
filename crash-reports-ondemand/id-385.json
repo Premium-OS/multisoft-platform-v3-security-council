@@ -1,1 +1,1 @@
-{"description":"rdd (Mac release): objc_release | -[__NSFrozenDictionaryM dealloc]","hashes":["68177eea1e0766591a89d409e3bc7d3eca5fbaf4da08f6c0866984428b18aea8","48d70228a142b3b6c8a327f51a0f7758fb1029c98fbdff0f29297adee3071c96"],"id":"id-385","last_modified":1774688337137,"schema":1774688206252}
+{"description":"rdd (Windows nightly): mozilla::layers::TextureChild::Lock","hashes":["e6fcd86278c04dbf26419d1da8030325a8d451ed4cace106060e291dd01edfa4"],"id":"id-385","last_modified":1774773540706,"schema":1774773406256}
