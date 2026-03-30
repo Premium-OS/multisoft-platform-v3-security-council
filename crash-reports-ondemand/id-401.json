@@ -1,1 +1,1 @@
-{"description":"rdd (Windows beta): <unknown in amdxx64.dll> | NDXGI::CDevice::DestroyDriverInstance","hashes":["ac96c9f1ff6e0feaba434fd7a27f150c2a8b492a11b13cf6309eea491665d247"],"id":"id-401","last_modified":1774773539152,"schema":1774773422635}
+{"description":"gpu (Mac nightly): mozilla::layers::NativeLayerMacSurfaceHandler::NextSurface","hashes":["04444695965ae343c81f361dc9ab2896d1e8a7050377d0c52e9bc28dbb152ca3"],"id":"id-401","last_modified":1774861137918,"schema":1774861021893}

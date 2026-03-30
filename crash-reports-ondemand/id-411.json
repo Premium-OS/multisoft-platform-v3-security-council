@@ -1,1 +1,1 @@
-{"description":"socket (Mac beta): pthread_getspecific","hashes":["9447bdd34d23bc7c3d6718bfeece9fad9f25bc3d09cbebae5d51411f4bab76b6"],"id":"id-411","last_modified":1774773539512,"schema":1774773433021}
+{"description":"content (Mac nightly): mozilla::detail::InvalidArrayIndex_CRASH | mozilla::Vector<T>::operator[] | ProfileBuffer::MaybeStreamExecutionTraceToJSON<T>","hashes":["f78f24312c2b314ff863c8bb2217b64c40596a051593c0f40f2f07a3a858b9b4","fa0295a8558ffeec3cd4659c23512af7fed79e56b4af744e53bea138137afa5c"],"id":"id-411","last_modified":1774861138297,"schema":1774861032196}
