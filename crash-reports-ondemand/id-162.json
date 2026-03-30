@@ -1,1 +1,1 @@
-{"description":"main (Linux nightly): libxul.so | firefox","hashes":["0a40aec990c19588331b0812b8b864506bfcf26a2660108c5d27fb4e33085ca8","e670c41a507208850a9eb0ca71a27909864eb18b479d48b3fdb72b6c1de79830"],"id":"id-162","last_modified":1774773540359,"schema":1774773174545}
+{"description":"content (Linux beta): mozilla::extensions::StreamFilterParent::Init","hashes":["288d895b9c67318fb3bc38c50ce1d167bc1ea8f2db49bdddc8c811a4c574fb1c","cc4284df3adcf270a56ac160da09fdac741381ac3776fad6176e0f420e0c6d6b"],"id":"id-162","last_modified":1774861138962,"schema":1774860778044}
