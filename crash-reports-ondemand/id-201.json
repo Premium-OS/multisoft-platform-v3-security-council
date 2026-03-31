@@ -1,1 +1,1 @@
-{"description":"socket (Windows beta): mfehcthe.dll","hashes":["f47b3ddfaf2bfed01e626477afb2d537d902b472c1e8b126e9316703e9d2ee4e"],"id":"id-201","last_modified":1774861140130,"schema":1774860816890}
+{"description":"socket (Linux release): arena_t::ArenaRunRegAlloc | arena_t::MallocSmall | arena_t::Malloc | BaseAllocator::malloc | MozJemalloc::malloc","hashes":["519573b8f4a8ec3676ab9e7625ebd68b6dbfb6211ef5d216e7c84e19d273dbcc","4ca90e26b005bd9c9f47959d131a52cb04ce4de05a8c5ab858f8d0a3411b6d70"],"id":"id-201","last_modified":1774948175019,"schema":1774947828809}

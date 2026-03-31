@@ -1,1 +1,1 @@
-{"description":"utility (Mac release): mozilla::ipc::MessagePump::Run","hashes":["7ea07039b020a2fdf45e39c9443066b355c7d2fdcbd4a05e9259d286f95010e5","29a85fb0bc7e1335c84225f8599acbe60c3b6a470b58b2c976ff9b74e29faf62"],"id":"id-327","last_modified":1774861139714,"schema":1774860945418}
+{"description":"gpu (Mac nightly): mozilla::layers::NativeLayerMacSurfaceHandler::NextSurface","hashes":["04444695965ae343c81f361dc9ab2896d1e8a7050377d0c52e9bc28dbb152ca3"],"id":"id-327","last_modified":1774948174583,"schema":1774947966306}
