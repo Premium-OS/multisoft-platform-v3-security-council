@@ -1,1 +1,1 @@
-{"description":"utility (Mac release): mozilla::detail::RWLockImpl::readLock","hashes":["535f8aaac1593f5f10a42c3822060c126825b553b295daf015797586952a9d9c"],"id":"id-407","last_modified":1774948172358,"schema":1774948056455}
+{"description":"content (Mac nightly): mozilla::dom::RemoteObjectProxyBase::GetOrCreateProxyObject","hashes":["a0541f9f87920f6dea3629fd43f8f2eb3737226c8800def4afc83b6b5d424068"],"id":"id-407","last_modified":1775034539304,"schema":1775034433197}

@@ -1,1 +1,1 @@
-{"description":"content (Linux nightly): JSScript::getScope","hashes":["12ba56fb55c40005abe4350e121b02a6c77826f844a1cd88e6cb1e0c13f75f75","fb1d3c3f892ec856bbc4fa7964828b95514fb394954da333bbb19161a90ab490"],"id":"id-232","last_modified":1774948172382,"schema":1774947862044}
+{"description":"gpu (Mac nightly): mozilla::webgpu::WebGPUParent::MapCallback","hashes":["ef7b232172c4f63c409895598d495f97c6b8b94e88f9012e5a7fdd3afe1ecea7","5c9bd0b784f761179f79b263b4a2b71c61bd7e6905737c1a89bb01f71900330e"],"id":"id-232","last_modified":1775034539325,"schema":1775034253855}

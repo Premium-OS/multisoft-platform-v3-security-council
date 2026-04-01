@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): JSScript::getScope","hashes":["7d7529f36c83071d8b852f25618008f3ca745c1da30f9837247fbee8a28419ee"],"id":"id-303","last_modified":1774948172896,"schema":1774947940379}
+{"description":"rdd (Windows beta): mozilla::detail::InvalidArrayIndex_CRASH | nsTArray_Impl<T>::ElementAt | nsTArray_Impl<T>::operator[] | mozilla::WMFVideoMFTManager::Output","hashes":["49b1c787a2edaebb47d2c1d8bdad52b4b48776ec97c7b8b33458567aee75ea71"],"id":"id-303","last_modified":1775034539807,"schema":1775034326716}
