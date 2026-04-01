@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): libusc.so","hashes":["1fe63de2c6b7e2430f2c0d5976386c394bd9bf75bfdc8639868c31a70a27e959","1b6c95afe723c40760eeb88e885e2ef12ebed7c4ce8beaa359965464c685fe78"],"id":"id-373","last_modified":1774948175128,"schema":1774948019351}
+{"description":"gpu (Android beta): mozilla::gl::GLBlitHelper::CreateDrawBlitProg","hashes":["6675c7095aa7a77324f1075296c85a4b75ee913120a93c4192ae3c74e9e9b5c4","233ceeff2ed9882fabb124d1050b8e5eb1084aad0e29b1c31e71d9281712da50"],"id":"id-373","last_modified":1775034542176,"schema":1775034399043}

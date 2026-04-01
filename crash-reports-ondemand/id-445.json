@@ -1,1 +1,1 @@
-{"description":"main (Linux nightly): libxul.so (deleted) | libnspr4.so (deleted)","hashes":["b1ca2e3bc857dc70bb44c855ef02c1ed7bef056a799ec2996429b668148c57e0","76be262703d394329c2db497eac7bc73ae237b0dadad19da0c7fc15704ba07b7"],"id":"id-445","last_modified":1774948174626,"schema":1774948098380}
+{"description":"socket (Linux release): __libc_ifunc_impl_list","hashes":["9c48a8987f0aae7e27e5f3f7cb278fcf289f353e9c9a6b919331a279aa0c02c1"],"id":"id-445","last_modified":1775034541767,"schema":1775034472553}
