@@ -1,1 +1,1 @@
-{"Domain":"costco.com","id":"7e9744ce-9586-48f3-8f9c-64e8a2791bf9","last_modified":1729591442052,"password-rules":"minlength: 8; maxlength: 16; required: lower, upper; allowed: digit, [-!#$%&'()*+/:;=?@[^_`{|}~]];"}
+{"Domain":"costco.com","id":"7e9744ce-9586-48f3-8f9c-64e8a2791bf9","last_modified":1775062809589,"password-rules":"minlength: 8; maxlength: 16; required: lower; required: upper; required: digit; required: [-!#$%&'()*+/:;=?@[^_`{|}~]];"}
