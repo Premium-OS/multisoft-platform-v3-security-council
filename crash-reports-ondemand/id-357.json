@@ -1,1 +1,1 @@
-{"description":"rdd (Windows nightly): <unknown in amdxx64.dll> | NDXGI::CDevice::DestroyDriverInstance","hashes":["297b69d6a1b1d565f8393d8397614b7771e9ab48db33c80b02a5a8f21ce928d5","400c83d34c0e005063f7c146b6767ecc2efb4460edd63d2ed6521ceefee52d0b"],"id":"id-357","last_modified":1775034538963,"schema":1775034383060}
+{"description":"rdd (Windows nightly): mozilla::layers::TextureChild::Lock","hashes":["e6fcd86278c04dbf26419d1da8030325a8d451ed4cace106060e291dd01edfa4"],"id":"id-357","last_modified":1775121538336,"schema":1775121386573}
