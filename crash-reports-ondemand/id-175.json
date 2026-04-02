@@ -1,1 +1,1 @@
-{"description":"rdd (Linux nightly): mozilla::ImageBufferWrapper::Release","hashes":["cb89d19b85c48875b3f37fce70ca7db9e03864e98084a9b070a47b77ccca29a9"],"id":"id-175","last_modified":1775034541969,"schema":1775034196332}
+{"description":"rdd (Windows beta): mozilla::detail::InvalidArrayIndex_CRASH | nsTArray_Impl<T>::ElementAt | nsTArray_Impl<T>::operator[] | mozilla::WMFVideoMFTManager::Output","hashes":["49b1c787a2edaebb47d2c1d8bdad52b4b48776ec97c7b8b33458567aee75ea71"],"id":"id-175","last_modified":1775121540824,"schema":1775121196619}
