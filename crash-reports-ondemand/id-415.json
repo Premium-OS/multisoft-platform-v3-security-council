@@ -1,1 +1,1 @@
-{"description":"gpu (Android beta): libc.so | libGLESv2_adreno.so","hashes":["1cf26e3fc3dd2139760793f66837b484700e98e493b55bf102556bdb7d38626a"],"id":"id-415","last_modified":1775121538915,"schema":1775121445788}
+{"description":"gpu (Linux release): libnvidia-glcore.so.390.157","hashes":["c096249dba32b14cb014cf078b85a1ebd55cd1ac74a2840da0c790ecae2716ec"],"id":"id-415","last_modified":1775207927614,"schema":1775207851202}
