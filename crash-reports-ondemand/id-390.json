@@ -1,1 +1,1 @@
-{"description":"content (Linux nightly): core::option::expect_failed | Servo_ResolveStyle","hashes":["ee4afb6e118ff467a6357706fb7e2bd2bd2cbfe4c5454ec6f9b9528a05dbb1c0"],"id":"id-390","last_modified":1775207929295,"schema":1775207824421}
+{"description":"gpu (Mac beta): webrender_bindings::moz2d_renderer::BlobReader::read_entry","hashes":["2f25731027ec3bc86eade6f67b029149be8c3db9fc731ed09d3e0f090275fb5a"],"id":"id-390","last_modified":1775293749546,"schema":1775293641641}
