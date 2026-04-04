@@ -1,1 +1,1 @@
-{"description":"gpu (Android beta): libc.so | libart.so | libIMGegl.so","hashes":["0edc458d26b29f15f8ee8d3b6153ec45bfacd6e835d40602bff4047e3cfb0b0d"],"id":"id-280","last_modified":1775207927816,"schema":1775207702933}
+{"description":"gpu (Mac nightly): mozilla::layers::NativeLayerMacSurfaceHandler::NextSurface","hashes":["7325857e0ea2d07a0c47d54413220763e36d96290e6cf92853b30f425108c2cb"],"id":"id-280","last_modified":1775293748195,"schema":1775293522135}
