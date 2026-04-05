@@ -1,1 +1,1 @@
-{"description":"gpu (Android beta): libc.so | libusc.so","hashes":["a81ba2cef0c4075f75c10a5054f6163eadc0883e4cef3545910e0970c9b605c8","acc5b403c01c1f0196ff85b4a4a039bdb74d87b1e4b70a5daef62fabbd0e1bb2"],"id":"id-447","last_modified":1775293747384,"schema":1775293701847}
+{"description":"socket (Mac release): NS_InitMinimalXPCOM","hashes":["a4b59e650db338a4c499d8b3296d4e57f393e15d7aea60cab08d179b06653d2e"],"id":"id-447","last_modified":1775379539950,"schema":1775379495732}
