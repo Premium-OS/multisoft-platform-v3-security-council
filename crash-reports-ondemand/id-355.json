@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): JS::Heap<T>::exposeToActiveJS","hashes":["d7f91e2cd97dfd116d67043324ea540137172bf411ef28bffb157af8fda042c2","f8d8238c656d9003f1773ad8fd55a6b184a55bf8019958bd5a74a546043c0efc"],"id":"id-355","last_modified":1775465318222,"schema":1775465181236}
+{"description":"socket (Mac release): BackgroundEventTarget::Dispatch","hashes":["25b9f51658dafa0ad28b6f95dc9a588ccc03fea6c10397750cbf445918112cdb"],"id":"id-355","last_modified":1775558937685,"schema":1775558799887}
