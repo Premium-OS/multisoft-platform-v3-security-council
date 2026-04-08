@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): mozilla::gl::GLLibraryEGL::fMakeCurrent","hashes":["e8f462ab459d2118c2187d264934f3def0baf12ff2bb26be7986538ef0e496a1"],"id":"id-245","last_modified":1775558938540,"schema":1775558678799}
+{"description":"gpu (Android beta): libc.so | libIMGegl.so","hashes":["e75b6d4ce3c7c392289b607b195ba28054b3f02870b22b0f39698945461e1968","45c762918007af5025cb70797faad8e6f93b81d868a9f75f71b593b1c8f8e178"],"id":"id-245","last_modified":1775639921045,"schema":1775639667670}

@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): mozilla::MozPromise<T>::ThenValue<T>::DoResolveOrRejectInternal","hashes":["35983fb1d9416cce9ea3e50d91af7b6ff3f42509cf8e273fe4208d04c2b5a760","24db206d0b3aba395433ab217f207ee0cb74b66fa63fda76b8df96aa402668dc"],"id":"id-354","last_modified":1775558938630,"schema":1775558798857}
+{"description":"utility (Windows nightly): mozilla::MozPromise<T>::ThenValueBase::DoResolveOrReject","hashes":["9e94ac4b996a5be4225ca3bc6a972e6f06c6ec6e57e006b6409bea80f0e811cd"],"id":"id-354","last_modified":1775639921135,"schema":1775639785505}

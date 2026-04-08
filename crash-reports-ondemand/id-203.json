@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): JS::Heap<T>::exposeToActiveJS","hashes":["f8d8238c656d9003f1773ad8fd55a6b184a55bf8019958bd5a74a546043c0efc","d7f91e2cd97dfd116d67043324ea540137172bf411ef28bffb157af8fda042c2"],"id":"id-203","last_modified":1775558939296,"schema":1775558631276}
+{"description":"content (Linux nightly): js::gc::Arena::zone","hashes":["bea5ba9f2360beffefdb1e3167051b09dd010df95869938206f48a8ab26d0028","528a8531117ce7750cdb84b832a84c57c00923b4f3451d48f2f8b2e963acdeee"],"id":"id-203","last_modified":1775639921923,"schema":1775639623967}

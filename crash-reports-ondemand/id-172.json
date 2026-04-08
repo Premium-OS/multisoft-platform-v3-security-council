@@ -1,1 +1,1 @@
-{"description":"content (Linux nightly): OOM | unknown | NS_ABORT_OOM | mozilla::dom::ContentChild::RecvConstructBrowser","hashes":["627d5af5b7f9ea9b90c0aa6b054d235115825ebf0a2504680e9d1ab942e21dc6","bd482d6bbed1a5c47b012ce620957ec3fc10dee9c661ff14fa7cf7971198b248"],"id":"id-172","last_modified":1775558939355,"schema":1775558597770}
+{"description":"gpu (Mac beta): _sigtramp","hashes":["15f835ad68d52f0051dd857820592f880086aa02d1e02bef79397bc6f6ad4e3f"],"id":"id-172","last_modified":1775639921740,"schema":1775639591484}
