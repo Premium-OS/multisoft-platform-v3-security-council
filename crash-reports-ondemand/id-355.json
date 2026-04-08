@@ -1,1 +1,1 @@
-{"description":"socket (Mac release): BackgroundEventTarget::Dispatch","hashes":["25b9f51658dafa0ad28b6f95dc9a588ccc03fea6c10397750cbf445918112cdb"],"id":"id-355","last_modified":1775558937685,"schema":1775558799887}
+{"description":"socket (Linux nightly): mozilla::NrSocket::sendto","hashes":["97c686b0562eddaf9f01dd1e4704709aa07d78049ab4d5fb914e5f968637352a"],"id":"id-355","last_modified":1775639920137,"schema":1775639786517}

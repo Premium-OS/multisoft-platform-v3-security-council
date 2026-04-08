@@ -1,1 +1,1 @@
-{"description":"content (Android nightly): mozilla::AndroidDataEncoder::ProcessOutput","hashes":["e58e7dec6e4c04f96cb319c8e22605f82021b30f2056d15f33166ff11b88b82a","0623965975d8e049f249a2802592a8863241861f57c5dcc633a0c221bcfcdbea"],"id":"id-251","last_modified":1775558937248,"schema":1775558685110}
+{"description":"utility (Windows nightly): mozilla::MozPromise<T>::ThenCommand<T>::~ThenCommand","hashes":["62533310b3f3ef2a5750829ed8e7e948ac6016bcb9ec02d9018e5df72fc313d2"],"id":"id-251","last_modified":1775639919613,"schema":1775639676111}
