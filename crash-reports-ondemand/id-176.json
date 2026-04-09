@@ -1,1 +1,1 @@
-{"description":"main (Mac nightly): mozilla::net::nsSocketTransportService::AttachSocket","hashes":["cb75d315ba4cb8dc282644fa5e62a48580c0fe38f85096eeaaf1d9264ca3a24c","bc76f676b3a562bddc18f083aad185cd0387e95414ce6c3eac8ce3887e548721"],"id":"id-176","last_modified":1775639919843,"schema":1775639595613}
+{"description":"socket (Windows beta): InjUmon64.dll","hashes":["f2e3cd4f65f69098ff04a8f042e546e37079ed412da6a84855af357ce87cf36b","2c88593e53d5dcd1639c2d51b31588fde2daa59ab3612487f66bbed991ee8651"],"id":"id-176","last_modified":1775726303021,"schema":1775725996624}

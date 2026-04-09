@@ -1,1 +1,1 @@
-{"description":"utility (Windows nightly): mozilla::MozPromise<T>::ThenValueBase::DoResolveOrReject","hashes":["9e94ac4b996a5be4225ca3bc6a972e6f06c6ec6e57e006b6409bea80f0e811cd"],"id":"id-354","last_modified":1775639919656,"schema":1775639785505}
+{"description":"gpu (Mac nightly): mozilla::layers::APZCTreeManager::NotifyAutoscrollRejected","hashes":["ddc163258c18033cff6a67c54c1fd352da1d712f5ad49d7a6c93469a646c1b4d"],"id":"id-354","last_modified":1775726302861,"schema":1775726182029}
