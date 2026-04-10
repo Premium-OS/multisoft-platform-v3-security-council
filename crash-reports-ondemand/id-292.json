@@ -1,1 +1,1 @@
-{"description":"content (Linux nightly): OOM | unknown | NS_ABORT_OOM | mozilla::dom::ContentChild::RecvConstructBrowser","hashes":["bd482d6bbed1a5c47b012ce620957ec3fc10dee9c661ff14fa7cf7971198b248","627d5af5b7f9ea9b90c0aa6b054d235115825ebf0a2504680e9d1ab942e21dc6"],"id":"id-292","last_modified":1775726303006,"schema":1775726118383}
+{"description":"content (Mac nightly): JS::shadow::Zone::hasAnyGCState","hashes":["81d32d27045274d2b25f42141f3f113d8ea83028583b50be882155ae6aae939f"],"id":"id-292","last_modified":1775812707991,"schema":1775812520282}
