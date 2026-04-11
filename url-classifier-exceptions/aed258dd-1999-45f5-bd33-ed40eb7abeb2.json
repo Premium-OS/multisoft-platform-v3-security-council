@@ -1,0 +1,1 @@
+{"bugIds":["2028122"],"category":"baseline","classifierFeatures":["tracking-protection","socialtracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"aed258dd-1999-45f5-bd33-ed40eb7abeb2","last_modified":1775873416250,"schema":1775873415604,"topLevelUrlPattern":"*://www.makeonlinebooking.com/*","urlPattern":"*://connect.facebook.net/*"}
