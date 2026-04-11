@@ -1,1 +1,1 @@
-{"description":"utility (Windows nightly): mozilla::MozPromise<T>::ThenCommand<T>::~ThenCommand","hashes":["62533310b3f3ef2a5750829ed8e7e948ac6016bcb9ec02d9018e5df72fc313d2"],"id":"id-313","last_modified":1775812709793,"schema":1775812544253}
+{"description":"utility (Windows beta): mozilla::mscom::ProcessRuntime::InitializeSecurity","hashes":["019e2d4575765a29133c295f0dd961e3fe6c38d7bc2d1e2a094521ab4ef0d9eb","c3e65e35f2420c815a4980d334a06f953d734451590d1645666a840c1c61d330"],"id":"id-313","last_modified":1775904531588,"schema":1775904347772}
