@@ -1,1 +1,1 @@
-{"description":"rdd (Windows nightly): msmpeg2vdec.dll | mozilla::MFTDecoder::Output","hashes":["d44ac55e3b3d007d9d8b2affbef347655841d3bd10e6943456e82fd450d07d2f"],"id":"id-432","last_modified":1775812707999,"schema":1775812670849}
+{"description":"socket (Mac release): XUL | mozilla::ipc::SharedPreferenceDeserializer::DeserializeFromSharedMemory","hashes":["929f61946c9e242bdad4ab960255dfc1e5c994f5006a930e3ea90a6fb48f6236"],"id":"id-432","last_modified":1775904530026,"schema":1775904480741}
