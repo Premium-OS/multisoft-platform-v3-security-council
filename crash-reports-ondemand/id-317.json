@@ -1,1 +1,1 @@
-{"description":"gpu (Linux release): webrender::api_resources::ApiResources::update","hashes":["c216e787d18ebf5bf1b1d41dbaf4efabac5bbe8f0446bf1d41bb4e96146a1a5b"],"id":"id-317","last_modified":1775904531309,"schema":1775904352012}
+{"description":"gpu (Android nightly): <alloc::sync::Arc<T, A> as core::clone::Clone>::clone","hashes":["a2820ad44b4f0bdee16b786058b1f4b578a5cc178482adb8090ae97348268154"],"id":"id-317","last_modified":1775984927647,"schema":1775984755642}
