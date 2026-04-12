@@ -1,1 +1,1 @@
-{"description":"gpu (Mac nightly): mozilla::layers::APZCTreeManager::NotifyAutoscrollRejected","hashes":["ddc163258c18033cff6a67c54c1fd352da1d712f5ad49d7a6c93469a646c1b4d"],"id":"id-373","last_modified":1775904530219,"schema":1775904416375}
+{"description":"utility (Linux release): mozilla::EnterChroot","hashes":["0c9204b918037310d7bc911445b2f596db1fc9645d98a31e3566edfa674c6ef5","6ee8e98fff76946ae6e506dd782b4cb7b54536790e5824b0b7c7bfb6cb06457c"],"id":"id-373","last_modified":1775984926362,"schema":1775984815777}
