@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): mozilla::gl::GLContext::LockSurface","hashes":["17e44a60430907821cfdb8c496215a19f64d9a20b8440bca4a0f56afda1f09d8","8044199b73106b9777b9fab74bb43cd8c5483314642fec9809ab51b293c6bee0","4cbff02d72c96603a1218e4b1746290f9b8d635059b9d489915dd77fd5e91a23"],"id":"id-344","last_modified":1775984927945,"schema":1775984784895}
+{"description":"gpu (Android beta): libc.so | gralloc.rogue.so","hashes":["4f3efea4bd02840e9b5861ec47f9642d21d36609ecc4b1a19b15f6a1ad467c9e"],"id":"id-344","last_modified":1776071337376,"schema":1776071189268}
