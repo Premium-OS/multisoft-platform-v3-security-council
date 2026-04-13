@@ -1,0 +1,1 @@
+{"bugIds":["2028912"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"1d17de6a-7222-4d92-94a1-e4ea94d78bb5","last_modified":1776073376698,"schema":1775873415158,"topLevelUrlPattern":"*://www.yourtownprizehomes.com.au/*","urlPattern":"*://*.cmp.optimizely.com/*"}

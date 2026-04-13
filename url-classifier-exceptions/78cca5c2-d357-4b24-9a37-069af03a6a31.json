@@ -1,0 +1,1 @@
+{"bugIds":["2028903"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"78cca5c2-d357-4b24-9a37-069af03a6a31","last_modified":1776073376704,"schema":1775873415310,"topLevelUrlPattern":"*://info.landstar.com/*","urlPattern":"*://cdn-aorpci12.actonsoftware.com/*"}

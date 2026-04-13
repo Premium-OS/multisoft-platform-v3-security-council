@@ -1,0 +1,1 @@
+{"bugIds":["2028064"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"250c12d0-59c9-4699-83b9-96c401d0f3ee","last_modified":1776073376723,"schema":1775873415752,"topLevelUrlPattern":"*://voip.ms/*","urlPattern":"*://*.livechatinc.com/*"}
