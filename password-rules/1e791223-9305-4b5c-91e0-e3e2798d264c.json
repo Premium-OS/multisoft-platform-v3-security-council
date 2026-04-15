@@ -1,1 +1,1 @@
-{"Domain":"vanguard.com","id":"1e791223-9305-4b5c-91e0-e3e2798d264c","last_modified":1624479191607,"password-rules":"minlength: 6; maxlength: 20; required: lower; required: upper; required: digit; required: digit;"}
+{"Domain":"vanguard.com","id":"1e791223-9305-4b5c-91e0-e3e2798d264c","last_modified":1776272409602,"password-rules":"minlength: 8; maxlength: 20; required: lower; required: upper; required: digit; required: digit; required: special;"}
