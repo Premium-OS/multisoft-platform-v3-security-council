@@ -1,1 +1,1 @@
-{"description":"content (Mac beta): mozilla::dom::RemoteObjectProxyBase::GetOrCreateProxyObject","hashes":["cef2cfe48db75c42653c73c00aed3e1da555c71e482d22fcb9f92b197a3f19db","d399d01929a21288a7d74e63cb0aa01b247b24e4bdbb528a17f62dc9324ef836"],"id":"id-316","last_modified":1776245336360,"schema":1776245152733}
+{"description":"gpu (Mac nightly): mozilla::layers::NativeLayerMacSurfaceHandler::NextSurface","hashes":["fbbdd56074459ec03da55dbee130f9ca486b7d8acbd5404a820052787773f095"],"id":"id-316","last_modified":1776331146866,"schema":1776330960435}
