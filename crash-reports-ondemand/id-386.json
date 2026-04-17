@@ -1,1 +1,1 @@
-{"description":"content (Android beta): mozilla::jni::detail::ProxyNativeCall<T>::Call<T>","hashes":["9e03de66c13a30f40d5c7e9adb943b8b8695a06e348643037c98b11a1c303bec","f79ef9f1e55989f3ccba3066b72c88862d4462b98fc8f6236b664d5b706cbc95"],"id":"id-386","last_modified":1776331148253,"schema":1776331037575}
+{"description":"gpu (Mac beta): mozilla::wr::RenderTextureHostSWGL::UpdatePlanes","hashes":["6b3e062fbc4fed38eb65a769db5c68a7649dd575b125f0200a2902747f6c350c"],"id":"id-386","last_modified":1776428345298,"schema":1776428230614}
