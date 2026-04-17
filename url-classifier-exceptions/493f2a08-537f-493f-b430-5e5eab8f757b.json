@@ -1,0 +1,1 @@
+{"bugIds":["2032018"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"493f2a08-537f-493f-b430-5e5eab8f757b","last_modified":1776391809682,"schema":1776073376912,"topLevelUrlPattern":"*://ring.com/*","urlPattern":"*://cdn.select.eu.eu-west-1.iris.apx.amazon.dev/*"}
