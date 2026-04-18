@@ -1,0 +1,1 @@
+{"bugIds":["2031966"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"52916a3d-1c0f-4d58-82c5-2ee191b89043","last_modified":1776478209879,"schema":1776478209116,"topLevelUrlPattern":"*://www.digitalhome.ca/*","urlPattern":"*://static.criteo.net/*"}
