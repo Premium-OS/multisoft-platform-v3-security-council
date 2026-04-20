@@ -1,1 +1,1 @@
-{"description":"utility (Windows nightly): bad hardware | LdrInitSecurityCookie","hashes":["7d88a32c4f609adce1132e63142a2fd6525faf79428e4ea857c389c70cc2ad06","9e2d3287b6cfa4c2fd3273c4c3fc9139eebc9ae31ec42857728d24ef18766860"],"id":"id-253","last_modified":1776428343061,"schema":1776428086521}
+{"description":"socket (Linux release): huge_dalloc | sftk_DestroySessionObjectData","hashes":["89751deeb13039bae165f4ad03540d3d20a2afce30535b859313ced328474efe"],"id":"id-253","last_modified":1776676139637,"schema":1776675883726}
