@@ -1,0 +1,1 @@
+{"bugIds":["2031975"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"70ccf9bd-2c7b-4629-bcac-9097da0fb23f","last_modified":1776671799645,"schema":1776391809336,"topLevelUrlPattern":"*://www.rei.com/*","urlPattern":"*://tags.tiqcdn.com/*"}

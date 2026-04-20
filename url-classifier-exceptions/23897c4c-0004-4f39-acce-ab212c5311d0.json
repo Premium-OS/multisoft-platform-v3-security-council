@@ -1,0 +1,1 @@
+{"bugIds":["2032026"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"23897c4c-0004-4f39-acce-ab212c5311d0","last_modified":1776671799585,"schema":1776391810152,"topLevelUrlPattern":"*://www.watchuseek.com/*","urlPattern":"*://pagead2.googlesyndication.com/*"}
