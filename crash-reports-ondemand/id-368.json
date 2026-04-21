@@ -1,1 +1,1 @@
-{"description":"utility (Linux nightly): libc.so.6 | libcuda.so.1","hashes":["8866f347d5137fa245dd671d42a0a38ae08043c71edbf914b23492a8dd345129"],"id":"id-368","last_modified":1776676142177,"schema":1776676009305}
+{"description":"gpu (Mac beta): libsystem_kernel.dylib","hashes":["bd7fe7a850b65fa82135d09aeb27c24896291de4a51059b9343c6a9f77321a29"],"id":"id-368","last_modified":1776763127800,"schema":1776763003509}
