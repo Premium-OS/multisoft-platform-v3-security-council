@@ -1,1 +1,1 @@
-{"description":"gpu (Linux release): core::option::expect_failed | webrender::scene_building::SceneBuilder::build_all","hashes":["3bb958b1a5e9ad85de281a43cf161fd3548a9b2b72cf2f11924310586715b077"],"id":"id-450","last_modified":1776850764407,"schema":1776850723365}
+{"description":"gpu (Linux release): core::result::unwrap_failed | wgpu_server_pack_free_swap_chain_buffer_ids | mozilla::webgpu::WebGPUParent::SwapChainDrop","hashes":["e158233209d53389da95bcbc756eb9f31d3de62055e329714c1fc757912b4c1d"],"id":"id-450","last_modified":1776935338776,"schema":1776935309193}
