@@ -1,0 +1,1 @@
+{"bugIds":["2023175"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"e4eb7792-ed14-49c4-a8cd-be2c2e70c3ce","last_modified":1776996611245,"schema":1776996610907,"topLevelUrlPattern":"*://www.procook.co.uk/*","urlPattern":"*://widget.trustpilot.com/*"}
