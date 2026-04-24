@@ -1,1 +1,1 @@
-{"description":"main (Mac nightly): google_breakpad::ExceptionHandler::WaitForMessage | thread_start","hashes":["aaf38234abb76f1c6fc713129f56f70342f8f3ecbfd2a716eb15e5f83544e8f8","47a177502cfa0c31c6d038fe4b061454901a98bf2ee77d16ae961bbf4bdbd092"],"id":"id-201","last_modified":1776935338419,"schema":1776935036718}
+{"description":"utility (Windows nightly): mozilla::mscom::ProcessRuntime::InitializeSecurity","hashes":["839d98b1da5f577e545d5cee9326af14a57599632ea3d982669700439c2d3b0f"],"id":"id-201","last_modified":1777018767731,"schema":1777018446153}
