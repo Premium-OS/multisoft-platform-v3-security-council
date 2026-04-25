@@ -1,1 +1,1 @@
-{"description":"gpu (Android beta): core::option::unwrap_failed","hashes":["39e824234a7301918a46e467bed7d35e68c3787737c0ec2ba4d98eb91351aebd","2ba00ba3d8470525bf52f3ab57e42d2330ec77846d3de2d8e71996cd170da44f","5ae5745971b503db790b08904858b927ae47065ef29f0f1e6657d1d550054a93"],"id":"id-167","last_modified":1777018768534,"schema":1777018406086}
+{"description":"gpu (Mac nightly): AGX::BlitContext<T>::copyTextureToBuffer","hashes":["e784e7f5309ecd5d226fc700070e3f5d35d8af23a8648847a060545301254155"],"id":"id-167","last_modified":1777106910826,"schema":1777106586343}
