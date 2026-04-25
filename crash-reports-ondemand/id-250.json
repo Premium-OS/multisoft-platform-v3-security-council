@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): js::SinglyLinkedList<T>::popFront","hashes":["b15a95b90c60a0f872fb2bee86cef226be988d88daa850e64f11b70e8819374b","d81f998f7e49fc70aa54a3a7461b66a14759de872a3afb861f7a2262df0c3c64"],"id":"id-250","last_modified":1777018766454,"schema":1777018504691}
+{"description":"utility (Windows nightly): mozilla::mscom::ProcessRuntime::InitializeSecurity","hashes":["cb0f346ded01fb220853880b54ccc38c43a048b1db89a006680729245e300db8"],"id":"id-250","last_modified":1777106908869,"schema":1777106676513}
