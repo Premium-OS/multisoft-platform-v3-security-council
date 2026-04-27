@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): mozilla::ArrayEqual<T>","hashes":["8fe93fe8ca75120f9832acdc74331cbe3f3b0e7d7bfbeaf574c7b64202acccfe"],"id":"id-364","last_modified":1777106910595,"schema":1777106796858}
+{"description":"rdd (Windows beta): mozilla::detail::InvalidArrayIndex_CRASH | nsTArray_Impl<T>::ElementAt | nsTArray_Impl<T>::operator[] | mozilla::WMFVideoMFTManager::Output","hashes":["16b4b0a86004f2ebbc771f549aea2b1d6ead5e301d46a25f706ee8d8101a9441"],"id":"id-364","last_modified":1777279157308,"schema":1777279036937}
