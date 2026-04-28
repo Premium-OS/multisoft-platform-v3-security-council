@@ -1,1 +1,1 @@
-{"description":"gpu (Linux release): core::option::expect_failed | webrender::scene_building::SceneBuilder::build_all","hashes":["4e94f519c4558ef04892979c0c2eb958ab93672b5fdad11b4ffb0f77aaa80824"],"id":"id-375","last_modified":1777279155874,"schema":1777279049513}
+{"description":"content (Mac nightly): js::CopyChars<T>","hashes":["caccb8a89a1344fa094b2bd8ad8ee271c04507ea9dff71c616234650eb56243c"],"id":"id-375","last_modified":1777368732546,"schema":1777368643901}

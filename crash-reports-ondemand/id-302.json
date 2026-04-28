@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): CrashChannel::OpenContentStream","hashes":["0eafa8426baf9c1523ccc58f4c556ce427e6edef675706959370767d2a389ae6","90a856a2411a5bc85efc8e74f06c4a130f94202ff537aaba8c0b482bfcc47445"],"id":"id-302","last_modified":1777279155261,"schema":1777278965320}
+{"description":"gpu (Android beta): libc.so | webrender::renderer::Renderer::draw_frame","hashes":["06413d1edcf3d4889ad0aae8d8d2ef3fc8ead0917539c6e952cfb0ea2f371591"],"id":"id-302","last_modified":1777368732078,"schema":1777368529833}

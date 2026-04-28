@@ -1,1 +1,1 @@
-{"description":"rdd (Mac release): __CF_IS_OBJC.cold.1","hashes":["a3c3e72f73fbad6413ede1a6d14554b7f66e2620e8e605236e30f710a9ce01bf","dce56836ffaa2b96d24b56dde77eb065ab8071907819f3881fda5bb92b65196e","06f20cbc5be3957251efce46685b371d2a1fc8b4523e10455d88d40ee47d1791"],"id":"id-410","last_modified":1777279155711,"schema":1777279091915}
+{"description":"gpu (Android nightly): mozilla::gl::AndroidSharedBlitGL::~AndroidSharedBlitGL","hashes":["dfe522b659f9af20f7a98af2c170d82af0bb11d9a1d33ecd6584970848056d62"],"id":"id-410","last_modified":1777368732419,"schema":1777368680483}
