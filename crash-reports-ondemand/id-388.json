@@ -1,1 +1,1 @@
-{"description":"main (Android beta): IPC::ParamTraits<mozilla::dom::XPCOMInitData>::Write | <.plt ELF section in libmozglue.so> | Mutex::Unlock","hashes":["fb949af99b805da2489828d5a0a521db924049b419987fa3f3c5f4478db07f51","3f6321f8568bce341865835922bebd14899d21c95c7a3196fc88a982342ab643"],"id":"id-388","last_modified":1777279157955,"schema":1777279066634}
+{"description":"socket (Mac release): mojo::core::ports::Node::GetPort","hashes":["29eb1a8ecd018d2f6a3bda5e7f157a48288b55c18590411c16a0a359941d2591"],"id":"id-388","last_modified":1777368734388,"schema":1777368657708}

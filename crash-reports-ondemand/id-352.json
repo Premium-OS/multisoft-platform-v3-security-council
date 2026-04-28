@@ -1,1 +1,1 @@
-{"description":"content (Linux beta): PtrToNodeHashPolicy::match","hashes":["100c7b8b1394cf4b137248bf022c0e6bb5a0c3734674bee4107ada641d72048e","bc880543bb3fe09aa0dcbb2cd00ba098f1df827914fb8037617c51c088649794"],"id":"id-352","last_modified":1777279156686,"schema":1777279022815}
+{"description":"gpu (Android nightly): mozilla::StyleOwnedSlice<T>::AsSpan","hashes":["0c7e83ceca6359030c13787e426b0b8f572d152f74eddb3c202bd42385ead242"],"id":"id-352","last_modified":1777368733399,"schema":1777368608254}
