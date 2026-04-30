@@ -1,1 +1,1 @@
-{"description":"socket (Linux release): arena_t::ArenaRunRegAlloc | arena_t::MallocSmall | arena_t::Malloc | BaseAllocator::malloc | MozJemalloc::malloc","hashes":["a8477358b33e3a9c9b17eef6970f85056503e56c5c7258bdbd3aebe58ce12626","23afac1d1416dd455be8ad24395f86f9911df6cdcc7db5a10bcb8bc3c3b93c3d"],"id":"id-385","last_modified":1777368733835,"schema":1777368654435}
+{"description":"socket (Windows nightly): WSPShutdown","hashes":["018eaf251df9e8e3d5209a3affa2dd5c6880d47d3ed9aa5e790279ebe83259dc"],"id":"id-385","last_modified":1777539492748,"schema":1777539416792}
