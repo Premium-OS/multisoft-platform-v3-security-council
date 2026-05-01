@@ -1,1 +1,1 @@
-{"description":"content (Android nightly): IPCError-content | ShutDownKill","hashes":["e66f639c82cee7fa46d1ccfdd795f7fe55178fd88df397f6e53e62252ee43583"],"id":"id-131","last_modified":1777539490966,"schema":1777539151157}
+{"description":"gpu (Android nightly): IPC::MessageReader::FatalError | IPC::ParamTraits<mozilla::ipc::BigBuffer>::Read | mozilla::dom::PWebGLParent::OnMessageReceived","hashes":["9f41a70ff39eb1028a57aa86d4936e4ea23d80b5e5e3b69870ec177c73183ed4"],"id":"id-131","last_modified":1777625897071,"schema":1777625548728}

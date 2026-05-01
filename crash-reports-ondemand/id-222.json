@@ -1,1 +1,1 @@
-{"description":"content (Linux beta): nsTArray_Impl<T>::Elements | nsTArray_Impl<T>::IndexOf<T> | mozilla::FrameProperties::TakeInternal","hashes":["07f7f3ff91fd60e3fe6cae6d3946d38cc061bcfaab579992041ea92f28a6a851"],"id":"id-222","last_modified":1777539491629,"schema":1777539246451}
+{"description":"content (Mac nightly): mozilla::detail::RWLockImpl::readLock","hashes":["06ce822f825f5267db8ef757634b49af6c3baddb7a06ff333930ffc5b6e982b3","8d4164dd6fc47f05023bc51696cb4b26124564415c677d4dcb9b65389cf1f0f1"],"id":"id-222","last_modified":1777625897799,"schema":1777625643327}
