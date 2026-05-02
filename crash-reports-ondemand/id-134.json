@@ -1,1 +1,1 @@
-{"description":"main (Mac beta): mozilla::PresShell::DoFlushPendingNotifications","hashes":["afd44c6086b6b7c37b76644a4d5fa4a0a79e12271007a4a5067b9ae3c6945b63","88aa9e4d1c4caf0d3d8b2f54ede5eaa58ed563b295f64e112f7dc3889a12fe4a"],"id":"id-134","last_modified":1777625897986,"schema":1777625551782}
+{"description":"content (Linux nightly): servo_arc::Arc<T>::is_static","hashes":["af8b6b51bb49813ffe0bc247772e0dd6425154fc6e3fd85c57e9995e768be75d"],"id":"id-134","last_modified":1777712989380,"schema":1777712573331}

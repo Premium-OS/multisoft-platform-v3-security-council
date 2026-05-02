@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): libc.so | libglslcompiler.so","hashes":["6ba80f024163aa4d355ce98f8982c0a09944e6152ed2b061b59e563c605079b5","1f6772112d17a375fbf696c1ffc72fedd2b85168cf335dd0936cad29563e35bd"],"id":"id-404","last_modified":1777625897910,"schema":1777625836140}
+{"description":"socket (Linux release): AllocInfo::GetInChunk","hashes":["d7c99ef66a98a9e7084124ea7ef3db01377a00415373c6778302525a298775bd","8a50103bcb6463b1abf79e7690cc9a635289888fef55b5a0002d2890c89dfbac"],"id":"id-404","last_modified":1777712989691,"schema":1777712910770}

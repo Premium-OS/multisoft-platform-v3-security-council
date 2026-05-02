@@ -1,1 +1,1 @@
-{"description":"content (Android nightly): mozilla::jni::Accessor::EndAccess<T>","hashes":["3e3ff354f3a07b5708810c58319769cfa366ade8b36837913dc4d42c6c215569"],"id":"id-214","last_modified":1777625896998,"schema":1777625635102}
+{"description":"gpu (Android beta): libc.so | libGLESv2_adreno.so","hashes":["43dbe229f1b782bd7d0a6e83548b1f69afd69a30df859106a45ea9076c2bf0f7"],"id":"id-214","last_modified":1777712988374,"schema":1777712672754}
