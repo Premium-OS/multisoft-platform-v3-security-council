@@ -1,1 +1,1 @@
-{"description":"content (Android nightly): MozJemalloc::jemalloc_stats_internal","hashes":["4e707e40050bf6536aa9f2f980f78624424208af00f3385fbc08c53accd8815e"],"id":"id-253","last_modified":1777712988440,"schema":1777712720919}
+{"description":"socket (Mac release): mozilla::BufferList<T>::WriteBytes","hashes":["0b9ff17cffcbc9183501d7a2f46fa84f15f9bc924b3f544df63c47dad43c1445"],"id":"id-253","last_modified":1777799376804,"schema":1777799122359}
