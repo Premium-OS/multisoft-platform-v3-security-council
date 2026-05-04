@@ -1,1 +1,1 @@
-{"description":"rdd (Windows beta): RtlpReportHeapFailure | RtlpAllocateHeapInternal | RtlAllocateHeap | _malloc_base","hashes":["db6d8e9f00dcc6a8d1e03fecaefe2f27750c20e9ced52952c18fe5512a8f819d"],"id":"id-458","last_modified":1777799378567,"schema":1777799367279}
+{"description":"rdd (Windows beta): wcslen | RtlInitUnicodeStringEx | LoadLibraryExW","hashes":["9d90f15d118fb303714e178256c5d037d61acd5589b9822da88ac79ff64f2a68"],"id":"id-458","last_modified":1777884577177,"schema":1777884563386}
