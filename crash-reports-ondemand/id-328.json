@@ -1,1 +1,1 @@
-{"description":"content (Windows nightly): js::gc::FreeLists::allocate","hashes":["45c5a670b60b279c7c55f04df524dcf5ef39ecf728b399bb1004e9621e539ebf","4f4f8ffe4263346d9488c8b8b080ab1f013491512d88f8b96061e756181d5f10","5fee66ec8de8edc2dcd9e3c0aeafd6c45c9b38b6320c0d81079b5ffd06dba92d"],"id":"id-328","last_modified":1777884577695,"schema":1777884406643}
+{"description":"socket (Linux release): libxul.so | libnspr4.so","hashes":["03a0a8a218e60603fdaadb84ecbb8ef59b4419f428f81eb5333c2e270c1bf4cd"],"id":"id-328","last_modified":1777972124434,"schema":1777971961759}
