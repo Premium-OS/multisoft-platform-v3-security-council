@@ -1,1 +1,1 @@
-{"description":"rdd (Windows nightly): msmpeg2vdec.dll | combase.dll | mozilla::detail::DynamicallyLinkedFunctionPtrBase<T>::operator()","hashes":["fb27a939370becbfa18f986472606d035028ead4ddce5e6055ba45720e90f004"],"id":"id-220","last_modified":1777972123002,"schema":1777971847054}
+{"description":"gpu (Android beta): libc.so | libxul.so | libc.so | libRBGLESv2_adreno.so","hashes":["57fa0350cf82141629795aa22bc62642cd37eb1a86d9a274e4564ae223e835ab"],"id":"id-220","last_modified":1778059733285,"schema":1778059450522}

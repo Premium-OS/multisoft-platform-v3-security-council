@@ -1,1 +1,1 @@
-{"description":"rdd (Windows beta): wcslen | RtlInitUnicodeStringEx | LoadLibraryExW","hashes":["e9b05527b8a947af8bc1838ab7bf9d54342ec3db561acce8b0f2d20f6f82d67f"],"id":"id-040","last_modified":1777972123363,"schema":1777971652324}
+{"description":"main (Mac beta): mozilla::net::nsSocketTransportService::AttachSocket","hashes":["efd2bb67413b6a99ac132ec8576e62ac26e3038ce4a5ee43d14fb6a2d1d67ded","c12537f1a9fdedfc78e0c84d7653e585f7790c8797df07d7934a47fd61ca038e"],"id":"id-040","last_modified":1778059732485,"schema":1778059255990}
