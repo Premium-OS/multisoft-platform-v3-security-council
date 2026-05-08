@@ -1,1 +1,1 @@
-{"description":"content (Android nightly): IPCError-content | RecvOutgoingData Content tried to send non STUN packet","hashes":["a24af1749e70bf9306878b6cc4f675da8d01fc0c1ad307a6ccb1d082964ee5fb","1c64361f6c6185eb8ddc4764778d9a4d0b5583efa6e4702986facfc242960e66"],"id":"id-394","last_modified":1778143135280,"schema":1778143040510}
+{"description":"content (Linux nightly): JS::shadow::Shape::isProxy","hashes":["4568dd04a6981f3a77545c4f4c4a5fcd3f5cb825243c5871ed49ecf72a772cfb"],"id":"id-394","last_modified":1778229529344,"schema":1778229434829}

@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): mozilla::Maybe<T>::operator-> | JS::loader::LoadedScript::IsUTF16Text","hashes":["78906e79f9a12747572b7d836988c5a41368798e0f51c50a73a992fd39e4739a"],"id":"id-082","last_modified":1778143136197,"schema":1778142699819}
+{"description":"utility (Windows nightly): mozilla::ipc::UtilityProcessImpl::LoadLibraryOrCrash","hashes":["55af380c15ec0688ee0e666858c3f5b9fe28a57111ccfd1f18c0c8c0ef492c41","5d5f561fef00ee16f57854da9e0a001726d825ff8dfa109023060b5809c931ee"],"id":"id-082","last_modified":1778229530339,"schema":1778229103160}
