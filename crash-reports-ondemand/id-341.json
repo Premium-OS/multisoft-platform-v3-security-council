@@ -1,1 +1,1 @@
-{"description":"main (Linux beta): mozilla::widget::WlLogHandler","hashes":["ccc1f18bcf699a15231d7417ae265df3cff4facefc0b2eba956abd4545d66d7d","99b30578d76f5bec7d2d6cd938627e4746695f5c0d7099785dfb4af24ccb01d8","a636a76be3308dc62c09200a64ba9a535b963b31eefe5bcb72c06ac57e264a46"],"id":"id-341","last_modified":1778229528663,"schema":1778229377767}
+{"description":"content (Android nightly): mozilla::SharedPrefMap::SharedPrefMap","hashes":["3db396263fd71e7c3e09b3e1419302e5906ce60c8dfbef696ac9bed3ed4647ef"],"id":"id-341","last_modified":1778315944659,"schema":1778315789652}
