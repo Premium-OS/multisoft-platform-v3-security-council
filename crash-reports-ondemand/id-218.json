@@ -1,1 +1,1 @@
-{"description":"content (Linux nightly): nsTArray_Impl<T>::ElementAt | nsTArray_Impl<T>::operator[] | nsStyleAutoArray<T>::operator[]","hashes":["4ea2960eabe91fec95bff8faa544887d890b4eb4936f1367e8909dd110369675"],"id":"id-218","last_modified":1778229529329,"schema":1778229247457}
+{"description":"content (Mac nightly): nsAtomSubTable::Add","hashes":["810b0d46ca337fb2784de8a2b685d323f177193962ac6296702c245ac9c60a97"],"id":"id-218","last_modified":1778315945328,"schema":1778315651397}
