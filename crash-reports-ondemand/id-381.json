@@ -1,1 +1,1 @@
-{"description":"gpu (Mac beta): libsystem_kernel.dylib","hashes":["f78fa7563beb922a09bd21cefd9b009aec542b45eca3786207bf166d8bbb980d"],"id":"id-381","last_modified":1778401744661,"schema":1778401631072}
+{"description":"gpu (Android nightly): libc.so | libglslcompiler.so","hashes":["f05501275fa29f021377efceba92c042bf31386de1c9ec888ff7fefed9aeb4c9","b504bf12b3144ef1e50d979053d6ef90ee0f99ec77609c9f6d0109831486544b"],"id":"id-381","last_modified":1778488156489,"schema":1778488037442}

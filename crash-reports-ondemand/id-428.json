@@ -1,1 +1,1 @@
-{"description":"gpu (Linux release): arena_dalloc | BaseAllocator::free | MozJemalloc::free | PageFree","hashes":["0fc275c02ec2435a68fedf2117e2e4e8eb0d69050e532a83f3453d7d8ef56d48"],"id":"id-428","last_modified":1778401744507,"schema":1778401681953}
+{"description":"content (Linux nightly): mozilla::dom::Element::GetShadowRoot","hashes":["17d159328cbf6d8e9113aacd09779152a32327a73e98f9163b11a4e0f7b78dda"],"id":"id-428","last_modified":1778488156396,"schema":1778488088291}
