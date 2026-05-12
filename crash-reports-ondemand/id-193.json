@@ -1,1 +1,1 @@
-{"description":"utility (Windows nightly): mozilla::detail::ProxyRunnable<T>::~ProxyRunnable","hashes":["a6be36fb276a3b33ab6bd1bdf1b7c1f29b2aeaf24ddfaeaacc69ba073bc1f4c7"],"id":"id-193","last_modified":1778488154479,"schema":1778487827272}
+{"description":"content (Linux beta): mozilla::net::HttpChannelChild::ConnectParent","hashes":["7eea793fd6925b0acb9f12597c24b80243e3a55ca542ede7b1dbeb46b2c78a34","e64a33376df5fc19bd448fb59241c6bf0764a4ecc03e8ea49c2961ac1755d7f1"],"id":"id-193","last_modified":1778575228702,"schema":1778574882500}
