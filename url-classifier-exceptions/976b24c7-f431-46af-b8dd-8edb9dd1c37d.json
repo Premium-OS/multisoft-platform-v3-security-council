@@ -1,0 +1,1 @@
+{"bugIds":["2034777"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"976b24c7-f431-46af-b8dd-8edb9dd1c37d","last_modified":1778680515129,"schema":1778284812033,"topLevelUrlPattern":"*://hatena.blog/*","urlPattern":"*://*.st-hatena.com/*"}
