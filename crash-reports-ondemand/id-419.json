@@ -1,1 +1,1 @@
-{"description":"content (Mac beta): mozilla::detail::RWLockImpl::readLock","hashes":["af249fb2772ca9846750ad19ca70282a3552be95f989dc879f5b433d78c892a5","0abea029a6a12ce25810bb42b01d95cbeb7bfdad205dcd6f73e1b71801c3dae9"],"id":"id-419","last_modified":1778575229980,"schema":1778575150174}
+{"description":"socket (Mac release): _dispatch_runloop_queue_xref_dispose","hashes":["d2e05db6caed68c731b3727fef2020d3b2a7a1fd92b84710537ffd06dce7400c"],"id":"id-419","last_modified":1778662149947,"schema":1778662077553}
