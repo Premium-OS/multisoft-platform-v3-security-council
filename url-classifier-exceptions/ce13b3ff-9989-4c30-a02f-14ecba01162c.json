@@ -1,0 +1,1 @@
+{"bugIds":["2033424"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"ce13b3ff-9989-4c30-a02f-14ecba01162c","last_modified":1778839851420,"schema":1778724610611,"topLevelUrlPattern":"*://moviedrive.hu/*","urlPattern":"*://*.vk.com/*"}
