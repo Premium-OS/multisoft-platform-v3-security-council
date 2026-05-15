@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): nsTArray_Impl<T>::ElementAt | nsTArray_Impl<T>::operator[] | nsCellMapColumnIterator::GetNextFrame","hashes":["95f45fa968efaf7698ec28660bad6b499b2b38bc600559074e973446a2b33b26","02815c73cd90c1d509222cf52db3f3d837c4fbf39bf8e15a62d6809afecbf03c"],"id":"id-292","last_modified":1778749775361,"schema":1778749553395}
+{"description":"content (Linux nightly): js::detail::BumpChunk::assertInvariants","hashes":["fef0d13e982aaa854dde77c50e2cdc0d20621fd3b10896d05f3e20d5d6157fd0"],"id":"id-292","last_modified":1778859557224,"schema":1778859330603}
