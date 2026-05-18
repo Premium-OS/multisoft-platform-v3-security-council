@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): libc.so | mozilla::gl::GLContext::fBufferData","hashes":["162b53a4e759514280249be81625250d67ec53d710eb9bb46acb544815dffabf"],"id":"id-240","last_modified":1779013725701,"schema":1779013465652}
+{"description":"socket (Mac release): mozilla::LogModule::ShouldLog","hashes":["53135d51f3079f0e28986583cb65af80e055f955dc996aef57d98114723814d4"],"id":"id-240","last_modified":1779093046908,"schema":1779092723226}

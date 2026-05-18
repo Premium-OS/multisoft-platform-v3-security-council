@@ -1,1 +1,1 @@
-{"description":"socket (Mac release): objc_msgSend | mozilla::ipc::MessagePumpForNonMainThreads::Run","hashes":["ae7f26fa9e083e356ac396a67c203b9eead16ccf5959478308bd23d036926cfe"],"id":"id-380","last_modified":1779013725391,"schema":1779013614719}
+{"description":"main (Mac nightly): objc_exception_rethrow | __NSWindowGetDisplayCycleObserverForLayout_block_invoke","hashes":["d4da00011a846eb990fc5d6db93be3974d988bce688437ec1b4c4a4b9380e41a","348e9f471d001069c1950cf734cde2e336b462b7464e038beb449afdb3e96045"],"id":"id-380","last_modified":1779093046533,"schema":1779092929772}
