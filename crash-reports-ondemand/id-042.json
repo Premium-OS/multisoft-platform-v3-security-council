@@ -1,1 +1,1 @@
-{"description":"socket (Windows beta): nsThreadPool::PutEvent","hashes":["341c77a3d50a74c134a7f1548d06b8e4106ec4c3624152185b96f90fb5243882","f13f114f75368dc491748da30017caaf8068b291d6f5a68bd26e2546e1a7c2f4"],"id":"id-042","last_modified":1779013723961,"schema":1779013252332}
+{"description":"utility (Windows nightly): base::win::internal::ScopedHandleVerifier::OnHandleBeingClosedImpl","hashes":["b22c66f20cc416ff86e0e6f7ed924a35e6e40059c9e581121e8093b69873dc8d"],"id":"id-042","last_modified":1779093044699,"schema":1779092457141}

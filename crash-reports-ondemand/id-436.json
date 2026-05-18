@@ -1,1 +1,1 @@
-{"description":"gpu (Linux release): <.text ELF section in libnvidia-eglcore.so.580.142>","hashes":["9378dbf4da0a36be5d091a4b98fd795a8f276694ceddb908da1d54e4b5537b27"],"id":"id-436","last_modified":1779013724253,"schema":1779013675353}
+{"description":"main (Mac nightly): mozilla::dom::syncedcontext::Transaction<T>::Commit | mozilla::dom::BrowsingContext::SetAnimationsPlayBackRateMultiplier","hashes":["7f2b4521af311ccb28c330bd53db4767b873abc274032e5f91ef9ccafdec9335"],"id":"id-436","last_modified":1779093044992,"schema":1779092992070}
