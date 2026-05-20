@@ -1,1 +1,1 @@
-{"description":"main (Mac nightly): mozilla::net::nsHttpConnectionMgr::CheckTransInPendingQueue","hashes":["2d31bb750e286bb1dda8f130223cb5f5df4e0100a06a7959ae2a0ab180ab6d12"],"id":"id-359","last_modified":1779180558251,"schema":1779180422642}
+{"description":"content (Mac nightly): nsGlobalWindowInner::ClearDocumentDependentSlots","hashes":["dd08234144253b157add19bd00bda95de7d231108bf122ebe7cfc38b486e453c","dc6f7eebfbb9012dd62580144e2e5b2bd1d72ac923e31ddc6cf73f9a63505893"],"id":"id-359","last_modified":1779266936692,"schema":1779266803556}

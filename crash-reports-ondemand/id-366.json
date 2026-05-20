@@ -1,1 +1,1 @@
-{"description":"rdd (Windows nightly): mozilla::layers::TextureClientRecycleAllocator::CreateOrRecycle","hashes":["cde36847676d1469c5efe700a53693594e255bcf7678039208fc5f0a681daaaf"],"id":"id-366","last_modified":1779180557693,"schema":1779180430602}
+{"description":"rdd (Windows beta): wcslen | RtlInitUnicodeStringEx | LoadLibraryExW","hashes":["e282f26ee44b024aa4eda17f82adec4f9317477fc7959b3aa743364f84cf2cc3"],"id":"id-366","last_modified":1779266936185,"schema":1779266811015}
