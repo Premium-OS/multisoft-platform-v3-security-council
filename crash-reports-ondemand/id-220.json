@@ -1,1 +1,1 @@
-{"description":"main (Mac nightly): mozilla::dom::quota::QuotaManager::Shutdown::$::operator()","hashes":["42426ac864b9d584a01a4e1c08eadf48f445149ed986e92fc2aa9862b83f91d6","c6e14b81f57d94f8c0b1f1a478636a9d93255b3e52064eb11690dd0ab4664ec2"],"id":"id-220","last_modified":1779266936888,"schema":1779266650473}
+{"description":"content (Mac nightly): js::NativeObject::getElementsHeader","hashes":["4398f189d85902348b663d5663b346488031575479874b068d98b58f08ad93cc"],"id":"id-220","last_modified":1779352154805,"schema":1779351862364}
