@@ -1,0 +1,1 @@
+{"bugIds":["2040884"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"2108c51b-2f9a-409b-8357-687ac09f2c29","last_modified":1779329411139,"schema":1779116193829,"topLevelUrlPattern":"*://www.alltrails.com/*","urlPattern":"*://www.datadoghq-browser-agent.com/*"}
