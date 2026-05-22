@@ -1,1 +1,1 @@
-{"description":"socket (Windows beta): InjUmon64.dll","hashes":["531874f5403d9dd5b1fbfe5835a65de00c90304af76ca379326ba7a94c7be63e","2fc5904b91b74099193f153b365d6500c00de11de8e0c4cf76c969733ece014d","9bac87e986d5b3cd4af3e5856f674ff4874ded22aa03932983a79667d851c709"],"id":"id-380","last_modified":1779352156078,"schema":1779352043607}
+{"description":"rdd (Windows nightly): AllocInfo::GetInChunk","hashes":["d2c8a06edf587653f1281e774af3e4d58ebfe1516fc4bb81df406c4311760e40"],"id":"id-380","last_modified":1779435555878,"schema":1779435445935}

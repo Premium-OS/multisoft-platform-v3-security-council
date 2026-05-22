@@ -1,1 +1,1 @@
-{"description":"utility (Windows beta): @0x0 | <unknown in firefox.pdb>","hashes":["8ad5efbde7a584dc6ad625f168d655018fd234f64a907fe4c68e10242cbe895a"],"id":"id-170","last_modified":1779352155943,"schema":1779351803937}
+{"description":"socket (Mac release): mozilla::ipc::MessagePump::Run","hashes":["5ae5263e7930a9d4adc9ec82d783425fea984e5c5370904f65e9de771f44f088","7524825b4700c80d70fb90c1e76e10c23fc0bf1fdbde40e10b65a1e3e39e3105","3cc898fd00bf5936fa371dc1a752b0d3680e7c3448e474145df08c79d762e06b"],"id":"id-170","last_modified":1779435555739,"schema":1779435206818}

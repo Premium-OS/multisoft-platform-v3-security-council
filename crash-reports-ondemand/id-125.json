@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): crossbeam_channel::channel::Sender<T>::send","hashes":["10e999f6dbe4b3d0086592d11fc83a454d539995528dc08b665d8742b3f51664"],"id":"id-125","last_modified":1779352156415,"schema":1779351753949}
+{"description":"content (Linux nightly): servo_arc::Arc<T>::is_static","hashes":["5e58465570a0fc82142be948baa9575f4fe076e2654d063d856de26f8f32dbf6","d6b7ada9170829198ba9456da35886993076bc67d6ad57c627bc0c4f15b3d1c2"],"id":"id-125","last_modified":1779435556237,"schema":1779435157248}

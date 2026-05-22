@@ -1,1 +1,1 @@
-{"description":"gpu (Mac nightly): <usize as core::slice::index::SliceIndex<[T]>>::index_mut","hashes":["203d7c1876a48a7222070d9d6a9bd1c22b57542b06c52c9f20fe25a99f2dfbf0"],"id":"id-302","last_modified":1779352156580,"schema":1779351956390}
+{"description":"utility (Windows nightly): base::win::internal::ScopedHandleVerifier::OnHandleBeingClosedImpl","hashes":["b22c66f20cc416ff86e0e6f7ed924a35e6e40059c9e581121e8093b69873dc8d"],"id":"id-302","last_modified":1779435556386,"schema":1779435356795}
