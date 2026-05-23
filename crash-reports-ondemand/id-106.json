@@ -1,1 +1,1 @@
-{"description":"utility (Linux beta): nsThreadPool::PutEvent","hashes":["d45c983d21c9cb327e8348adebb85100c99cb0669215f14d56dc3dac590bba0d","0e2b626d3d7cf0163d0f9950927e6491e7243e9f2693aea1b3dfec9d90d2329f"],"id":"id-106","last_modified":1779435556682,"schema":1779435134131}
+{"description":"utility (Windows nightly): base::win::internal::ScopedHandleVerifier::OnHandleBeingClosedImpl","hashes":["b22c66f20cc416ff86e0e6f7ed924a35e6e40059c9e581121e8093b69873dc8d"],"id":"id-106","last_modified":1779523141708,"schema":1779522726894}

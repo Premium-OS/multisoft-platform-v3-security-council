@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): JSScript::getScope","hashes":["7d708a01a4ba911bcf997cb3664b1f113f9153fbb9d7d062071f7fc936a8f8ba","5eafc222f129c9d9422e379f4fdd4d4ac1898dbda2bcfa481df8ec7ef32913d3"],"id":"id-316","last_modified":1779435556022,"schema":1779435372311}
+{"description":"utility (Windows nightly): ZfHookSFDlpPlugin.dll | ZfHookFileMmPlugin.dll | mozilla::interceptor::FuncHook<T>::operator()","hashes":["41d41b329865a4e69412dbf072352552d0254df53ea22285f0bc93cb6838113a"],"id":"id-316","last_modified":1779523141151,"schema":1779522962281}
