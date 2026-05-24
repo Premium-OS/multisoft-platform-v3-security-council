@@ -1,1 +1,1 @@
-{"description":"main (Mac nightly): mozilla::net::nsSocketTransportService::AttachSocket","hashes":["3021c1086c125f0e96b521cded9e7504aeca0a5a57f007cfe93aa13d77a40489","c3f3ba2f509ebb8cd647257a141b1352eabfaa55348611def13e23484a5f0c9f"],"id":"id-363","last_modified":1779523140395,"schema":1779523016105}
+{"description":"content (Mac beta): mozilla::URLExtraData::ReferrerInfo","hashes":["569d76136969663f5d69e4c282d99125246852790093e42abda6e05dbe98a11c"],"id":"id-363","last_modified":1779611920673,"schema":1779611801754}

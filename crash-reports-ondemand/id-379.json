@@ -1,1 +1,1 @@
-{"description":"rdd (Mac release): _ZN9AllocInfo10GetInChunkEPKvP13arena_chunk_tm","hashes":["cf4f02083ac87932b128cb82dbc74b83cb8d6fdd1de2a3e529c9edd81b163654","e1b0442a65bdbc22acb0a976f9602de0a0a5b116332227c42d3145af46939343","4a5853dd7bf4ec143e86643dc25862b79e3c32260b1540600f9ced9e8d885bbc"],"id":"id-379","last_modified":1779523138804,"schema":1779523033609}
+{"description":"gpu (Android nightly): mozilla::wr::Moz2DRenderCallback","hashes":["a21affd668b17a6e12dfe707ba394f72b1cda04bcc0ffb2bd27de64679980eb3"],"id":"id-379","last_modified":1779611919700,"schema":1779611818471}

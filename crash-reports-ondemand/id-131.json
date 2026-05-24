@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): crossbeam_channel::channel::Receiver<T>::recv","hashes":["cba75e11302501cbdb7d97124eea2abc5152a745f9426536122cc5cdecb669ea"],"id":"id-131","last_modified":1779523140320,"schema":1779522754684}
+{"description":"utility (Windows beta): std::_Uninitialized_move<T>","hashes":["fdd67ad9e41ffd90baf5a1ce52736551071ea3a7063453865aedc0daa6ce293b","acf956d8d098bb59fcf6d4854464343a404c3577d8f3eaadb934c9688a119e66"],"id":"id-131","last_modified":1779611920819,"schema":1779611552165}
