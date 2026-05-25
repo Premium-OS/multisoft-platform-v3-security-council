@@ -1,1 +1,1 @@
-{"description":"content (Mac beta): mozilla::dom::RemoteObjectProxyBase::GetOrCreateProxyObject","hashes":["1f9692db8ba5e700e03860cca3d97c41dcd3379687eedf70b27506af51f8cc6c","2b94fb3555bf299a92379b5fdd48bd34e020d5a59899f320274ca9ba5816458f"],"id":"id-223","last_modified":1779611921840,"schema":1779611651739}
+{"description":"utility (Mac release): nsTString<T>::get","hashes":["6c3b8bf9a02a9a305e35229e12239151a98ec1ffba8ec878c752da36f6692fd5","05c03c8124670524589b9aa7724a375f8dcf1903350ab0171bb65ef6e5214e6a"],"id":"id-223","last_modified":1779698927938,"schema":1779698652589}
