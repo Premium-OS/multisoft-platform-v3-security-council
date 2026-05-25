@@ -1,1 +1,1 @@
-{"description":"content (Linux nightly): mozilla::dom::JSActorManager::ReceiveRawMessage","hashes":["d9adf3c887824cecc555c59247ffa4f3351fc924672263a1eae416cd43a23d24","69d710ea390c08ec07b7fdadede5155a51f9a59d658d6949a471deec8e138db5"],"id":"id-362","last_modified":1779611920843,"schema":1779611800712}
+{"description":"main (Mac beta): mozilla::net::nsSocketTransportService::AttachSocket","hashes":["2134f13206d30c00f9b9b36c130dd59b38677d55f9ff0b198fb99ef323c575af"],"id":"id-362","last_modified":1779698926942,"schema":1779698805466}
