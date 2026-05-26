@@ -1,1 +1,1 @@
-{"description":"main (Android nightly): libc.so | liblog.so","hashes":["16634cbb6d2d639946d43bce65fdf14db225490792604413d7dffca7bf75dc2b","2f2ac3a96d7697d5313706876b2d0608e6e80b1604268145e9b367fd5c2f62b8"],"id":"id-147","last_modified":1779698927547,"schema":1779698568591}
+{"description":"gpu (Android beta): libc.so | libGLESv2_powervr.so","hashes":["c760efb9f47d939f519c2b8daf61531a9642bb82cb044f04529c1cefa9db62c2","4892ee03599f3af63d7d3a0ae6baf567c6ab4bd8528946b09404b57e0959fb84"],"id":"id-147","last_modified":1779783530177,"schema":1779783170978}

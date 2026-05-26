@@ -1,1 +1,1 @@
-{"description":"socket (Windows beta): ssl3_DestroyRemoteExtensions | ssl3_DestroySSL3Info | ssl_DestroySocketContents | ssl_NewSocket | ssl_ImportFD | mozilla::TransportLayerDtls::Setup","hashes":["3d04670820e0797f52f63c26378a3544ae7b7a40ec2c763ea87202c4c6f454c5"],"id":"id-143","last_modified":1779698927841,"schema":1779698564333}
+{"description":"gpu (Android beta): libusc.so","hashes":["1e747350b65a942deb15eaa02f96ad20cb129d43df349bd13a7f90a3da2a7380"],"id":"id-143","last_modified":1779783530454,"schema":1779783166668}

@@ -1,1 +1,1 @@
-{"description":"content (Android beta): OOM | unknown | js::AutoEnterOOMUnsafeRegion::crash_impl | <.plt ELF section in libxul.so> | <.plt ELF section in libxul.so> | arena_t::AllocRun | MozJemalloc::realloc","hashes":["3334e474bf37e5e227b33a9ac120b9aa1e9874c72e59bd8e303a0ed9d3d7ec42"],"id":"id-455","last_modified":1779698927779,"schema":1779698908736}
+{"description":"content (Android nightly): mozilla::dom::WebExtensionInit::Init","hashes":["c88039aa1c5e1b66120f8c33b4cc5e73efcedfe6bc5cd4d3a28e83ba9fbb04cd"],"id":"id-455","last_modified":1779783530397,"schema":1779783511175}
