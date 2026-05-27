@@ -1,1 +1,1 @@
-{"description":"content (Linux beta): @0x0 | nsCycleCollectionParticipant::TraverseNativeAndJS","hashes":["de6fd1da8a376bcc17590358b0dbae81f1632e4c407400fa7f9e47a6e04d6651"],"id":"id-447","last_modified":1779783530144,"schema":1779783502054}
+{"description":"socket (Windows beta): ssl3_DestroyRemoteExtensions | ssl3_DestroySSL3Info | ssl_DestroySocketContents | ssl_NewSocket | ssl_ImportFD | mozilla::TransportLayerDtls::Setup","hashes":["3d04670820e0797f52f63c26378a3544ae7b7a40ec2c763ea87202c4c6f454c5"],"id":"id-447","last_modified":1779871151992,"schema":1779871123749}

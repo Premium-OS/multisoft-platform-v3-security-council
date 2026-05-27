@@ -1,1 +1,1 @@
-{"description":"main (Android beta): mozilla::jni::Accessor::EndAccess<T>","hashes":["e6396e1e41ded2328d5aeaccca79e77b050cf7c3703ecdd4af3262297581ebc1","6a2382b26b532b7ecd42cc6d8af2314a71de1436f36db4214d3cf0b0307e69cc","de9933023c30638e9f05d74c9be4243c7d16d23c63f0b68cfadb8480c318839a"],"id":"id-289","last_modified":1779783530334,"schema":1779783328734}
+{"description":"content (Mac nightly): JSLinearString::finalize","hashes":["aee53abc9c5af54f470f4036c9cc2f5e914cf8587b4014aa8e832d7e4db76286"],"id":"id-289","last_modified":1779871152179,"schema":1779870941759}
