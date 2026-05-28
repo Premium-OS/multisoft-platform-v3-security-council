@@ -1,1 +1,1 @@
-{"description":"gpu (Android beta): libc.so | libGLESv2_powervr.so","hashes":["c760efb9f47d939f519c2b8daf61531a9642bb82cb044f04529c1cefa9db62c2","a2687b7da8262523a5dd780cde5e13d2f82a18a6aa0c06d42a54c938ff11943c"],"id":"id-075","last_modified":1779871150364,"schema":1779870697274}
+{"description":"gpu (Android nightly): dl_iterate_callback","hashes":["cd42a3580d5da5d72a71afe572a5671fbb4a44d235cdefcba5a21ad88d335078"],"id":"id-075","last_modified":1779957549712,"schema":1779957102537}
