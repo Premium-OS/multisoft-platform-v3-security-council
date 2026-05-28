@@ -1,1 +1,1 @@
-{"description":"gpu (Android beta): mozilla::wr::RenderThread::HandleFrameOneDocInner","hashes":["2d6ce05448d97427b115309dbc66ae722e12bb77aab9aceac4ea1b65bb7a185c"],"id":"id-195","last_modified":1779871152213,"schema":1779870837712}
+{"description":"gpu (Mac nightly): webrender::renderer::gpu_buffer::GpuBufferBuilderImpl<T>::write_blocks","hashes":["0da9f77234873feee49e307b25d33e968230cb43df09b2e5e19ce0b4c803a751"],"id":"id-195","last_modified":1779957551805,"schema":1779957235334}
