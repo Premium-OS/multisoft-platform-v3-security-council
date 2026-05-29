@@ -1,1 +1,1 @@
-{"description":"content (Linux nightly): js::gc::MarkingTracerT<T>::markAndTraverse<T>","hashes":["91a7296c3ead2550a03f0957c357f045a3021b31ebcf09fa5cd45ed9103cc319"],"id":"id-293","last_modified":1779957552021,"schema":1779957345110}
+{"description":"utility (Windows beta): mozilla::mscom::ProcessRuntime::InitializeSecurity","hashes":["64d6de1d41585de04ddbe157cfa4f6e83ad79b8493aceba1ba8a2ed08db23c40","5ae8cbbdd2ac6a6e1a0e78e84fec7dc3f3a20a5e5db91e547755de713013849a"],"id":"id-293","last_modified":1780043340077,"schema":1780043131370}

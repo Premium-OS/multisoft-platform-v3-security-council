@@ -1,1 +1,1 @@
-{"description":"main (Mac beta): mozilla::PresShell::DoFlushPendingNotifications","hashes":["a7b08b0d3397818cb9e237112ffd2a62201f1b86b2eb8eb61c447f8dea114092"],"id":"id-436","last_modified":1779957551792,"schema":1779957506276}
+{"description":"main (Mac beta): mozilla::dom::quota::QuotaManager::Shutdown::$::operator()","hashes":["1b77d6c36258002a9608b53d83ded1793b6b75ab9d906b3ccce877dc1f959acd"],"id":"id-436","last_modified":1780043339856,"schema":1780043289935}
