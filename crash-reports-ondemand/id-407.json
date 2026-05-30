@@ -1,1 +1,1 @@
-{"description":"socket (Windows beta): mozilla::HashStringUntilZero","hashes":["5c11625be2f8ee904214955f086b55976ecbe903a77bd6a6f80a04b4734dd1d5"],"id":"id-407","last_modified":1780043340411,"schema":1780043258228}
+{"description":"utility (Windows nightly): nsTArray_Impl<T>::AppendElementInternal | nsTArray<T>::AppendElement | mozilla::FFmpegAudioDecoder<T>::PostProcessOutput","hashes":["8005d6dbb6389035bcf8da6bc4e9fc0762fe5c8fc5a7d5f5ea3a11f4d16253d7"],"id":"id-407","last_modified":1780132133147,"schema":1780132052979}

@@ -1,1 +1,1 @@
-{"description":"utility (Windows nightly): mozilla::mscom::ProcessRuntime::InitializeSecurity","hashes":["21b8fa46858e8cc06407ca366379a7811e87d12fcc66554b405662e87210bda1"],"id":"id-216","last_modified":1780043339918,"schema":1780043046062}
+{"description":"gpu (Mac nightly): webrender::renderer::gpu_buffer::GpuBufferBuilderImpl<T>::write_blocks","hashes":["eaf52acb36c575b76661a89a400424c6f5f314fb0ba5f9ef856e226457314a61"],"id":"id-216","last_modified":1780132132574,"schema":1780131844553}
