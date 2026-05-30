@@ -1,1 +1,1 @@
-{"description":"socket (Mac release): mozilla::ipc::MessagePump::Run","hashes":["562d5c355559f191d22585935ff3aabea1ee33557944776d17727f1909525411","f5aa2cd350d42ecb413b34c25910f11062276d16f1bcb2170c21dc44ae4b4eae"],"id":"id-428","last_modified":1780043338409,"schema":1780043281350}
+{"description":"content (Mac beta): nsGlobalWindowInner::ClearDocumentDependentSlots","hashes":["2f0d55400c45cf09b66cd22ac47b09b55304784209bbd29947eb0ad97f600b1d"],"id":"id-428","last_modified":1780132131117,"schema":1780132075610}

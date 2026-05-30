@@ -1,1 +1,1 @@
-{"description":"socket (Linux release): arena_dalloc | BaseAllocator::free | MozJemalloc::free | PageFree","hashes":["3f4bb5b0f3a34b9853dbbaba19756083dc32b19a043ef1307d2010b6bd215159","e3a8cf054f86420bd537589b66d5a90b2dea9564b994d7b325dd36df4cf534ea"],"id":"id-399","last_modified":1780043338518,"schema":1780043249617}
+{"description":"socket (Linux nightly): mozilla::net::nsHttpConnectionMgr::CheckTransInPendingQueue","hashes":["5b8404daac5ae3f6a079cfafe008812f8729d5a515540702b4ded06ef009cc91"],"id":"id-399","last_modified":1780132131208,"schema":1780132044384}
