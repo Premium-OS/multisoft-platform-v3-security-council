@@ -1,0 +1,1 @@
+{"bugIds":["2036052"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"4dfbb3a8-e1dd-42f7-81e9-29ee06ab03e5","last_modified":1780107012478,"schema":1780107010501,"topLevelUrlPattern":"*://app.codegpt.co/*","urlPattern":"*://api.ipify.org/*"}

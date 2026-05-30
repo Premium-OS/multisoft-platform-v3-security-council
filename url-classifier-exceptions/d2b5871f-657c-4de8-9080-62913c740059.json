@@ -1,0 +1,1 @@
+{"bugIds":["2034482"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"d2b5871f-657c-4de8-9080-62913c740059","last_modified":1780107012537,"schema":1780107012039,"topLevelUrlPattern":"*://www.channel3000.com/*","urlPattern":"*://combcompetition.com/*"}
