@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): mozilla::CheckedInt<T>::value | mozilla::media::TimeUnit::operator<T>","hashes":["223900a523b8dbf7373491192985cdab1f1250bc2899dcdb2034852ba829c627"],"id":"id-357","last_modified":1780132131525,"schema":1780131997400}
+{"description":"content (Android beta): mozilla::media::Interval<T>::Interval<T> | mozilla::TrackBuffersManager::RemoveFrames","hashes":["653767537f8d66a0618e89ec3d46697a205dd574c72bcd6fcaf056268d741324"],"id":"id-357","last_modified":1780306147007,"schema":1780306009707}
