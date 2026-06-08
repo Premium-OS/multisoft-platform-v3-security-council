@@ -1,0 +1,1 @@
+{"bugIds":["2041230"],"category":"convenience","classifierFeatures":["tracking-protection","socialtracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"5f666039-ecec-4ce5-9daf-4ce2d3120559","last_modified":1780366212546,"schema":1780366211624,"topLevelUrlPattern":"*://totalcar.hu/*","urlPattern":"*://video-ber1-1.xx.fbcdn.net/*"}

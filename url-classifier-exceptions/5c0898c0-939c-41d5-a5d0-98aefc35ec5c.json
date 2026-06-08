@@ -1,0 +1,1 @@
+{"bugIds":["2043146"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"5c0898c0-939c-41d5-a5d0-98aefc35ec5c","last_modified":1780366212465,"schema":1780366210238,"topLevelUrlPattern":"*://www.woolworths.co.za/*","urlPattern":"*://cdn-eu.dynamicyield.com/*"}
