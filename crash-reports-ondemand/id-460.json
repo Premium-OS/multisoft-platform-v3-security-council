@@ -1,1 +1,1 @@
-{"description":"rdd (Windows beta): mozilla::detail::InvalidArrayIndex_CRASH | nsTArray_Impl<T>::ElementAt | nsTArray_Impl<T>::operator[] | mozilla::WMFVideoMFTManager::Output","hashes":["bd9549cc1b5425fde0abb0520b509140a85cc6ee8fa15ee3277ad15512e132f2"],"id":"id-460","last_modified":1780306148467,"schema":1780306125210}
+{"description":"content (Mac nightly): mozilla::dom::CheckIsBadPolicy","hashes":["b6e1e82c1a4ff510c859883fb6cb67541187d90bfe3c52a291149f6b634e9fd6"],"id":"id-460","last_modified":1780908558504,"schema":1780908527516}
