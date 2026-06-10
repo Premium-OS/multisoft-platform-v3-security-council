@@ -1,1 +1,1 @@
-{"description":"rdd (Windows nightly): mozilla::layers::TextureClientRecycleAllocator::CreateOrRecycle","hashes":["91db8a9332fdb396421767757d0adeca7186c14710ca1c4e06d68411c6df20d4","d63d5a6d0b0c1fb70088e170be19cab75c82c0ac39ac6f36c1b291a81acbd784"],"id":"id-182","last_modified":1780908558633,"schema":1780908215745}
+{"description":"utility (Mac release): mozilla::HashStringUntilZero<T>","hashes":["d4cc9017f3802572d690fb9743281cb3382d9197dd29a185960cf1350d968a11"],"id":"id-182","last_modified":1781084376623,"schema":1781084023771}
