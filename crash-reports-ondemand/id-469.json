@@ -1,1 +1,1 @@
-{"description":"content (Linux nightly): JSScript::getScope","hashes":["6bcf2a778628371e81f321b99714484221e6665a45be59c0c65d3a1797f9b283","cbed3cd2e74e11f975fd9cc2207f3e041b28c50b03ba63c87e5b7daccd7d0e48"],"id":"id-469","last_modified":1780908556469,"schema":1780908537408}
+{"description":"content (Mac nightly): js::gc::MarkingTracerT<T>::onEdge<T>","hashes":["9bf030bab60589fac9c41fe86f3a0cc78cbfb5daec80362f69b51e60b4a5d291"],"id":"id-469","last_modified":1781084374606,"schema":1781084355014}
