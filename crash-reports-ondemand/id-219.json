@@ -1,1 +1,1 @@
-{"description":"content (Android beta): nsCycleCollectingAutoRefCnt::nsCycleCollectingAutoRefCnt","hashes":["51173e522d751cff011e8b84dbf607034f63b6ef6d33997893b6309f60f88df8"],"id":"id-219","last_modified":1781084376426,"schema":1781084065530}
+{"description":"socket (Mac release): nsComponentManagerImpl::GetServiceLocked(mozilla::Maybe<T>&, (anonymous namespace)::EntryWrapper&, nsID const&, void**)","hashes":["5ab15093e98fb17c923a4999ac8619999fffa4986e8f33bcfc70674dc03fd174"],"id":"id-219","last_modified":1781168356952,"schema":1781168059952}
