@@ -1,1 +1,1 @@
-{"description":"content (Android nightly): OOM | unknown | js::AutoEnterOOMUnsafeRegion::crash_impl | js::gc::BufferAllocator::TraceEdge","hashes":["573282a76f66cf92bcc786b7ef90f2445252bd6a6428a9136c2f3712340da1ca"],"id":"id-470","last_modified":1781084375432,"schema":1781084356140}
+{"description":"utility (Windows nightly): nsAppShell::StaticCreateEventWindow::<T>::operator()","hashes":["9d54b9384b7cddb0aee9056964ddc060d46675f47263ff2649287b1ee09815da"],"id":"id-470","last_modified":1781168355853,"schema":1781168346653}
