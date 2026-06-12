@@ -1,0 +1,1 @@
+{"bugIds":["2044998"],"category":"baseline","classifierFeatures":["tracking-protection","fingerprinting-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"1677190e-0786-4ac9-b0d8-c955d530b407","last_modified":1781230218442,"schema":1781230216347,"topLevelUrlPattern":"*://shop.cosmed.com.tw/*","urlPattern":"*://*.cdn.91app.com/*"}

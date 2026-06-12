@@ -1,0 +1,1 @@
+{"bugIds":["2046736"],"category":"baseline","classifierFeatures":["tracking-protection","fingerprinting-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"f22cbf21-d8ee-43dd-84b3-042a019f6afa","last_modified":1781230218362,"schema":1781136010242,"topLevelUrlPattern":"*://tw.puma.com/*","urlPattern":"*://*.91app.com/*"}

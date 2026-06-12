@@ -1,0 +1,1 @@
+{"bugIds":["2044953"],"category":"convenience","classifierFeatures":["tracking-protection","emailtracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"18c5cca7-3833-47c8-a384-e6365c59546c","last_modified":1781230218484,"schema":1781230216663,"topLevelUrlPattern":"*://www.roamans.com/*","urlPattern":"*://rapid-cdn.yottaa.com/*"}
