@@ -1,0 +1,1 @@
+{"bugIds":["2044642"],"category":"baseline","classifierFeatures":["tracking-protection","fingerprinting-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"017480bd-67b7-43f4-89fa-541c2e34320e","last_modified":1781274423806,"schema":1781230217567,"topLevelUrlPattern":"*://contadigital.inter.co/*","urlPattern":"*://*.dnofd.com/*"}

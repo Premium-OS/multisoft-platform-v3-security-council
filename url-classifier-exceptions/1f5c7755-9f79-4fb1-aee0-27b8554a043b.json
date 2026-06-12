@@ -1,0 +1,1 @@
+{"bugIds":["2046417"],"category":"baseline","classifierFeatures":["tracking-protection","emailtracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"1f5c7755-9f79-4fb1-aee0-27b8554a043b","last_modified":1781274423770,"schema":1781230214665,"topLevelUrlPattern":"*://techcrunch.com/*","urlPattern":"*://js-na2.hs-scripts.com/*"}

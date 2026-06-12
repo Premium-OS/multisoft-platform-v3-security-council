@@ -1,0 +1,1 @@
+{"bugIds":["2046400"],"category":"baseline","classifierFeatures":["tracking-protection","emailtracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"12215d9e-2e29-4fcc-9449-8d74a5b47402","last_modified":1781274423684,"schema":1781230215135,"topLevelUrlPattern":"*://www.bbc.com/*","urlPattern":"*://cdn.optimizely.com/*"}
