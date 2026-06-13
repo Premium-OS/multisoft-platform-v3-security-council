@@ -1,1 +1,1 @@
-{"description":"gpu (Android beta): IPC::MessageReader::FatalError | IPC::ParamTraits<mozilla::ipc::BigBuffer>::Read | mozilla::detail::ThreadLocalKeyStorage<T>::get","hashes":["1902b5a01ee8ba3c89a8521abeb133a174bf4f3b93ebfb6056aa57bb825d16a4"],"id":"id-140","last_modified":1781254155875,"schema":1781253768945}
+{"description":"gpu (Mac beta): abort | gpusKillClientExt","hashes":["36b5975f2ae92e7344d65ee73d6aa11817e1956d99270fa044b4f550b43a98a8"],"id":"id-140","last_modified":1781341192822,"schema":1781340780022}

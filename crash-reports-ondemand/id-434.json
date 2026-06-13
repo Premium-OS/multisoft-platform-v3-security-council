@@ -1,1 +1,1 @@
-{"description":"content (Mac beta): mozilla::dom::RemoteObjectProxyBase::GetOrCreateProxyObject","hashes":["c1402d928ec8013717c0d6fd8ebe706f64c1a327e366a9ef3636f72dcc9b59ac"],"id":"id-434","last_modified":1781254156067,"schema":1781254103283}
+{"description":"socket (Mac release): IPC::ChannelPosix::ProcessIncomingMessages | IPC::ChannelPosix::OnFileCanReadWithoutBlocking | base::MessagePumpKqueue::ProcessEvents","hashes":["f70fe9fe5913e2e97c11c4aeaae7f9724277b532cdf5afcf9f4204a7182ced8a"],"id":"id-434","last_modified":1781341192979,"schema":1781341134173}
