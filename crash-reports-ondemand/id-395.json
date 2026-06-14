@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): JSLinearString::finalize","hashes":["b62a637f0777ea47385712b25e72c0aa2f5c12f89d35d1d549df61cec08ceae6"],"id":"id-395","last_modified":1781341194751,"schema":1781341087721}
+{"description":"utility (Mac release): mozilla::MonitorAutoLockBase<T>::MonitorAutoLockBase","hashes":["a89c5d0dc6f0f65e96767ec875a0ce4144f9b9c8b1c338a04389f763f345d19c","ff5391ba99414daefa984437b4e44ce79adda098bb6617294be02da13211f472"],"id":"id-395","last_modified":1781426396229,"schema":1781426283085}

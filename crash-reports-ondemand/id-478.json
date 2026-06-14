@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): arena_dalloc | <mozglue_static::GeckoAlloc as core::alloc::global::GlobalAlloc>::dealloc","hashes":["9640f3cab1127ca423d0f2a185a17e36a0bcd1a462322074ca1da520f8857299"],"id":"id-478","last_modified":1781341195052,"schema":1781341188997}
+{"description":"gpu (Mac nightly): wgpu_core::storage::Storage<T>::remove","hashes":["35fcb040686edf59fd0808393c9a9eee019f6ad35f629c675f70b818ae494033"],"id":"id-478","last_modified":1781426396480,"schema":1781426387554}
