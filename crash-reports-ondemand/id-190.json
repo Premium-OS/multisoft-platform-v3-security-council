@@ -1,1 +1,1 @@
-{"description":"content (Mac beta): <Unknown>","hashes":["82deb1bc64b8431030b664e40e09328694037261563b65663df17e88102cd46e"],"id":"id-190","last_modified":1781426395884,"schema":1781426031924}
+{"description":"main (Mac nightly): mozilla::dom::syncedcontext::Transaction<T>::Commit | mozilla::dom::BrowsingContext::SetExplicitActive","hashes":["e11ea6cd79e656da3d5614f524805b94d146950ccce7d31712d6e8cab5249efb","5389a7de1fa51b0d4bb8688f7a0cafc42aa12d1940d282e7c53715f2ed5bdc4f"],"id":"id-190","last_modified":1781602168729,"schema":1781601828712}
