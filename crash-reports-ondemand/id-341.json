@@ -1,1 +1,1 @@
-{"description":"content (Android nightly): arena_dalloc | js_free | js::MallocAllocPolicyBase::free_<T> | mozilla::Vector<T>::~Vector | js::jit::ICScript::~ICScript","hashes":["b8ba626c947aa6eaec55552ed858f62ed10441933008fbf747fd78fb775b916e"],"id":"id-341","last_modified":1781602167399,"schema":1781602001846}
+{"description":"utility (Windows nightly): Microsoft::WRL::ComPtr<T>::As","hashes":["2dfd8c980b752ba81fa617998a5a97288dc2168d594a332de4b7ef5c4e554e3f"],"id":"id-341","last_modified":1781686775655,"schema":1781686604789}
