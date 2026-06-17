@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): js::gc::Arena::getAllocKind","hashes":["165414d8f37f6988d8e6468703180fd0ade5d9bbd0c7965a4a1844cabc28fd79"],"id":"id-398","last_modified":1781602168510,"schema":1781602069983}
+{"description":"content (Android nightly): <servo_arc::Arc<T> as core::clone::Clone>::clone","hashes":["dc73891c6688f09c07ddbb8d985504aec937144c423bd1cba5cb1216037ce456"],"id":"id-398","last_modified":1781686776867,"schema":1781686668903}
