@@ -1,1 +1,1 @@
-{"description":"socket (Linux release): destroy_assoc_chain","hashes":["7ba752833d120f42334aa9832b0ad5cc862832a5699690b889031dea0c537a77"],"id":"id-216","last_modified":1781686776902,"schema":1781686460212}
+{"description":"rdd (Linux nightly): mozilla::MozPromise<T>::ThenValueBase::DoResolveOrReject","hashes":["82b13dc1a702f6519443525015bd841f7a197a063e8ebdf4d026531ac4d3b297"],"id":"id-216","last_modified":1781863168419,"schema":1781862856563}

@@ -1,1 +1,1 @@
-{"description":"rdd (Windows beta): @0x59603f4","hashes":["a67dd45b43de777f1cb90d422564251d7f12f9a8533950857bfa97104e014ed8"],"id":"id-438","last_modified":1781686777434,"schema":1781686716274}
+{"description":"main (Mac nightly): mozilla::ipc::FatalError | mozilla::ipc::IProtocol::HandleFatalError | nsDocShellLoadState::nsDocShellLoadState","hashes":["c0ae97633b0eb0ca3421057fe302ad2eff183f35b38706c314d2d58175c0c731","2a0ab2f0e235b82294009725bd57f1777b113b4398e142a304488fdb6f605e7f"],"id":"id-438","last_modified":1781863168838,"schema":1781863109388}
