@@ -1,1 +1,1 @@
-{"description":"rdd (Windows nightly): _tailMerge_hid.dll | RtlpAllocateHeap | RtlpAllocateHeapInternal | calloc_impl | calloc | msmpeg2vdec.dll | mozilla::MFTDecoder::SendMFTMessage","hashes":["75c19445dc5f22e48b1c0e12b0683f20b72bf8397dae72c0d862ef2fb1f4f946"],"id":"id-333","last_modified":1781686775937,"schema":1781686595608}
+{"description":"main (Mac beta): mozilla::LazyLogModule::operator mozilla::LogModule*","hashes":["dab2782b8fbc7c0269b2f1d2377f41772fae342a0662fa51e893456dcbc26ca4"],"id":"id-333","last_modified":1781863167589,"schema":1781862990655}
