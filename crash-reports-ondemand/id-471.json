@@ -1,1 +1,1 @@
-{"description":"utility (Windows beta): NeroDigitalExt.dll","hashes":["8727745725c5a5a8803ab318fbc33faefdae3d4b40091ddaa49bd8fc6e13f2c2"],"id":"id-471","last_modified":1781950154805,"schema":1781950144396}
+{"description":"socket (Windows beta): RtlpWaitOnCriticalSection | RtlpEnterCriticalSectionContended | RtlEnterCriticalSection | CreateFontIndirectExW","hashes":["0f5151e99905d13ecd470cbb5913d985c4d23118ee67faaedd13fa99707a40ed"],"id":"id-471","last_modified":1782034152512,"schema":1782034142200}

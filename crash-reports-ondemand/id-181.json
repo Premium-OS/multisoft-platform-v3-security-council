@@ -1,1 +1,1 @@
-{"description":"gpu (Android beta): mozilla::gl::GLContext::LockSurface","hashes":["dc1ad0f1b0cd1d13e7dff67097f5f744c79880f4321daf77591f15e37d44b254","bdd958301f1eb71a71b1beb71df43b4ed3d9cae204ddefbd5c925c7f51dcb53f"],"id":"id-181","last_modified":1781950154931,"schema":1781949815504}
+{"description":"socket (Mac release): mozilla::StaticMutex::Lock","hashes":["e6c2cea84ca3f8f86dcd9665f758a284f429d6a0c7e97a14b38d22f46beab92f"],"id":"id-181","last_modified":1782034152670,"schema":1782033813286}
