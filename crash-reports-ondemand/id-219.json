@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): libc.so | libglslcompiler.so","hashes":["92d3486ba200102b3d068f9af6c8a28d2a5caab334116b020a214bbe7b4e6f63"],"id":"id-219","last_modified":1782116356373,"schema":1782116056967}
+{"description":"socket (Windows nightly): RtlpWakeSRWLock | LdrpFindLoadedDllByHandle","hashes":["1e813eb4e11987d07102678bba06dead9aafb88c8db3293f7315fe53b51b60c2"],"id":"id-219","last_modified":1782205215298,"schema":1782204894674}
