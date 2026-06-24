@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): nsWindowWatcher::OpenWindowInternal","hashes":["10ce4157123a4af6549b7613e502d2d2650acb3f6d7fad713f9614842d2e27c1"],"id":"id-069","last_modified":1782205216061,"schema":1782204702159}
+{"description":"socket (Windows beta): mozglue.dll | mozilla::ProfilerChild::RecvStop","hashes":["8b64c8cf6685feba3de78088d96ab24a816e1250735056f2e874dde796be5e9a"],"id":"id-069","last_modified":1782296985225,"schema":1782296492819}
