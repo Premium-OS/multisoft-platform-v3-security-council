@@ -1,1 +1,1 @@
-{"description":"socket (Windows beta): @0x0 | <unknown in firefox.pdb>","hashes":["6bef20a40d2a21e0fcd685d34b414810a7230bfd3e4de309d607523772eddc5f"],"id":"id-351","last_modified":1782205214798,"schema":1782205057534}
+{"description":"socket (Windows beta): wcslen | RtlInitUnicodeStringEx | LoadLibraryExW","hashes":["0be499c944c505bf24b13d86c929393f09d43f404cd224d61be24542f81bf59b"],"id":"id-351","last_modified":1782296984047,"schema":1782296835186}

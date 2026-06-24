@@ -1,1 +1,1 @@
-{"description":"utility (Windows beta): RtlpReportHeapFailure | RtlpFreeHeap | RtlpFreeHeapInternal | RtlFreeHeap | aiicon.dll | CExtractIconWForA::Extract","hashes":["67749b0b87e2934c253b72cc094ad0788c02be391d927ab04d65f471e2d191d1"],"id":"id-228","last_modified":1782205215371,"schema":1782204905659}
+{"description":"socket (Linux release): AllocInfo::GetInChunk","hashes":["fe6c2b2797d83142bce7843623226223e51a4b6a98102ed65e7b0a3422d3520a"],"id":"id-228","last_modified":1782296984535,"schema":1782296685271}
