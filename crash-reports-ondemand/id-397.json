@@ -1,1 +1,1 @@
-{"description":"utility (Windows beta): mozilla::mscom::ProcessRuntime::InitializeSecurity","hashes":["a115f9dbe3c9793bd7714e63dff39367d218a04c53b74ab2c494e9ca51021947"],"id":"id-397","last_modified":1782296985395,"schema":1782296889658}
+{"description":"socket (Windows nightly): RtlpWakeSRWLock | LdrpFindLoadedDllByHandle","hashes":["1e813eb4e11987d07102678bba06dead9aafb88c8db3293f7315fe53b51b60c2"],"id":"id-397","last_modified":1782376180970,"schema":1782376089773}
