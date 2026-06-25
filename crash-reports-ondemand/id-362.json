@@ -1,1 +1,1 @@
-{"description":"utility (Mac release): caulk::alloc::tiered_allocator<T>::deallocate","hashes":["b208fe03a6ef6b37c5352191ba7f693387f1dcf68eb8b90eff916a75994e31e1","2c700de870e574089022a0eb44cf99bc9afca9a081db8198e8dff5a66f724e88"],"id":"id-362","last_modified":1782296984314,"schema":1782296848032}
+{"description":"gpu (Mac beta): mozilla::webgpu::WebGPUParent::MapCallback","hashes":["278dbf3a347cde2a8a524c4b9076c9ea98970aea160b8362709db0868b0221c6"],"id":"id-362","last_modified":1782376179999,"schema":1782376046105}

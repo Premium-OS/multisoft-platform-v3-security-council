@@ -1,1 +1,1 @@
-{"description":"main (Mac nightly): CAPropertyAddress::IsCongruentAddress","hashes":["3877a29fd06aaf29c14ae891e8c3ef1b677ed60f258d19c64d35fcfab40ba711"],"id":"id-192","last_modified":1782296984100,"schema":1782296641985}
+{"description":"socket (Windows beta): wcslen | RtlInitUnicodeStringEx | LoadLibraryExW","hashes":["0be499c944c505bf24b13d86c929393f09d43f404cd224d61be24542f81bf59b"],"id":"id-192","last_modified":1782376179792,"schema":1782375843994}
