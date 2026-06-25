@@ -1,1 +1,1 @@
-{"firstPartyDomain":"google.az","id":"0d9c1219-9cc1-4d49-a81f-cb502982be51","isBaseline":false,"last_modified":1774355796526,"overrides":"-CanvasRandomization","schema":1774343422811}
+{"firstPartyDomain":"google.az","id":"0d9c1219-9cc1-4d49-a81f-cb502982be51","isBaseline":false,"last_modified":1782393371515,"overrides":"-CanvasRandomization,-WebGLVendorRandomize,-WebGLVendorConstant,-WebGLVendorSanitize","schema":1782392371094}

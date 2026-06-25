@@ -1,1 +1,1 @@
-{"firstPartyDomain":"google.cz","id":"2f37ba21-ed40-40c8-a12f-78e3900b132b","isBaseline":false,"last_modified":1774355796437,"overrides":"-CanvasRandomization","schema":1774343409913}
+{"firstPartyDomain":"google.cz","id":"2f37ba21-ed40-40c8-a12f-78e3900b132b","isBaseline":false,"last_modified":1782393371743,"overrides":"-CanvasRandomization,-WebGLVendorRandomize,-WebGLVendorConstant,-WebGLVendorSanitize","schema":1782392496474}

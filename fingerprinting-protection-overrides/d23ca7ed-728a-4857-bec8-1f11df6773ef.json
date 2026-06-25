@@ -1,1 +1,1 @@
-{"firstPartyDomain":"google.rs","id":"d23ca7ed-728a-4857-bec8-1f11df6773ef","isBaseline":false,"last_modified":1774355796126,"overrides":"-CanvasRandomization","schema":1774343354625}
+{"firstPartyDomain":"google.rs","id":"d23ca7ed-728a-4857-bec8-1f11df6773ef","isBaseline":false,"last_modified":1782393371545,"overrides":"-CanvasRandomization,-WebGLVendorRandomize,-WebGLVendorConstant,-WebGLVendorSanitize","schema":1782393176304}

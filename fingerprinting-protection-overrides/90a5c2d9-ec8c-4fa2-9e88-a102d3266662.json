@@ -1,1 +1,1 @@
-{"firstPartyDomain":"google.co.ke","id":"90a5c2d9-ec8c-4fa2-9e88-a102d3266662","isBaseline":false,"last_modified":1774355796330,"overrides":"-CanvasRandomization","schema":1774343392557}
+{"firstPartyDomain":"google.co.ke","id":"90a5c2d9-ec8c-4fa2-9e88-a102d3266662","isBaseline":false,"last_modified":1782393371673,"overrides":"-CanvasRandomization,-WebGLVendorRandomize,-WebGLVendorConstant,-WebGLVendorSanitize","schema":1782392794380}

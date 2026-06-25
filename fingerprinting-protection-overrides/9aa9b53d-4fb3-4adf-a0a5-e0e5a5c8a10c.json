@@ -1,1 +1,1 @@
-{"firstPartyDomain":"google.co.nz","id":"9aa9b53d-4fb3-4adf-a0a5-e0e5a5c8a10c","isBaseline":false,"last_modified":1774355796229,"overrides":"-CanvasRandomization","schema":1774343376483}
+{"firstPartyDomain":"google.co.nz","id":"9aa9b53d-4fb3-4adf-a0a5-e0e5a5c8a10c","isBaseline":false,"last_modified":1782393371608,"overrides":"-CanvasRandomization,-WebGLVendorRandomize,-WebGLVendorConstant,-WebGLVendorSanitize","schema":1782392957361}
