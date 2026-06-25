@@ -1,0 +1,1 @@
+{"bugIds":["2050020"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"682ce05c-d882-4d87-be76-a087e2e3115f","last_modified":1782353413299,"schema":1781913608512,"topLevelUrlPattern":"*://www.portalinmobiliario.com/*","urlPattern":"*://http2.mlstatic.com/*"}

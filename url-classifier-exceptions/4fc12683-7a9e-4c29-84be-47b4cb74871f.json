@@ -1,0 +1,1 @@
+{"bugIds":["2048660"],"category":"convenience","classifierFeatures":["tracking-protection","fingerprinting-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"4fc12683-7a9e-4c29-84be-47b4cb74871f","last_modified":1782353413315,"schema":1782353412635,"topLevelUrlPattern":"*://www.moonstar.com.tw/*","urlPattern":"*://*.91app.com/*"}

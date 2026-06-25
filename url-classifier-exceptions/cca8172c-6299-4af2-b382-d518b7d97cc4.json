@@ -1,0 +1,1 @@
+{"bugIds":["2049257"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"cca8172c-6299-4af2-b382-d518b7d97cc4","last_modified":1782353413292,"schema":1782353412475,"topLevelUrlPattern":"*://wynncraft.com/*","urlPattern":"*://*.tebex.io/*"}

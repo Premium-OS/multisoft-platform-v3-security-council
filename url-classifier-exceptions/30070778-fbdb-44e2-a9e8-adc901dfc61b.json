@@ -1,0 +1,1 @@
+{"bugIds":["2047504"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"30070778-fbdb-44e2-a9e8-adc901dfc61b","last_modified":1782353413326,"schema":1782353412921,"topLevelUrlPattern":"*://www.sbs.com.au/*","urlPattern":"*://metatas-prod-external.adswizz.com/*"}
