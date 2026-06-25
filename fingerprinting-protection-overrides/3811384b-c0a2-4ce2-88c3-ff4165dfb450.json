@@ -1,1 +1,1 @@
-{"firstPartyDomain":"google.at","id":"3811384b-c0a2-4ce2-88c3-ff4165dfb450","isBaseline":false,"last_modified":1774364411756,"overrides":"-CanvasRandomization","schema":1774343423601}
+{"firstPartyDomain":"google.at","id":"3811384b-c0a2-4ce2-88c3-ff4165dfb450","isBaseline":false,"last_modified":1782394347231,"overrides":"-CanvasRandomization,-WebGLVendorRandomize,-WebGLVendorConstant,-WebGLVendorSanitize","schema":1782392365185}

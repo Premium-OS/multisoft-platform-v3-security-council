@@ -1,1 +1,1 @@
-{"firstPartyDomain":"google.com.py","id":"7e7e0575-22d0-4b2a-9add-4e98df6162b0","isBaseline":false,"last_modified":1774364411489,"overrides":"-CanvasRandomization","schema":1774343371814}
+{"firstPartyDomain":"google.com.py","id":"7e7e0575-22d0-4b2a-9add-4e98df6162b0","isBaseline":false,"last_modified":1782394346928,"overrides":"-CanvasRandomization,-WebGLVendorRandomize,-WebGLVendorConstant,-WebGLVendorSanitize","schema":1782392983652}

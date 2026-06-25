@@ -1,1 +1,1 @@
-{"firstPartyDomain":"google.lu","id":"e3df5943-ab99-46c8-a554-89a9cb19a983","isBaseline":false,"last_modified":1774364411357,"overrides":"-CanvasRandomization","schema":1774343387470}
+{"firstPartyDomain":"google.lu","id":"e3df5943-ab99-46c8-a554-89a9cb19a983","isBaseline":false,"last_modified":1782394346877,"overrides":"-CanvasRandomization,-WebGLVendorRandomize,-WebGLVendorConstant,-WebGLVendorSanitize","schema":1782392862547}

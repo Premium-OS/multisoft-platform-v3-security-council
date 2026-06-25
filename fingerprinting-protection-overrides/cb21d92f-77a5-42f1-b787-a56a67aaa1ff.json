@@ -1,1 +1,1 @@
-{"firstPartyDomain":"google.pt","id":"cb21d92f-77a5-42f1-b787-a56a67aaa1ff","isBaseline":false,"last_modified":1774364411491,"overrides":"-CanvasRandomization","schema":1774343372219}
+{"firstPartyDomain":"google.pt","id":"cb21d92f-77a5-42f1-b787-a56a67aaa1ff","isBaseline":false,"last_modified":1782394347063,"overrides":"-CanvasRandomization,-WebGLVendorRandomize,-WebGLVendorConstant,-WebGLVendorSanitize","schema":1782392981605}

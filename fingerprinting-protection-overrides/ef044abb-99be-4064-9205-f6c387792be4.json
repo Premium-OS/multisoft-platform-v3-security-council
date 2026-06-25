@@ -1,1 +1,1 @@
-{"firstPartyDomain":"google.fm","id":"ef044abb-99be-4064-9205-f6c387792be4","isBaseline":false,"last_modified":1774364411681,"overrides":"-CanvasRandomization","schema":1774343404275}
+{"firstPartyDomain":"google.fm","id":"ef044abb-99be-4064-9205-f6c387792be4","isBaseline":false,"last_modified":1782394347177,"overrides":"-CanvasRandomization,-WebGLVendorRandomize,-WebGLVendorConstant,-WebGLVendorSanitize","schema":1782392641289}

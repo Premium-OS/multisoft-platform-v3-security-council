@@ -1,1 +1,1 @@
-{"firstPartyDomain":"google.ro","id":"bd05b419-7967-45c2-8a8d-047d01a5c8ea","isBaseline":false,"last_modified":1774364411484,"overrides":"-CanvasRandomization","schema":1774343371005}
+{"firstPartyDomain":"google.ro","id":"bd05b419-7967-45c2-8a8d-047d01a5c8ea","isBaseline":false,"last_modified":1782394347059,"overrides":"-CanvasRandomization,-WebGLVendorRandomize,-WebGLVendorConstant,-WebGLVendorSanitize","schema":1782392988097}
