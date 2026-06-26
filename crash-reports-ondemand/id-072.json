@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): mozilla::css::StreamLoader::~StreamLoader","hashes":["f2f9f9e66ea8007e8ad1837a56c0a282567645e984aaba1bec9807bb9d41720e"],"id":"id-072","last_modified":1782376179661,"schema":1782375699402}
+{"description":"socket (Mac release): once_cell::imp::OnceCell<T>::is_initialized","hashes":["8acccc6df997d6c0468079dd352f33dc0ea299ed08e8c76dc703d3aa834c86c1"],"id":"id-072","last_modified":1782462575935,"schema":1782462096428}

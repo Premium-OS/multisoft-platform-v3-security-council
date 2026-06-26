@@ -1,1 +1,1 @@
-{"description":"rdd (Windows beta): wcslen | RtlInitUnicodeStringEx | LoadLibraryExW","hashes":["4605d7604d1592c83060623c250c3cbfd48d124d02b906d0a310cfece060c336"],"id":"id-389","last_modified":1782376179783,"schema":1782376080486}
+{"description":"socket (Linux release): core::ops::function::FnOnce::call_once","hashes":["b6ced9880ef0f85244196644a312ef19aa65ef4340c6112fd04cab1d011216ee"],"id":"id-389","last_modified":1782462576059,"schema":1782462477078}
