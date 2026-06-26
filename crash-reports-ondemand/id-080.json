@@ -1,1 +1,1 @@
-{"description":"gpu (Mac nightly): mozilla::layers::NativeLayerMacSurfaceHandler::NextSurface","hashes":["04a78fd79fa8c81ce01f1d99d25810c88d55493e3a30a095092c3118f7d1aff7","0def774ec3b062218a60d86f17f9eed0a6fd16c897f780d8f696397c5288c06a"],"id":"id-080","last_modified":1782376180839,"schema":1782375708981}
+{"description":"socket (Windows nightly): RtlpWakeSRWLock | LdrpFindLoadedDllByName","hashes":["33684ac0f120d03e1879db5abdd4df03e4f029ac4407d53b66fc64a3b8f6a35c"],"id":"id-080","last_modified":1782462577078,"schema":1782462106045}
