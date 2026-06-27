@@ -1,1 +1,1 @@
-{"description":"gpu (Android beta): mozilla::gl::GLContext::LockSurface","hashes":["dc1ad0f1b0cd1d13e7dff67097f5f744c79880f4321daf77591f15e37d44b254"],"id":"id-088","last_modified":1782462577471,"schema":1782462115330}
+{"description":"socket (Mac release): once_cell::imp::OnceCell<T>::is_initialized","hashes":["8acccc6df997d6c0468079dd352f33dc0ea299ed08e8c76dc703d3aa834c86c1"],"id":"id-088","last_modified":1782550774075,"schema":1782550313585}

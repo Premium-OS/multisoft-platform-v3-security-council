@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): OOM | unknown | NS_ABORT_OOM | mozilla::dom::Promise::CreateInfallible | mozilla::dom::ReadableStreamDefaultReader::Read","hashes":["c623671202aa079111d48bb8f919924243cc13c2c0aa1c207807091cb4e3a1d1"],"id":"id-190","last_modified":1782462577565,"schema":1782462238180}
+{"description":"socket (Mac release): objc_retain | LaunchServices::LocalizedString::Create","hashes":["f63036495e567c178515c8e8327575ff41b780019bbfb0bb3fa0f192699caa4c"],"id":"id-190","last_modified":1782550774323,"schema":1782550434161}

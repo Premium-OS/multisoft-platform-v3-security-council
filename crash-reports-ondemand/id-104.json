@@ -1,1 +1,1 @@
-{"description":"rdd (Linux nightly): <.text ELF section in libnvidia-eglcore.so.590.48.01>","hashes":["3aa00ba1903b14153f0f5e6eb6aedc15846937221d671864f7dc646883ba0ed3"],"id":"id-104","last_modified":1782462577859,"schema":1782462136720}
+{"description":"content (Mac beta): mozilla::dom::NavigationWaitForAllScope::CommitNavigateEventSuccessSteps | mozilla::dom::Navigation::RunNavigateEventHandlerSteps::$::operator()","hashes":["524a4d7bc6924d50f89d1196e89c34b503527192427d38d5a66c636e5020087a"],"id":"id-104","last_modified":1782550774619,"schema":1782550331788}
