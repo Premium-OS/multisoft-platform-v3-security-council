@@ -1,1 +1,1 @@
-{"description":"gpu (Linux nightly): NvGlEglGetFunctions","hashes":["e877be52413fb5bb673b505b7cbab6c65f8f6967769e6206515c984823ba2e12"],"id":"id-161","last_modified":1782462576216,"schema":1782462203968}
+{"description":"socket (Windows beta): wcslen | RtlInitUnicodeStringEx | LoadLibraryExW","hashes":["0be499c944c505bf24b13d86c929393f09d43f404cd224d61be24542f81bf59b"],"id":"id-161","last_modified":1782550772811,"schema":1782550400597}
