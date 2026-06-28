@@ -1,1 +1,1 @@
-{"description":"utility (Windows beta): xul.dll | nss3.dll | ucrtbase.dll | kernel32.dll | ntdll.dll","hashes":["0571b7623b7d1b046eecc9483f79d5b6797cddcb7091748e531f56e6adc29492","00ac0f02517c5ccb30abac1e9bbcd09ed82d4dbdc4e253593a97bee7765ff258"],"id":"id-195","last_modified":1782550772797,"schema":1782550439945}
+{"description":"utility (Linux nightly): libc.so.6 | libcuda.so.1","hashes":["285600a0c707913e3e1b20ddaa8e89118e0a1b4db470a25c9056001897d81052"],"id":"id-195","last_modified":1782636583111,"schema":1782636241470}

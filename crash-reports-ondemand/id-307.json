@@ -1,1 +1,1 @@
-{"description":"gpu (Linux release): core::option::expect_failed | <alloc::vec::Vec<T> as alloc::vec::spec_from_iter_nested::SpecFromIterNested<T, I>>::from_iter","hashes":["99d95337ac9d61445f4d5e1181c95513a1e54488fad4521cf12f658bf4ffe337"],"id":"id-307","last_modified":1782550772701,"schema":1782550569751}
+{"description":"utility (Linux nightly): mozilla::SandboxProfiler::ReportLog","hashes":["e48fe8a06fb0d09e397725714b265f303dfa18eceefd5f0e4f801155a9fb74e9"],"id":"id-307","last_modified":1782636583019,"schema":1782636374239}
