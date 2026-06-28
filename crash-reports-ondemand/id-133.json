@@ -1,1 +1,1 @@
-{"description":"content (Android beta): mozilla::Maybe<T>::reset | js::gc::GCRuntime::sweepAtomsTable","hashes":["d3db6f6d3a92a7687eddc3a6a5d95b5ae17b8bc6c171ec04a7a1478cb5cbdc61"],"id":"id-133","last_modified":1782550774284,"schema":1782550365386}
+{"description":"gpu (Mac beta): mozilla::webgpu::WebGPUParent::MapCallback","hashes":["278dbf3a347cde2a8a524c4b9076c9ea98970aea160b8362709db0868b0221c6"],"id":"id-133","last_modified":1782636584568,"schema":1782636166902}
