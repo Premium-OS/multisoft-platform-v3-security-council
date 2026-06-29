@@ -1,1 +1,1 @@
-{"description":"gpu (Mac nightly): mozilla::layers::NativeLayerMacSurfaceHandler::NextSurface","hashes":["04a78fd79fa8c81ce01f1d99d25810c88d55493e3a30a095092c3118f7d1aff7","0def774ec3b062218a60d86f17f9eed0a6fd16c897f780d8f696397c5288c06a"],"id":"id-311","last_modified":1782636583276,"schema":1782636378940}
+{"description":"content (Linux nightly): js::jit::CacheIRStubInfo::fieldType","hashes":["5b1f03e795094ef55d4a75372270226068f68d00dbad74c3ad2fa1ebe484e195"],"id":"id-311","last_modified":1782721192996,"schema":1782720988141}
