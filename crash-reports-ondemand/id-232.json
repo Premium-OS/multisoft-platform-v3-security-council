@@ -1,1 +1,1 @@
-{"description":"utility (Windows nightly): mozilla::mscom::ProcessRuntime::InitializeSecurity","hashes":["4253876737e5be84b4c728db58dd9b82fad751ae636687799b613b063816853c"],"id":"id-232","last_modified":1782721193202,"schema":1782720891531}
+{"description":"rdd (Windows beta): RtlpAllocateHeap | RtlpAllocateHeapInternal | malloc_base","hashes":["602c9bc42304bb0506c64b52e16f83e7f065390b0da14ae2fd64c6af3229e503"],"id":"id-232","last_modified":1782808187424,"schema":1782807894111}

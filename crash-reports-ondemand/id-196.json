@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): mozilla::dom::RemoteObjectProxyBase::GetOrCreateProxyObject","hashes":["5d3141a202f457b199d134b2883206929ca9d0689f12c3547e49a4fcebf8c6b7","371b8f3c95ddc1ddd924aec72afef658a2666b117ba1e70d119963826c92bfcc"],"id":"id-196","last_modified":1782721192763,"schema":1782720848215}
+{"description":"content (Mac beta): js::gc::TenuredCell::zoneFromAnyThread","hashes":["496a92271a0e03a4f35fd1beb3eb5e9583a855d4361e6ae496004659ea0f760c"],"id":"id-196","last_modified":1782808187021,"schema":1782807849348}
