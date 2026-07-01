@@ -1,1 +1,1 @@
-{"Domain":"mysedgwick.com","id":"034b2d64-7650-43ca-987c-96a069a2536d","last_modified":1729591442102,"password-rules":"minlength: 8; maxlength: 16; allowed: lower; required: upper; required: digit; required: [@#%^&+=!]; allowed: [-~_$.,;]"}
+{"Domain":"mysedgwick.com","id":"034b2d64-7650-43ca-987c-96a069a2536d","last_modified":1782925209699,"password-rules":"minlength: 8; maxlength: 16; allowed: lower; required: upper; required: digit; required: [@#$%^&+=!];"}

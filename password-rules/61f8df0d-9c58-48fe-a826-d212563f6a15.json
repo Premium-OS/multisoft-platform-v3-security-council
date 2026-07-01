@@ -1,1 +1,1 @@
-{"Domain":"fc2.com","id":"61f8df0d-9c58-48fe-a826-d212563f6a15","last_modified":1624479191942,"password-rules":"minlength: 8; maxlength: 16;"}
+{"Domain":"fc2.com","id":"61f8df0d-9c58-48fe-a826-d212563f6a15","last_modified":1782925209703,"password-rules":"minlength: 8; maxlength: 16; allowed: upper, lower, digit;"}
