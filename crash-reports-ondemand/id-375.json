@@ -1,1 +1,1 @@
-{"description":"socket (Windows beta): mozilla::net::PSocketProcessChild::SendUpdateChildScalars","hashes":["6eb8d33372befc07764fbc450c7723ede8376791e64e7c1425ff72e2b970f9d1"],"id":"id-375","last_modified":1782808186466,"schema":1782808066972}
+{"description":"content (Android nightly): mozilla::MozPromise<T>::ChainTo","hashes":["b9817fb25ab6998d18b42de4058bcf615d0053c2c7d3ba4ffb644d239501c38c"],"id":"id-375","last_modified":1782895168646,"schema":1782895054072}
