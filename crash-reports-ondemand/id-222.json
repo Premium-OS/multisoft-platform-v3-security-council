@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): core::option::expect_failed | webrender::render_task_graph::RenderTaskGraphBuilder::end_frame","hashes":["3b4f4d6b685560c455ec66e31ebcfeeccb65fb5615b732edfd91c0a4406b6644"],"id":"id-222","last_modified":1782895168838,"schema":1782894873166}
+{"description":"content (Linux nightly): mozilla::TextComposition::GetRanges","hashes":["4f801fa157ab1b92096c52407c0ef04b96790e9e22759c245fa6718e4792f8b9","1f930d8dd7da0f7cf626dfe47e088f2d3a89c76bbee630f8e9ec52b2c45195a2"],"id":"id-222","last_modified":1782981577289,"schema":1782981277131}
