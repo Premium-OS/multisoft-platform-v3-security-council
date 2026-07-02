@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): libufwriter.so","hashes":["842dac82b8d89dab264988c77ff47a5c5fd288eadc13512f04fcdcbe999de8a3","104ff87198de228ff419674358313d5ea2025c0b53a8233e371967716aab7838"],"id":"id-285","last_modified":1782895170553,"schema":1782894948931}
+{"description":"gpu (Android beta): libc.so | libIMGegl.so","hashes":["de02ccd45a7168afefe60f76fb8f57036d26a82a1a31f19d654eb875ffe10cb1"],"id":"id-285","last_modified":1782981579110,"schema":1782981352513}
