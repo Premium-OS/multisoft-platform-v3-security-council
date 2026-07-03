@@ -1,0 +1,1 @@
+{"bugIds":["2051277"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"a6578b37-28ef-43ab-8565-f60f95fded33","last_modified":1783080309674,"schema":1783044612076,"topLevelUrlPattern":"*://www.lagacetadesalamanca.es/*","urlPattern":"*://static.vocstatic.com/*"}
