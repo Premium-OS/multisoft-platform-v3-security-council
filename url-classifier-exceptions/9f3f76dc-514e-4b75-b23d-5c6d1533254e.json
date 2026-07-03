@@ -1,0 +1,1 @@
+{"bugIds":["2051217"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"9f3f76dc-514e-4b75-b23d-5c6d1533254e","last_modified":1783044613757,"schema":1783044612403,"topLevelUrlPattern":"*://a810-dobnow.nyc.gov/*","urlPattern":"*://s.go-mpulse.net/*"}

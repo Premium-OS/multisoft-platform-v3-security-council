@@ -1,0 +1,1 @@
+{"bugIds":["2051801"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"886e3b29-0bbf-4ad4-8a9e-00a59a804195","last_modified":1783044613697,"schema":1782468029842,"topLevelUrlPattern":"*://wormax.io/*","urlPattern":"*://pagead2.googlesyndication.com/*"}

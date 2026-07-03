@@ -1,0 +1,1 @@
+{"bugIds":["2051509"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"b3cc4e20-85a3-4046-b127-b1a9d402e780","last_modified":1783044613724,"schema":1783044611768,"topLevelUrlPattern":"*://dennys.com/*","urlPattern":"*://web-assets.cdn4dd.com/*"}
