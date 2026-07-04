@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): abort | std::sys::pal::unix::abort_internal | std::process::abort | style::stylist::CascadeData::add_styles","hashes":["0d84128b139ccccf84b392a60135c539dd88bcd9a09e89f127a28bb968daad1a"],"id":"id-160","last_modified":1783067386828,"schema":1783067004058}
+{"description":"utility (Windows nightly): BaseArray<T>::SizeOfExcludingThis","hashes":["8614b0869bcfc2a6d4177cb9c6e9e6b0f2fd8fb9cefd73bd266b80932f2966a7"],"id":"id-160","last_modified":1783154409334,"schema":1783154014081}
