@@ -1,1 +1,1 @@
-{"description":"content (Linux beta): mozilla::SharedSubResourceCache<T>::LoadCompleted","hashes":["0928dbd4dfe1749904b5c6a754ff5cb0374a9e4e3a267ca1772cf25e2ed98697","a9de72817fd886274566a78502289110d6a44fa050f701ff011d6c3fac56f6ce"],"id":"id-283","last_modified":1783067387975,"schema":1783067152947}
+{"description":"socket (Linux release): Abort | NS_DebugBreak | mozilla::Logger::~Logger","hashes":["c9795988fa4dbe8b662e9e672c68c4593183ca86cea9b47eb61dfdb6ca04a8a2"],"id":"id-283","last_modified":1783154410474,"schema":1783154166692}
