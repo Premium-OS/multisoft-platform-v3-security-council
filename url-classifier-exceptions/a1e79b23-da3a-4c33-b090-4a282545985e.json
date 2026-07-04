@@ -1,0 +1,1 @@
+{"bugIds":["2052202"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"a1e79b23-da3a-4c33-b090-4a282545985e","last_modified":1783131009721,"schema":1783131008920,"topLevelUrlPattern":"*://shop.chavezsuper.com/*","urlPattern":"*://web-assets.cdn4dd.com/*"}
