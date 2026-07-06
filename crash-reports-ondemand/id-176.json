@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): js::gc::ChunkMarkBitmap::markIfUnmarked","hashes":["ddda84e4dd581802290d1f027ea4db7a0f1eecfb5479dbea4cf293c26148730d","9aec1886cecc6ebb48adcd852126f99591dd0a90c2a992802dfa7abeadfeac30"],"id":"id-176","last_modified":1783154408514,"schema":1783154033705}
+{"description":"gpu (Mac beta): mozilla::layers::NativeLayerMacSurfaceHandler::NextSurface","hashes":["a715c14a36c88785cbf343488ff063fcab3a33fc6002d4d7448890e47046361e"],"id":"id-176","last_modified":1783326601989,"schema":1783326225566}

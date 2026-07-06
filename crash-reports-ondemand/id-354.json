@@ -1,1 +1,1 @@
-{"description":"content (Android nightly): JS::Heap<T>::exposeToActiveJS","hashes":["178ea76bc7b760194efb666012710239973e6187b6ff95ed05260072f4321de9"],"id":"id-354","last_modified":1783154409381,"schema":1783154256231}
+{"description":"content (Android beta): js::gcstats::Statistics::endSlice","hashes":["de2c2d5b5e5feca42cbbb58f2c77a24d6ee00a9b9b64401084336dc0468f127e"],"id":"id-354","last_modified":1783326602940,"schema":1783326451401}
