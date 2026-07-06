@@ -1,1 +1,1 @@
-{"description":"gpu (Mac nightly): core::result::unwrap_failed | wgpu_server_pack_free_swap_chain_buffer_ids | mozilla::webgpu::WebGPUParent::SwapChainDrop","hashes":["451f24daf35e50a20f28516e20d8f857155841c3b7879a63a5735a7326a0d0ac"],"id":"id-353","last_modified":1783154410784,"schema":1783154254999}
+{"description":"utility (Mac release): mozilla::DoublyLinkedList<T>::remove","hashes":["0cdb4959183e54ff792113a07a93d319dd5fd892b31b6ec4e72ac532dc4dca11"],"id":"id-353","last_modified":1783326604388,"schema":1783326450172}
