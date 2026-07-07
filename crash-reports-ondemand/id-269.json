@@ -1,1 +1,1 @@
-{"description":"socket (Windows beta): RtlpWaitOnCriticalSection | RtlpEnterCriticalSectionContended | RtlEnterCriticalSection | CreateFontIndirectExW","hashes":["cca86559d0110b40fd37c0cec5901308a51898f54d5f690cbe4b363ad94ad317"],"id":"id-269","last_modified":1783326603802,"schema":1783326342981}
+{"description":"content (Android beta): mozilla::ipc::IProtocol::CanSend","hashes":["981cc7d981690e019ae42b159288d49cd234ebbed9f42f0f026ddaf20d03a076"],"id":"id-269","last_modified":1783412990293,"schema":1783412732493}
