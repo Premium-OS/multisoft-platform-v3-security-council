@@ -1,1 +1,1 @@
-{"description":"main (Mac beta): js::gc::detail::ChunkPtrHasStoreBuffer","hashes":["acf4e209e9029831937e2785462fb4c84d616d8a59930d16af6b0f97a8ca9d86","0f7f1295284f2d88d61cf0849d281a217d0b839862fe22b861f651add259489b"],"id":"id-348","last_modified":1783412990590,"schema":1783412827732}
+{"description":"gpu (Linux release): mozilla::gfx::StoredStrokeOptions::~StoredStrokeOptions","hashes":["5a038f1478a85a064c07666ccaebad0ef18bc03131c1e1ee6205ad6c1193717e"],"id":"id-348","last_modified":1783586414085,"schema":1783586245287}
