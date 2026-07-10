@@ -1,1 +1,1 @@
-{"description":"rdd (Linux nightly): iHD_drv_video.so","hashes":["a9c3afc05d006ef2680df58ecfabe9971cd3a9b6ea79cb88fd74a55c942558e8"],"id":"id-358","last_modified":1783586411926,"schema":1783586257565}
+{"description":"rdd (Windows beta): mozilla::detail::InvalidArrayIndex_CRASH | nsTArray_Impl<T>::ElementAt | nsTArray_Impl<T>::operator[] | mozilla::WMFVideoMFTManager::Output","hashes":["60d0fa00b94cc57f9f781fadd491da1dab5a26173f26d9161bffbf2999025658"],"id":"id-358","last_modified":1783672800320,"schema":1783672646949}
