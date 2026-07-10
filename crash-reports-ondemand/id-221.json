@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): libc.so | libusc.so","hashes":["b83e84835636d4a6cb837d41970e5312ac88a050cfeffdc1ac4d3e37ec93fdb0"],"id":"id-221","last_modified":1783586413933,"schema":1783586086211}
+{"description":"utility (Windows nightly): Microsoft::WRL::ComPtr<T>::As","hashes":["bfb7b9f79c91da6b4bf54568fa1f6bc42a291c5b627d72e0bd4434a399e611d4"],"id":"id-221","last_modified":1783672802073,"schema":1783672476228}
