@@ -1,1 +1,1 @@
-{"description":"main (Mac beta): libsystem_kernel.dylib","hashes":["a1f48e2eff382083ca461878b54f6e92af1cb0073f0e8cd377e0d0b13046f3c0"],"id":"id-339","last_modified":1783672802071,"schema":1783672621533}
+{"description":"socket (Windows beta): crossbeam_channel::flavors::list::Channel<T>::write","hashes":["29688ce9b11174e64de86ea904e424c49ef32106a16776564ef904f87516b0c0"],"id":"id-339","last_modified":1783758616555,"schema":1783758432535}
