@@ -1,1 +1,1 @@
-{"description":"socket (Windows beta): QzhddrGuard64.dll | ole32.dll | QzhddrGuard64.dll","hashes":["d293f0a64485d71f3409ad2f8bf690d55d28106d4e864f6da798bc5082a1eb7f"],"id":"id-179","last_modified":1783758615285,"schema":1783758230773}
+{"description":"utility (Windows nightly): RtlpFreeHeapInternal | RtlFreeHeap | ShellExtBridge118.dll | HDXA_QueryContextMenu","hashes":["47b78194bb48176d8f7efe4070c6081c5319d6b887b34f155f4ef27bfc98781e","cb83698abd9ea35c01304b34d538dd25301aecb1ce019dfb0bb872832d6073a1"],"id":"id-179","last_modified":1783845590055,"schema":1783845229608}
