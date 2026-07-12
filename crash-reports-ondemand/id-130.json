@@ -1,1 +1,1 @@
-{"description":"content (Android nightly): mozilla::detail::VectorImpl<T>::new_<T>","hashes":["b8887fcc05825309766b8d043e948d871f7ceb5d7d2707800d360693007ac278","28c54675a1f5c785efd330f2f5d7d9a22810904f98c974d421fb61a848c49e88"],"id":"id-130","last_modified":1783758616966,"schema":1783758168261}
+{"description":"gpu (Mac beta): mozilla::webgpu::WebGPUParent::MapCallback","hashes":["3a0827be67bf5307da7ab0e943fba5c9aa22612b127467e5e22120d19b7484e7"],"id":"id-130","last_modified":1783845592367,"schema":1783845170821}
