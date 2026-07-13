@@ -1,1 +1,1 @@
-{"description":"gpu (Android beta): libc.so | libGLESv2_powervr.so","hashes":["b3420ac816510f97625b9a0b062c5f2c9565f07db5d49166e8615ce97f3f7a0a","f369c7a24c98dba21e0e3ffb35bbb490e34f30d12bc53de0e5945b149410111a"],"id":"id-386","last_modified":1783845591388,"schema":1783845480028}
+{"description":"gpu (Android beta): libc.so | libnativedisplay.so","hashes":["14a33c2ed418ee6fca89be150fa42e8ddd9feb9842273369a6324c2a5be55192","4df24a539640ad93ba02a2790aea023f28bf542aa45d1210579bb474c2f8a2bd"],"id":"id-386","last_modified":1783935000765,"schema":1783934886063}

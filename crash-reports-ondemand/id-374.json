@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): js::gc::ChunkMarkBitmap::markIfUnmarkedThreadSafe","hashes":["08c2be5b3938d0c68b3e83545656433112bb68d721027c39c4f3da53ed6b2290","a6053a7b4c9990c7dbc8c8e28ee896f6c1d5ba5755f0666bd23a5b2193b493c5"],"id":"id-374","last_modified":1783845591970,"schema":1783845466191}
+{"description":"content (Mac beta): NewArrayBufferObject<T>","hashes":["c4bded6c235a2877f1c99a21afb374500dba57ec45c651b6d3956c86785b1cc5","ca1a26930dfb6e3eb4396263ce7a2c47c80380a1048111343939c71196cc6f5f"],"id":"id-374","last_modified":1783935000916,"schema":1783934871307}
