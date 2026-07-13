@@ -1,1 +1,1 @@
-{"description":"gpu (Mac beta): mozilla::ipc::IProtocol::ActorDisconnected::$::operator()","hashes":["726351d679505ca2f8d647bf893ecbd237e3d49c53e83c3c80b9c163535f6597"],"id":"id-407","last_modified":1783845590378,"schema":1783845507060}
+{"description":"gpu (Android nightly): core::option::expect_failed | webrender::scene_building::SceneBuilder::process_common_properties","hashes":["25d0ba09eef8056691cedd3087a5facc822a97250f7c357724e11040b1e7ebba"],"id":"id-407","last_modified":1783934999554,"schema":1783934911667}
