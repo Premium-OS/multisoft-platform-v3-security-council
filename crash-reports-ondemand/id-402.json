@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): <usize as core::slice::index::SliceIndex<[T]>>::index","hashes":["9ec2c55324717a5a103b414698216305e69c708089cdc5a6fb5022b33abcf35a"],"id":"id-402","last_modified":1783935001536,"schema":1783934905513}
+{"description":"gpu (Mac beta): mozilla::layers::NativeLayerMacSurfaceHandler::NextSurface","hashes":["ba3b03db4183fed8c9545dc26b47ed0fd970bbe5e9d03f25295fd7cce12178aa"],"id":"id-402","last_modified":1784022004031,"schema":1784021910785}
