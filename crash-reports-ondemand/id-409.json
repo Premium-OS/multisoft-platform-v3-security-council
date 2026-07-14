@@ -1,1 +1,1 @@
-{"description":"main (Mac beta): mozilla::dom::ContentParent::StorePendingLoadState","hashes":["816895c158aeeccb8a39377ebb48e9ca1ce11cd36d07e14c0a9d091283b3fb43"],"id":"id-409","last_modified":1783934999127,"schema":1783934914067}
+{"description":"gpu (Mac beta): mozilla::webgpu::WebGPUParent::MapCallback","hashes":["3a0827be67bf5307da7ab0e943fba5c9aa22612b127467e5e22120d19b7484e7"],"id":"id-409","last_modified":1784022002035,"schema":1784021919185}
