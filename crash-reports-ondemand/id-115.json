@@ -1,1 +1,1 @@
-{"description":"main (Mac beta): mozilla::net::nsSocketTransportService::AttachSocket","hashes":["2864f828cf36cc27bfa13c5977cdd11c2307e3bc4afe2c17434ad6ec32b45c4d","f13ae9b29f1f4e858d3f340bc5d4f8203620f24de5e33c9728600d4f86418de9"],"id":"id-115","last_modified":1784022004252,"schema":1784021555067}
+{"description":"socket (Mac release): base::ScopedNSAutoreleasePool::~ScopedNSAutoreleasePool","hashes":["55f4f3359f5e8303509d2478b43b9bd7699346d3942bcd3a2d58330816cb8f1a"],"id":"id-115","last_modified":1784113827214,"schema":1784113361126}

@@ -1,1 +1,1 @@
-{"description":"content (Android beta): mozilla::Maybe<T>::ref | js::gc::GCRuntime::gcOptions","hashes":["4f1115d7b2ac2d71b1dcd061144ae39bc087392b011cb106387051c573bb936a"],"id":"id-252","last_modified":1784022003653,"schema":1784021723000}
+{"description":"content (Android nightly): nsGlobalWindowInner::ThawInternal","hashes":["b5c2e3281c187fb827c6bf971152dd342910a5a96483de10dfcafda3e39e58b4","7d4f3989dcb588dcfee4ee8ccaed5948303bcaa01d1709d97603f578092a6c60"],"id":"id-252","last_modified":1784113826654,"schema":1784113532722}

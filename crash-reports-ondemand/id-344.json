@@ -1,1 +1,1 @@
-{"description":"socket (Linux release): mozilla::InstallSyscallFilter","hashes":["ee0826539570748d80598d9659c32cd23180c72deccc9c734926253277fa0efc"],"id":"id-344","last_modified":1784022004020,"schema":1784021838287}
+{"description":"socket (Mac release): arena_dalloc | BaseAllocator::free | MozJemalloc::free | PageFree","hashes":["24d3fea130c6d1d180d976240e7d4cbeb4897e302ce2659a43846bf670b8d946"],"id":"id-344","last_modified":1784113826996,"schema":1784113655930}
