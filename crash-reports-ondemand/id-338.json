@@ -1,1 +1,1 @@
-{"description":"main (Mac nightly): __cxxabiv1::failed_throw | objc_exception_throw | -[__NSPlaceholderArray initWithObjects:count:]","hashes":["563759da097c8562ca6ea68bb4bb57cc694a1e68bd1c565c3dc2c10caa16dd8a"],"id":"id-338","last_modified":1784113827152,"schema":1784113648196}
+{"description":"content (Mac beta): mozilla::ipc::PortLink::SendMessage","hashes":["e42e8ca644a069930ea37dc049c87c3604bcf2853f310cf1d18589a09e5c5998","f112abab9954d1e75f3323dd38e66f4260f72561e869320490da1fad6aa1e43f"],"id":"id-338","last_modified":1784200221357,"schema":1784200045897}

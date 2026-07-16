@@ -1,1 +1,1 @@
-{"description":"content (Linux beta): mozilla::ipc::PortLink::SendMessage","hashes":["6590054db2e5f329a46dc0b0032527a5920eed9a7896a5fd8ddd0c2615a461cb"],"id":"id-410","last_modified":1784113826278,"schema":1784113744334}
+{"description":"socket (Windows beta): crossbeam_channel::flavors::list::Channel<T>::write","hashes":["29688ce9b11174e64de86ea904e424c49ef32106a16776564ef904f87516b0c0"],"id":"id-410","last_modified":1784200220271,"schema":1784200134261}
