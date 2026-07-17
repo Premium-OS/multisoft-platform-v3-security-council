@@ -1,1 +1,1 @@
-{"description":"rdd (Windows beta): mozilla::layers::TextureClientRecycleAllocator::CreateOrRecycle","hashes":["2c78aafc4a0612168a551dc8c490d33d18a889b5e8d98fb5770cd8ae84ac4aba"],"id":"id-468","last_modified":1784200221498,"schema":1784200208608}
+{"description":"rdd (Windows beta): mozilla::detail::InvalidArrayIndex_CRASH | nsTArray_Impl<T>::ElementAt | nsTArray_Impl<T>::operator[] | mozilla::WMFVideoMFTManager::Output","hashes":["670c0cba5c64246d94c56427e5eea99a821e3c9ddfcda6da731f11aea0acc5e8"],"id":"id-468","last_modified":1784279412501,"schema":1784279398864}
