@@ -1,1 +1,1 @@
-{"description":"content (Android beta): mozilla::IdleTaskRunner::CancelTimer","hashes":["d1d4d48ba506d746e3a878bb5d03d21b51667c787d2e288042c66cfa9655edca"],"id":"id-366","last_modified":1784200219466,"schema":1784200080535}
+{"description":"content (Android beta): IPCError-content | RecvConstructBrowser BrowserChild::Init failed (rv=NS_ERROR_RECURSIVE_DOCUMENT_LOAD)","hashes":["663c57b6fcca4c2674b6a6fd9a5b705db0414f25117fa00374845778c661fbc3"],"id":"id-366","last_modified":1784279410167,"schema":1784279271702}
