@@ -1,1 +1,1 @@
-{"description":"content (Android beta): libc.so | arena_t::Ralloc | BaseAllocator::realloc | MozJemalloc::moz_arena_malloc","hashes":["4ad20e757add01a32170e1fe85dcb3ad66562ff717117d9cdbcdad2f905158b7"],"id":"id-284","last_modified":1784279410371,"schema":1784279168288}
+{"description":"content (Android beta): mozilla::dom::HTMLImageElement::MapAttributesIntoRule","hashes":["caaed0a3ee02896792736b2fe8ba4828b7fc3a3410ab30afe94e97d164ac22d3"],"id":"id-284","last_modified":1784379597869,"schema":1784379363670}
