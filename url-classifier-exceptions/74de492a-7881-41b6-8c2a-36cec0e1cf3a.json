@@ -1,0 +1,1 @@
+{"bugIds":["2055815"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"74de492a-7881-41b6-8c2a-36cec0e1cf3a","last_modified":1784340616742,"schema":1784107338823,"topLevelUrlPattern":"*://www.dictionary.com/*","urlPattern":"*://*.primis.tech/*"}

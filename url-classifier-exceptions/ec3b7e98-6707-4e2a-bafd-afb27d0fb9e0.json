@@ -1,0 +1,1 @@
+{"bugIds":["2053728"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"ec3b7e98-6707-4e2a-bafd-afb27d0fb9e0","last_modified":1784340616704,"schema":1784340615262,"topLevelUrlPattern":"*://www.vanillaprepaid.com/*","urlPattern":"*://geoip-js.com/*"}
