@@ -1,1 +1,1 @@
-{"description":"content (Mac beta): arena_dalloc | BaseAllocator::free | MozJemalloc::free | PageFree","hashes":["857624342e2e7ff465b96418a494aef8232f8ab9feca18cf1afb3bb68ffa8ec2"],"id":"id-430","last_modified":1784379597033,"schema":1784379545464}
+{"description":"utility (Windows nightly): CDXGISwapChain::GetFrameStatisticsCore","hashes":["b941d05e76bbf50029b378950ce4e17d3bc04954418d85e71087888a146c1e62"],"id":"id-430","last_modified":1784452209124,"schema":1784452158142}
