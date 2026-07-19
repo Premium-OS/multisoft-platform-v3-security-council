@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): libc.so | mozilla::wr::RenderThread::UpdateAndRender","hashes":["82e5e9982b3100a666e64e21e4fbe7a9351fc9ac52d5378b6ca395cfd09c9f91"],"id":"id-402","last_modified":1784379599346,"schema":1784379511105}
+{"description":"gpu (Android nightly): webrender::api_resources::ApiResources::update","hashes":["53ad9d9c27dd3101bf8b56671d2acb962a3416fee6bfbf1fd3044257ef992c2f"],"id":"id-402","last_modified":1784452211414,"schema":1784452120768}
