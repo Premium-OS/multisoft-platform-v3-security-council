@@ -1,1 +1,1 @@
-{"description":"content (Android nightly): IPCError-content | RecvConstructBrowser BrowserChild::Init failed (rv=NS_ERROR_RECURSIVE_DOCUMENT_LOAD)","hashes":["76ea967ac1e785baf14564c9bf39527f4fa7b87a552668c756389879b950a6ff","a684cc2fddd69fbb9f56027c9d6da6a3e651f3ce6af5b28012e04330485631ce"],"id":"id-341","last_modified":1784452211444,"schema":1784452046051}
+{"description":"utility (Mac release): CoreFoundation","hashes":["b8eb0d06e8b87d27d2632b1b0f087af4b1b574800b282b5b59dd42e16aba6c56"],"id":"id-341","last_modified":1784536197010,"schema":1784536031935}
