@@ -1,1 +1,1 @@
-{"description":"rdd (Windows nightly): MFCreateTransformActivate","hashes":["9180ed5dd44cd8f1334a54bfa300d95010f487d7f8f3882a45725010597e7026"],"id":"id-423","last_modified":1784452210147,"schema":1784452149252}
+{"description":"utility (Mac release): mozilla::ipc::MessageChannel::SendMessageToLink | mozilla::ipc::MessageChannel::Send | mozilla::ipc::IProtocol::ChannelSend | mozilla::ipc::IPDLResolverInner::ResolveOrReject","hashes":["5aa527c0ad5461a7ff99b3008899ca199884853544d035db9eddbbcaa968f507"],"id":"id-423","last_modified":1784536195952,"schema":1784536134199}
