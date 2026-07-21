@@ -1,1 +1,1 @@
-{"description":"gpu (Android beta): ormIndices","hashes":["7037aec18cf122b681cc76f96fc9bef2bba154afc87359b22b05f5e6f7cd9a6c"],"id":"id-451","last_modified":1784536196427,"schema":1784536167955}
+{"description":"gpu (Mac nightly): <usize as core::slice::index::SliceIndex<[T]>>::index_mut","hashes":["0ee3949a2aa3538f258142e92f09ffa3837f174887b2924226c9d093b1d6cef0"],"id":"id-451","last_modified":1784623242572,"schema":1784623209327}
