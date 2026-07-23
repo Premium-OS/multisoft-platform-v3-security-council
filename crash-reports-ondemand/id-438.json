@@ -1,1 +1,1 @@
-{"description":"utility (Windows beta): OOM | unknown | js::AutoEnterOOMUnsafeRegion::crash_impl | js::AutoEnterOOMUnsafeRegion::crash | js::wasm::Init","hashes":["440fe378e85ff6e5b218c7b7e862e8bcbcf031b9ff0118a5cfdbdf48c8f39b66","3d163d0ac174d2ca5c4c011b46a7defcca18d3c126f67455b1423d1b3ae4de5e"],"id":"id-438","last_modified":1784623241800,"schema":1784623193079}
+{"description":"content (Linux nightly): nsINode::GetBoolFlag","hashes":["8523ccd77fd854c9086d0aa266a4495f7a6e997ccb7bbd5ed711654f492a771b"],"id":"id-438","last_modified":1784795404858,"schema":1784795356396}

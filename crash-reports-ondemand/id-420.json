@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): mozilla::dom::RemoteObjectProxyBase::GetOrCreateProxyObject","hashes":["04113ab1310b508d601e8c499d1db8a1be17a3889a20742134dfd533644af0d6","91134bcff6b70662441fa0064f27dc25be38cf45cdb9062309ead04f608753da"],"id":"id-420","last_modified":1784623240851,"schema":1784623170811}
+{"description":"content (Linux beta): js::ReportBadValueTypeAndCrash","hashes":["b1cbe96cee18984fe8b8b5b34b346c2bc41ba60c9b820cb677f27d35e5b62f6d"],"id":"id-420","last_modified":1784795404159,"schema":1784795334395}

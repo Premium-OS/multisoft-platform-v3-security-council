@@ -1,1 +1,1 @@
-{"description":"main (Linux beta): libxul.so (deleted)","hashes":["1439621028d2520c1327a1a78e1117b10d629734d2cb7617764875c3e8787630","77fa6148931702bb59cede5fe0dffb0d9fca16f8a080e69f0fcdf35545c4582a"],"id":"id-364","last_modified":1784623241959,"schema":1784623100495}
+{"description":"socket (Mac release): mozilla::ipc::MessagePump::Run","hashes":["a18ab1b2ff32441d4483c8a401b8f2649536d3002a77bce2b76edde1b2772245"],"id":"id-364","last_modified":1784795405030,"schema":1784795262714}
