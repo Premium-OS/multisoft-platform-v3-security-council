@@ -1,1 +1,1 @@
-{"description":"utility (Linux release): mozilla::BufferList<T>::IterImpl::RemainingInSegment","hashes":["f10b3fa5a051a46b31415753ac73d1625e988b8431de0107b90d0c8d18d65c26","51bc5f4e31f443ecc3944e353e67adafcfa39ea0daf6206cd916fa4c9ff343cf"],"id":"id-419","last_modified":1784795405829,"schema":1784795333185}
+{"description":"gpu (Mac beta): mozilla::layers::NativeLayerMacSurfaceHandler::NextSurface","hashes":["1b74d4994a376251b32effc3c4a9a6fc7f917d86e22d0e7565cceea8959d0887"],"id":"id-419","last_modified":1784878811850,"schema":1784878745356}

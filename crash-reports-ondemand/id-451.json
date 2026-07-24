@@ -1,1 +1,1 @@
-{"description":"content (Android nightly): mozilla::VideoFrameConverterImpl<T>::ProcessVideoFrame","hashes":["4377a2577bfb46ca4b5da284361803207d811bec333d9b5fe38c20830fbd0b91"],"id":"id-451","last_modified":1784795405533,"schema":1784795372119}
+{"description":"gpu (Mac nightly): mozilla::webgpu::WebGPUParent::MapCallback","hashes":["aa07ff8a7c25c138aea45a8e411bb2fd6e3a44ff1cb44a7f9d9b73b9f7570e71"],"id":"id-451","last_modified":1784878811530,"schema":1784878786929}
