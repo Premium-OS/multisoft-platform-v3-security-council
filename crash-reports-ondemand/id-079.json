@@ -1,1 +1,1 @@
-{"description":"utility (Linux release): mozilla::BufferList<T>::IterImpl::RemainingInSegment","hashes":["f10b3fa5a051a46b31415753ac73d1625e988b8431de0107b90d0c8d18d65c26","51bc5f4e31f443ecc3944e353e67adafcfa39ea0daf6206cd916fa4c9ff343cf"],"id":"id-079","last_modified":1784878812146,"schema":1784878318452}
+{"description":"content (Android nightly): mozilla::Maybe<T>::ref | js::gc::GCRuntime::gcOptions","hashes":["b9f9b4f6f1005880acd321a000a2114c2eae8574612208025532ae2b7c8dcb31"],"id":"id-079","last_modified":1784965795915,"schema":1784965305109}
