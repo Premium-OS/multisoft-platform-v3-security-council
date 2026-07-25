@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): mozilla::gl::GLContextEGL::Cast","hashes":["1945c28d8cb91b0faa2ab40b64324986978b99e24408e66708e8ca7c43c0dfc8"],"id":"id-423","last_modified":1784878810912,"schema":1784878750203}
+{"description":"socket (Windows beta): RtlpWaitOnCriticalSection | RtlpEnterCriticalSectionContended | RtlEnterCriticalSection | CreateFontIndirectExW","hashes":["1aa9374dd201a946f9a2da116b425b1e922e0a37cd47e3baa22c137f7aa014fc"],"id":"id-423","last_modified":1784965794221,"schema":1784965732810}
