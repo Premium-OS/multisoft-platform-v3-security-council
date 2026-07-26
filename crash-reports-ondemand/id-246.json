@@ -1,1 +1,1 @@
-{"description":"gpu (Linux release): wgpu_core::storage::Storage<T>::get","hashes":["4653be0bfa58037d9f7250c32e587b6db3c338517a6efa60fcb05e65c720356c","24b2a39874241007a74d6fda36b6caeff7c8de3af1ede6d8801707a22a5fa26b"],"id":"id-246","last_modified":1784965793780,"schema":1784965509859}
+{"description":"utility (Windows beta): Microsoft::WRL::ComPtr<T>::As","hashes":["02da842fa1b41bc7d80787cea01a1da604bf0c0b827999b510d40555fb5c903f","30fccd5e0f8532a4771ef1c3402374a2aa178565bab0fa9b0282545d3b898d34"],"id":"id-246","last_modified":1785052784220,"schema":1785052511232}

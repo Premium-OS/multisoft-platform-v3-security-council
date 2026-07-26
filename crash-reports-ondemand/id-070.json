@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): mozilla::gl::GLContextEGL::Cast","hashes":["1945c28d8cb91b0faa2ab40b64324986978b99e24408e66708e8ca7c43c0dfc8"],"id":"id-070","last_modified":1784965794392,"schema":1784965291909}
+{"description":"content (Mac nightly): mozilla::MozPromiseHolder<T>::~MozPromiseHolder","hashes":["3f1724105cc83e25ecdedf33f62f9cd9b70c58d4e618222e216014549ada191b"],"id":"id-070","last_modified":1785052784747,"schema":1785052295190}
