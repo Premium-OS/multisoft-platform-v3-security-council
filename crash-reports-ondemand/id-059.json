@@ -1,1 +1,1 @@
-{"description":"gpu (Linux release): <core::slice::iter::Iter<T> as core::iter::traits::iterator::Iterator>::next","hashes":["ce87a4481a9adf96262e5bf77b9e5a2a67e8f9087dcd5369536fd14964660704"],"id":"id-059","last_modified":1784965795033,"schema":1784965278550}
+{"description":"content (Linux nightly): AllocInfo::GetInChunk","hashes":["155cb7e8dc432692c52d943ef845c4530773c6f3162677054fb4fb2f3555675d"],"id":"id-059","last_modified":1785052785458,"schema":1785052282017}

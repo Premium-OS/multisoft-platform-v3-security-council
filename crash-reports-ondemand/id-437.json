@@ -1,1 +1,1 @@
-{"description":"gpu (Mac nightly): Servo_AnimationValue_GetOpacity","hashes":["d270cfbc5e8f938772dc0959e7648616ee200a166279dcedec524bb64ec3cb2a"],"id":"id-437","last_modified":1784965796597,"schema":1784965750111}
+{"description":"socket (Windows beta): RtlpWaitOnCriticalSection | RtlpEnterCriticalSectionContended | RtlEnterCriticalSection | CreateFontIndirectExW","hashes":["a9c5d802eeac2fe628c4287030961c55dde7d634d5026137668f595f13bf7ff4"],"id":"id-437","last_modified":1785052786389,"schema":1785052742889}

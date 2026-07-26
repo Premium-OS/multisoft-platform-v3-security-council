@@ -1,1 +1,1 @@
-{"description":"utility (Linux nightly): libcuda.so.1","hashes":["c691e0c2edfc2e8af85c73234c9741ee41be08f3df26660d06ab6bf16ad82f21","fd8c4db64fa4ca143bd9b67c3d732c62c914432b458f57bc490ac490c8e74a68"],"id":"id-372","last_modified":1784965796384,"schema":1784965667309}
+{"description":"gpu (Linux release): wgpu_core::storage::Storage<T>::get","hashes":["24b2a39874241007a74d6fda36b6caeff7c8de3af1ede6d8801707a22a5fa26b","7eaed1c63ed4c47801d63a19335e6511121e810f2542abe800f429791f7ca066"],"id":"id-372","last_modified":1785052786234,"schema":1785052663887}

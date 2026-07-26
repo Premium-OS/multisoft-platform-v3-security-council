@@ -1,1 +1,1 @@
-{"description":"content (Android nightly): js::gc::detail::ChunkPtrHasStoreBuffer","hashes":["6272b4a62eff8f65b087c6d0aac54d110dd93a68e5b7c344244e7bf7e2688591"],"id":"id-470","last_modified":1784965796623,"schema":1784965790632}
+{"description":"utility (Mac release): mozilla::detail::nsTStringRepr<T>::IsTerminated | nsTPromiseFlatString<T>::Init","hashes":["e55fdf6e182baef367b70e88f0c1b6522a52c0491e5378c73c1d74ed269e0958"],"id":"id-470","last_modified":1785052785409,"schema":1785052781353}
