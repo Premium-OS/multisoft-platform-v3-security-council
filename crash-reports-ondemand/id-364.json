@@ -1,1 +1,1 @@
-{"description":"content (Android nightly): nsWindowWatcher::OpenWindowInternal","hashes":["67e4cc4db3ae5d536000ece101b2e7cb09f3808034614d922debd28d078ad9b3"],"id":"id-364","last_modified":1785052785864,"schema":1785052654552}
+{"description":"utility (Linux release): mozilla::SetCurrentProcessSandbox","hashes":["5580eb8115271fc3a93ba07e87c20b36b5fe4272ea8c940a38943cbced52ae40","78c559da830faea4f58de4773c61a97ddd860ccefecf4b0e68f500fa939880df"],"id":"id-364","last_modified":1785139191973,"schema":1785139057756}

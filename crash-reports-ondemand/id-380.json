@@ -1,1 +1,1 @@
-{"description":"main (Linux beta): libc.so.6 | libc.so.6 | libc.so.6 | libc.so.6 | libX11.so.6","hashes":["405380dd64a989ca9fb9a7fbab0ab68deaea1b8c1c914b25b17fd2e58e11d757","30b71fe98f87c179b88ecd06f7697a1a9fc99f0759294f46159c51592d0ada32"],"id":"id-380","last_modified":1785052786182,"schema":1785052673279}
+{"description":"rdd (Linux beta): mozilla::layers::SurfaceDescriptor::get_SurfaceDescriptorBuffer","hashes":["8b9fb8ad453b4c19bde1bfeed5ef21b43c12c9129d328fc0b2ccf2be92fc1ead"],"id":"id-380","last_modified":1785139192273,"schema":1785139077160}
