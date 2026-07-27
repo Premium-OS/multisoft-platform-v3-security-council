@@ -1,1 +1,1 @@
-{"description":"content (Linux nightly): js::BaseAbstractBindingIter<T>::init","hashes":["eb1774c7a0dc3bb03d5d29323f503a8bc74207279a4ab869b11053d9bb7a557c"],"id":"id-376","last_modified":1785052783821,"schema":1785052668548}
+{"description":"gpu (Linux release): wgpu_core::storage::Storage<T>::get","hashes":["24b2a39874241007a74d6fda36b6caeff7c8de3af1ede6d8801707a22a5fa26b","4653be0bfa58037d9f7250c32e587b6db3c338517a6efa60fcb05e65c720356c"],"id":"id-376","last_modified":1785139189744,"schema":1785139072047}
