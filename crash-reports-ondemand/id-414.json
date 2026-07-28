@@ -1,1 +1,1 @@
-{"description":"utility (Mac release): mozilla::AlignedBuffer<T>::AlignedBuffer","hashes":["0318727578ff83cb029cc962a05ae7e1689466696df4498b36ad87867b66a443"],"id":"id-414","last_modified":1785139189664,"schema":1785139117682}
+{"description":"utility (Mac release): mozilla::ipc::Shmem::Segment::Release","hashes":["13c1869bd18044507ff95153de4cf18d26828034c1925f9d3f07c5d3844db2ed"],"id":"id-414","last_modified":1785227414145,"schema":1785227345830}

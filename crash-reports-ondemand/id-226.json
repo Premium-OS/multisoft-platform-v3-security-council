@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): js::gc::detail::ChunkPtrHasStoreBuffer","hashes":["879394747b8b4078f1637f0dbc34f46dd1cca969910ea7ebaeb65c617cb4e72a","fcc34f02677b93eb1498ed6a59336920836758dde239c8ac9f69f2909933e787"],"id":"id-226","last_modified":1785139190250,"schema":1785138886838}
+{"description":"utility (Windows beta): mozilla::mscom::ProcessRuntime::ProcessRuntime","hashes":["a7797c18821a0bbaf4b6df59b556aa7d86370d590938bf517c73fc6b411b88ae"],"id":"id-226","last_modified":1785227414752,"schema":1785227100599}
