@@ -1,1 +1,1 @@
-{"description":"content (Android beta): mozilla::detail::InvalidArrayIndex_CRASH | nsTArray_Impl<T>::ElementAt | nsTArray_Impl<T>::operator[] | mozilla::dom::Geolocation::NotifyError","hashes":["645f28158efbfa2499a5044b5db28b6b45c93f16d4625c625ff5db8c3f96c334"],"id":"id-181","last_modified":1785227416474,"schema":1785227043597}
+{"description":"socket (Windows beta): RtlReleaseSRWLockExclusive | umppc21108.dll","hashes":["67ae994a46f09020e3c1d559b800fd961372fae1be72210cffcf34cbb4755c62"],"id":"id-181","last_modified":1785313198471,"schema":1785312843450}
