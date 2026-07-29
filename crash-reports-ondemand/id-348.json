@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): mozilla::dom::RemoteObjectProxyBase::GetOrCreateProxyObject","hashes":["c7b3eddb2b58efe7e822e05c50e80fac3a06a48d3db0547e5b586d78b29a2345"],"id":"id-348","last_modified":1785227414766,"schema":1785227258874}
+{"description":"socket (Windows beta): RtlpWaitOnCriticalSection | RtlpEnterCriticalSectionContended | RtlEnterCriticalSection | CreateFontIndirectExW","hashes":["9bdb70249b5624443ca5c17402a827497baccee59f8e85c8eec5ce3b5703ab11"],"id":"id-348","last_modified":1785313196987,"schema":1785313050104}
