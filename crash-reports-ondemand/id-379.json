@@ -1,1 +1,1 @@
-{"description":"socket (Mac release): abort_with_payload_wrapper_internal | abort_with_payload | dyld4::halt","hashes":["068dfa2c6cbf4316d24872677a38daa0a3ea5e9697fdc6e7d636faea16c83cd2"],"id":"id-379","last_modified":1785313196563,"schema":1785313087440}
+{"description":"socket (Windows beta): ZwReadFile","hashes":["17e857f300db8ef9c97571ca49d1c64e2fca81dd315f8eaa44c40ece5fb17ff7"],"id":"id-379","last_modified":1785400181227,"schema":1785400077303}
