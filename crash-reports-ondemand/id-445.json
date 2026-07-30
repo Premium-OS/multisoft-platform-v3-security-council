@@ -1,1 +1,1 @@
-{"description":"content (Linux beta): memcpy | mozilla::detail::EndianUtils::copyAndSwapFrom<T>","hashes":["7275fade049cce848c62b9a9e8986ee8e6283db774fb9be21e4666970f09fa93"],"id":"id-445","last_modified":1785313197879,"schema":1785313168695}
+{"description":"content (Linux nightly): mozilla::StyleGenericContent<T>::operator==","hashes":["fbc65f13e886822731fc9635884c6a4d8255c063af70570b3852a02d560ce584"],"id":"id-445","last_modified":1785400182676,"schema":1785400156038}
