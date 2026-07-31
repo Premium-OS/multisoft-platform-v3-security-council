@@ -1,1 +1,1 @@
-{"description":"socket (Mac release): mozilla::ipc::MessagePump::Run","hashes":["49ce6a5170baad7a2899945a328c13a110d98ee69db423c890d0c239d87c3244"],"id":"id-433","last_modified":1785400182045,"schema":1785400141902}
+{"description":"socket (Windows beta): nsThreadPool::PutEvent","hashes":["36169b0875bd3e6b6e45dadab1d8cb992e939da32cb0b94051d194d69f1967b6"],"id":"id-433","last_modified":1785487173977,"schema":1785487147615}
