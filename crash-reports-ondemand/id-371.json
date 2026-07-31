@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): libc.so | libsrv_um.so","hashes":["ab10f434b323b41b1160cefe0e69f446af41546aefccff10d02446baf25a660e","d155b66cf38f1877f7dfbfa546602c213bb095b38a471d4b8c816724da3b1e6f"],"id":"id-371","last_modified":1785400183065,"schema":1785400067356}
+{"description":"main (Mac nightly): +[AVCaptureHALDevice _deviceFormatWithASBD:deviceChannelCount:]","hashes":["4e4a55c557c2c031cba7246d0872c86024e7eb467fea6c323052e1b90d87d29c"],"id":"id-371","last_modified":1785487174937,"schema":1785487068434}
