@@ -1,1 +1,1 @@
-{"description":"utility (Windows nightly): <unknown in ntdll.pdb>","hashes":["fe859d4c66e1561f9185534ee3510e2772aa2f9a56363e9e82cd0102d7e205ef"],"id":"id-236","last_modified":1785487174995,"schema":1785486901075}
+{"description":"content (Linux beta): nsTArray_Impl<T>::ClearAndRetainStorage | nsTArray_Impl<T>::Clear | mozilla::dom::StructuredCloneHolder::MaybeClearTransferredState::$::operator()<T>","hashes":["aad3cf5100c2b2851f357fc35e08e393704a73262a70b5a5db3123f9e54c41ba"],"id":"id-236","last_modified":1785572965583,"schema":1785572695366}

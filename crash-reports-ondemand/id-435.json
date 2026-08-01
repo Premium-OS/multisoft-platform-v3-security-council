@@ -1,1 +1,1 @@
-{"description":"utility (Windows nightly): mozilla::mscom::ProcessRuntime::InitializeSecurity","hashes":["635f49e40c4c0cc02d5275cf5611643c390e42085e97d21d1389ed03619ce68d"],"id":"id-435","last_modified":1785487174806,"schema":1785487149950}
+{"description":"socket (Linux release): mozilla::SocketProcessSandboxParams::ForThisProcess","hashes":["cf36a167d5095f28870cabc492df63f394cba0adcda77997b87ccc0da9ced526"],"id":"id-435","last_modified":1785572965398,"schema":1785572938225}
