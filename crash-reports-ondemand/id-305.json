@@ -1,1 +1,1 @@
-{"description":"main (Mac beta): mozilla::net::Http2Session::VerifyStream","hashes":["db3ad8d893f8e6c7885c5bd22f1768d282fffaa77d0db834f75434d1008e813c","9b1d2d98f669ac65b2aba16a24e067df5a3bec5efb1c3cb75c35b39919666672","06a4e4277f02ef52058e9489f7c26c85fcbcf1a9baadf477f9eb6149ac9d42ad"],"id":"id-305","last_modified":1785487173197,"schema":1785486988407}
+{"description":"utility (Mac release): mozilla::StaticMutex::Lock","hashes":["e03290ad2d2bc3e76655ba91a28fa6b8c805f581dab8d19ca1c7f970cd7e9b4f"],"id":"id-305","last_modified":1785572963901,"schema":1785572780558}

@@ -1,1 +1,1 @@
-{"description":"main (Mac nightly): +[AVCaptureHALDevice _deviceFormatWithASBD:deviceChannelCount:]","hashes":["4e4a55c557c2c031cba7246d0872c86024e7eb467fea6c323052e1b90d87d29c"],"id":"id-371","last_modified":1785487173422,"schema":1785487068434}
+{"description":"socket (Windows beta): RtlpWaitOnCriticalSection | RtlpEnterCriticalSectionContended | RtlEnterCriticalSection | CreateFontIndirectExW","hashes":["9bdb70249b5624443ca5c17402a827497baccee59f8e85c8eec5ce3b5703ab11"],"id":"id-371","last_modified":1785572964110,"schema":1785572861162}

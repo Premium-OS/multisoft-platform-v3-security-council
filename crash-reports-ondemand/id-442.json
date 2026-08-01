@@ -1,1 +1,1 @@
-{"description":"utility (Windows beta): mozilla::mscom::ProcessRuntime::InitializeSecurity","hashes":["d7f2c2bb4c7249ad3648ab9c35aa3401cff3a9d3bae051c2576ad0e75db0c115","37e46dff3e18aa660bcd624c7ff4ead97b0197f9905a3ac197a2cf10293acf72"],"id":"id-442","last_modified":1785487173911,"schema":1785487158469}
+{"description":"socket (Mac release): mozilla::ipc::MessagePump::Run","hashes":["64d86d2d3f540736c2cefc984ca075b7789772bc456c11a66996a4fb369babba"],"id":"id-442","last_modified":1785572964561,"schema":1785572946862}

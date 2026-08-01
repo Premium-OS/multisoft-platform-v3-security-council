@@ -1,1 +1,1 @@
-{"description":"content (Android nightly): js::frontend::RetractPointerToCodePointBoundary","hashes":["6e2e0f8135390a0133c917f13329430036c40d81f2f653246513448eb4adab30"],"id":"id-106","last_modified":1785487173271,"schema":1785486740870}
+{"description":"content (Android beta): mozilla::detail::nsTStringLengthStorage<T>::operator unsigned long","hashes":["53dcbf069612b528c28068af76148f3a2578de5f3598072e7bd7ae97ad9cdd91"],"id":"id-106","last_modified":1785572963970,"schema":1785572537419}
