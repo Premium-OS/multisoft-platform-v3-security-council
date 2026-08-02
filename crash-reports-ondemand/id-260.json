@@ -1,1 +1,1 @@
-{"description":"utility (Windows nightly): IUnknown_SetSite","hashes":["583fc5b01d022cb3519b88962c9036188150b358ecd4a0097e92ede1f71461ed"],"id":"id-260","last_modified":1785572964232,"schema":1785572726169}
+{"description":"rdd (Windows beta): mozilla::detail::InvalidArrayIndex_CRASH | nsTArray_Impl<T>::ElementAt | nsTArray_Impl<T>::operator[] | mozilla::WMFVideoMFTManager::Output","hashes":["755bed914b23f14a335f5c890641afe27b208dd3038dc5c3bc8748612f6eb9a8"],"id":"id-260","last_modified":1785658793099,"schema":1785658544542}

@@ -1,1 +1,1 @@
-{"description":"rdd (Windows beta): RtlpReportHeapFailure | RtlpAllocateHeap | RtlpAllocateHeapInternal | RtlAllocateHeap | mozilla::nt::RtlAllocPolicy::maybe_pod_malloc","hashes":["ed0cc2ce316e06746465e903a36eb6e0c1d9a4b08b3d1430cb83a06c08f0039f"],"id":"id-434","last_modified":1785572964514,"schema":1785572937045}
+{"description":"utility (Windows beta): @0x0 | DropboxExt64.96.0.dll | SHGetIconIndexFromPIDL","hashes":["ee2600b1b403361bdd706bee139a1127bb2677f25e79e9b95d926d669c3565ea"],"id":"id-434","last_modified":1785658793373,"schema":1785658767773}
