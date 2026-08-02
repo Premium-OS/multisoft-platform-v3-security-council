@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): libc.so | libart.so | libbase.so","hashes":["280017e9ee982696ac92fc1e8b7bfe82c385e3cf3106bf14a7adfe5cae42c957"],"id":"id-164","last_modified":1785572965396,"schema":1785572609612}
+{"description":"socket (Windows beta): RtlpWaitOnCriticalSection | RtlpEnterCriticalSectionContended | RtlEnterCriticalSection | CreateFontIndirectExW","hashes":["f3757e92fb9f3da0f020059545399ecc4497e4cf9ddf415aaf95bb5cf5c97b18"],"id":"id-164","last_modified":1785658794350,"schema":1785658422031}
