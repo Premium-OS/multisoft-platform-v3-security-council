@@ -1,1 +1,1 @@
-{"description":"rdd (Windows nightly): dav1d_lpf_v_sb_y_8bpc_avx2","hashes":["53636cb1aee08d081d11a66b283b0fdd69bb05c9871c6aeb9d6cdc2354619f5e"],"id":"id-304","last_modified":1785745869900,"schema":1785745659782}
+{"description":"socket (Windows beta): RtlpWaitOnCriticalSection | RtlpEnterCriticalSectionContended | RtlEnterCriticalSection | CreateFontIndirectExW","hashes":["9bdb70249b5624443ca5c17402a827497baccee59f8e85c8eec5ce3b5703ab11"],"id":"id-304","last_modified":1785833361215,"schema":1785833177573}

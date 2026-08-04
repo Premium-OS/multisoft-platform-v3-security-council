@@ -1,1 +1,1 @@
-{"description":"content (Linux nightly): <.plt ELF section in libxul.so> | nsFrameList::DestroyFrames","hashes":["5bbde523be5cc0c9cf86a146ba58573e1ddd83763120368764d0c6deb88023f6","1714fb049c8d4cba8d510c4367afe16d2cd984954e5cafe12a4d560b040b7001"],"id":"id-060","last_modified":1785745870644,"schema":1785745329022}
+{"description":"content (Linux beta): JS::Realm::unsafeUnbarrieredMaybeGlobal","hashes":["9b94c769bcaafd27859f814cfe1441798051e92cdf796512df863f666e389580"],"id":"id-060","last_modified":1785833361944,"schema":1785832883445}
