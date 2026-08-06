@@ -1,1 +1,1 @@
-{"description":"content (Android nightly): nsGlobalWindowInner::ThawInternal","hashes":["178e71fb8bd5e088858c3e1b4ad93b10f14dfb4cb2d9b1fb8c758cdbe5836e12","a7df9e58a018520c555e10c4ca8fe013c94c432c117289b4152466987464de33"],"id":"id-365","last_modified":1785833361924,"schema":1785833248429}
+{"description":"gpu (Android nightly): mozilla::layers::AndroidHardwareBuffer::DeserializeFromFileDescriptor","hashes":["21eab8362b9d07e8592ba0e478b5488aa5ac4a5ae6b34dd22541e6eb2ffb52d2"],"id":"id-365","last_modified":1786005578199,"schema":1786005463068}
