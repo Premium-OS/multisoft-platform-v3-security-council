@@ -1,1 +1,1 @@
-{"description":"main (Mac nightly): mozilla::PresShell::DoFlushPendingNotifications","hashes":["654a593e49c8cb181c136a6f06d63affe2f831836277a8f30558f31720e67784","4fadfafc3f2427d37f77a435a5dfa5bb1313c2eea0c33c3b99dfd3aabec1e09d"],"id":"id-413","last_modified":1786005578185,"schema":1786005521902}
+{"description":"content (Android beta): mozilla::MozPromise<T>::ChainTo","hashes":["7ca346160535a5098af104edb6ff61cfbc89e826729db98bfca02e810a7e6332"],"id":"id-413","last_modified":1786092559648,"schema":1786092511429}
