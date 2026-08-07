@@ -1,1 +1,1 @@
-{"description":"utility (Windows nightly): OOM | small","hashes":["6a4a12ec6c8c84f10fcf47b992753aab60c28a707955af2f0f23b58bea119674","9fd409f0748f16863e4e5ec69c46d9201f807378a042cafcd7e501e9e8e6f933"],"id":"id-277","last_modified":1786005576201,"schema":1786005352285}
+{"description":"gpu (Linux release): <naga::back::spv::CachedExpressions as core::ops::index::Index<naga::arena::handle::Handle<naga::ir::Expression>>>::index","hashes":["7c259d8519a3f8b6393ade3a34174b005f0d786ac0a908851fb5f89b10b44420"],"id":"id-277","last_modified":1786092557909,"schema":1786092343888}

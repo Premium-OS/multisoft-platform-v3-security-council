@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): js::gc::detail::ChunkPtrHasStoreBuffer","hashes":["5eed004e9c8f9b5c5be9e30c95310c20027d6cdc32ee31e8d0780fe8055c4831"],"id":"id-374","last_modified":1786005577108,"schema":1786005474292}
+{"description":"gpu (Mac beta): webrender::spatial_tree::SpatialTree::get_relative_transform_with_face","hashes":["4d0bcbe56c306be65bb0a1379bae3c3819a17a41e46e3227aa5e5b9dc7c38e4f"],"id":"id-374","last_modified":1786092558687,"schema":1786092462536}
