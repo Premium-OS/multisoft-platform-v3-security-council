@@ -1,1 +1,1 @@
-{"description":"gpu (Linux release): wgpu_core::storage::Storage<T>::get","hashes":["c18963eb0c4cacaf7aa0cc22e980ac08ebc2f9236555a7f6c0b11fc2957a6cbd","c31624aa0a6da9aa47159c8ae75418729988ca227449ef2024fd18468ad20cef"],"id":"id-255","last_modified":1786092558657,"schema":1786092317432}
+{"description":"gpu (Mac beta): webrender::picture::PictureInstance::propagate_bounding_rect","hashes":["0d44392c633c7af89dce5d97a9d20b2675eb1ef1faaa846b6134537b39124299"],"id":"id-255","last_modified":1786178372722,"schema":1786178124038}

@@ -1,1 +1,1 @@
-{"description":"utility (Linux nightly): libc.so.6 | libcuda.so.1","hashes":["879de97305cc2410d674e9e6b1ce1e1a4f5b67179d538b126c063242c62e66a2"],"id":"id-179","last_modified":1786092558556,"schema":1786092223422}
+{"description":"socket (Windows nightly): std::default_delete<T>::operator()","hashes":["ad06f5498465d73007a7023942638312d4e45cb6f7bafe5b34c3dd50a9f4746b"],"id":"id-179","last_modified":1786178372602,"schema":1786178029943}
