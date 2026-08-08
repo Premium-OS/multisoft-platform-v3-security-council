@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): js::ObjectSlots::isSharedEmptySlots","hashes":["6f1edcc584d5f8ca0a69d99f41a31128b39223c28d73e6944dbb0930f40157ed"],"id":"id-393","last_modified":1786092559870,"schema":1786092485319}
+{"description":"socket (Windows beta): RtlpWaitOnCriticalSection | RtlpEnterCriticalSectionContended | RtlEnterCriticalSection | CreateFontIndirectExW","hashes":["c630f4d3319f1d5380fca2f7f62ddc3062e1a588dc23fbf6f4e5e4cdc03365f9"],"id":"id-393","last_modified":1786178374215,"schema":1786178291268}
