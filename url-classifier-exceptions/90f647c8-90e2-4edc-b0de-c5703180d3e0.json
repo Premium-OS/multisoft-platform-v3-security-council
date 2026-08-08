@@ -1,0 +1,1 @@
+{"bugIds":["2056902"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"90f647c8-90e2-4edc-b0de-c5703180d3e0","last_modified":1786155010687,"schema":1786155010188,"topLevelUrlPattern":"*://web.aw.ca/*","urlPattern":"*://geoip-js.com/*"}

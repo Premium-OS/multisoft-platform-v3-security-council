@@ -1,0 +1,1 @@
+{"bugIds":["2055919"],"category":"convenience","classifierFeatures":["tracking-protection","emailtracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"92bbfb96-933e-400d-91ee-9f0b5bc1479a","last_modified":1786155010698,"schema":1786155010431,"topLevelUrlPattern":"*://www.canadiantire.ca/*","urlPattern":"*://canadiantire.tt.omtrdc.net/*"}

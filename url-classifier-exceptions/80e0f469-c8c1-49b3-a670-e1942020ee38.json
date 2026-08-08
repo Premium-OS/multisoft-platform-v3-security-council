@@ -1,0 +1,1 @@
+{"bugIds":["2057268"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"80e0f469-c8c1-49b3-a670-e1942020ee38","last_modified":1786155010680,"schema":1786060812082,"topLevelUrlPattern":"*://wset.com/*","urlPattern":"*://tpc.googlesyndication.com/*"}
