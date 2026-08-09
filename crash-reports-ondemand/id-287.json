@@ -1,1 +1,1 @@
-{"description":"utility (Windows nightly): mozilla::TaskController::EnsureMainThreadTasksScheduled","hashes":["6ecfebca0f5b616934936420a1c0d629025d999ec15176203427a1bf95daeec4"],"id":"id-287","last_modified":1786178374053,"schema":1786178162484}
+{"description":"utility (Windows nightly): RtlpWaitOnCriticalSection | RtlpEnterCriticalSectionContended | RtlEnterCriticalSection | CPropMgrImpl::SetPropValue","hashes":["95ab40b19641c2c7c8bba9c03e84464f1f865da5be59ff32d3eae866fd7f186d"],"id":"id-287","last_modified":1786264173617,"schema":1786263962556}
