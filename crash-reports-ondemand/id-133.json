@@ -1,1 +1,1 @@
-{"description":"content (Mac beta): nsGlobalWindowInner::ClearDocumentDependentSlots","hashes":["6eda16a616acbacee8b72d90565435d8c2c05b0b16261ac194b2b8f24e8a6a83","4d7c5bf88c8e27ff53b5694d7bad304c451e6fe32eb7505450df0ed3fe72a630"],"id":"id-133","last_modified":1786264171694,"schema":1786263777323}
+{"description":"main (Mac beta): mozilla::PresShell::DoFlushPendingNotifications","hashes":["caa60b94a90c5eb669c4f4f983a5502113c960dc8e0ef3982fbff2acde6a70c3"],"id":"id-133","last_modified":1786349970117,"schema":1786349569217}

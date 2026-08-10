@@ -1,1 +1,1 @@
-{"description":"gpu (Mac beta): mozilla::layers::NativeLayerMacSurfaceHandler::NextSurfaceAsFramebuffer","hashes":["dfde3b654c0341d75aa51a71ea6b648c1523214676564149aa992768122a0899"],"id":"id-447","last_modified":1786264171635,"schema":1786264154798}
+{"description":"content (Mac nightly): <style::values::generics::calc::GenericCalcNode<L> as core::clone::Clone>::clone","hashes":["dabe0004691f4dd8bae9196286b3e213258d19fe7aefc311a1f360285cb5ac5a"],"id":"id-447","last_modified":1786349970068,"schema":1786349953312}
