@@ -1,1 +1,1 @@
-{"description":"utility (Windows nightly): std::default_delete<T>::operator()","hashes":["f864b60da8ad669fb7a3f3096c9299cfa217254698b862657626d39c84f40d3b"],"id":"id-448","last_modified":1786264173161,"schema":1786264155959}
+{"description":"gpu (Mac beta): mozilla::layers::NativeLayerMacSurfaceHandler::NextSurface","hashes":["05765796a0eec881b147965e43cc93688fbffc4876854e4d2638d2207ba1c3e3"],"id":"id-448","last_modified":1786349971594,"schema":1786349954489}

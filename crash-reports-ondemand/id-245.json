@@ -1,1 +1,1 @@
-{"description":"gpu (Android beta): <usize as core::slice::index::SliceIndex<[T]>>::index","hashes":["a30bccf213d461c51a51fdfa14f3d867ef1a5a657aa378e18229f6771e8b2cc6","8107e1d62ee97d67696edcebead83099beb67a7aa3dcd2e6f9d9b7aa865e2192"],"id":"id-245","last_modified":1786264173778,"schema":1786263913203}
+{"description":"socket (Linux release): std::unordered_map<T>::erase","hashes":["d14eaa0cb2fb66df7a5ce67ae0a484f0dca96afd6ef3910622eab0bb2c0bc394"],"id":"id-245","last_modified":1786349972213,"schema":1786349707903}

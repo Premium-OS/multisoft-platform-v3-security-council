@@ -1,1 +1,1 @@
-{"description":"content (Linux nightly): js::gc::AllocSite::zone","hashes":["434ea6ca0f26deafad597330a8451571c00d6742e4ceb65b5d838e41a7518c0c","070013d0457bbd424698ba2377689a1232460dd5277f095ab46e16f4f38d5b69"],"id":"id-358","last_modified":1786264173087,"schema":1786264048112}
+{"description":"gpu (Mac beta): webrender::compositor::sw_compositor::SwCompositor::queue_composite","hashes":["772b3787eef0119aba102cc204119280e662ea280511f6e072f660fc206ebaa5"],"id":"id-358","last_modified":1786349971515,"schema":1786349845175}
