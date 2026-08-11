@@ -1,1 +1,1 @@
-{"description":"main (Linux beta): mozilla::widget::WlLogHandler","hashes":["cf8dd6ac783f7155fbd1ec01338c939bc542b1fadfb5656df3c59f873b61fdd9","41ae12e3d1b4cfd12d10c36e62de23020350336b5b730cbf26f6f9c757a8660b","b283a85dec866295801341a4cd121df30f38c3c70f6ea1643b1ac53bc46ad995"],"id":"id-125","last_modified":1786349971636,"schema":1786349559762}
+{"description":"socket (Linux nightly): syscall | probe.so","hashes":["139aa76c9ce91b96664f40c279b89ff0f0b1c926a0c27f06f620af4f418ba988"],"id":"id-125","last_modified":1786437598596,"schema":1786437178621}
