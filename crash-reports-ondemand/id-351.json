@@ -1,1 +1,1 @@
-{"description":"content (Linux nightly): nsGlobalWindowInner::ThawInternal","hashes":["ac454cced7e0b1e65d293d72faafc2f0d5740d8cc94ceb6f8251303b2ed9db3f"],"id":"id-351","last_modified":1786437597899,"schema":1786437467000}
+{"description":"gpu (Mac beta): webrender::compositor::sw_compositor::SwCompositor::queue_composite","hashes":["772b3787eef0119aba102cc204119280e662ea280511f6e072f660fc206ebaa5"],"id":"id-351","last_modified":1786523968321,"schema":1786523846724}
