@@ -1,0 +1,1 @@
+{"bugIds":["2062287"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"476f7a8d-a16d-477f-9782-ee10012b8ad3","last_modified":1786500611833,"schema":1786155010916,"topLevelUrlPattern":"*://levtech.jp/*","urlPattern":"*://st-hatena.com/*"}
