@@ -1,0 +1,1 @@
+{"bugIds":["2053787"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"01dfb73a-da69-47d7-922d-7cd451632e7d","last_modified":1786527743055,"schema":1784340615133,"topLevelUrlPattern":"*://www.journaldemontreal.com/*","urlPattern":"*://cdn.onesignal.com/*"}

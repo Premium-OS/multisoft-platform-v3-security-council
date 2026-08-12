@@ -1,0 +1,1 @@
+{"bugIds":["2053119"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"f6bbf119-ef3d-4160-8dea-6ccab6df45c3","last_modified":1786527743077,"schema":1784340615992,"topLevelUrlPattern":"*://www.mybalancenow.com/*","urlPattern":"*://geoip-js.com/*"}

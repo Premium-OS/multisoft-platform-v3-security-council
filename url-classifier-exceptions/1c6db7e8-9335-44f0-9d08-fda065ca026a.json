@@ -1,0 +1,1 @@
+{"bugIds":["2053370"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"1c6db7e8-9335-44f0-9d08-fda065ca026a","last_modified":1786527743067,"schema":1784340615390,"topLevelUrlPattern":"*://www.france-catholique.fr/*","urlPattern":"*://*.qiota.com/*"}

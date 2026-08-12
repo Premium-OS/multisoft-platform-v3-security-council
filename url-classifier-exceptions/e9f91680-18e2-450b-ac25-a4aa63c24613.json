@@ -1,0 +1,1 @@
+{"bugIds":["2055531"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"e9f91680-18e2-450b-ac25-a4aa63c24613","last_modified":1786527742968,"schema":1784340614067,"topLevelUrlPattern":"*://laptopgame.vn/*","urlPattern":"*://bizweb.dktcdn.net/*"}
