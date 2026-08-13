@@ -1,1 +1,1 @@
-{"description":"socket (Windows beta): RtlpWaitOnCriticalSection | RtlpEnterCriticalSectionContended | RtlEnterCriticalSection | CreateFontIndirectExW","hashes":["0341eb860369a7962d0f999505b69cec9cdd9ee87581c68d0826f9fda2c1f364"],"id":"id-182","last_modified":1786523969734,"schema":1786523638609}
+{"description":"socket (Mac release): __CFSearchSignatureROM","hashes":["2685d5c0116753fd76fa251898d599a268fba71e9ade5987a89f5be926df5b75"],"id":"id-182","last_modified":1786610380379,"schema":1786610034452}
