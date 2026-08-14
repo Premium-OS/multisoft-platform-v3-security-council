@@ -1,1 +1,1 @@
-{"description":"content (Android nightly): mozilla::detail::InvalidArrayIndex_CRASH | js::jit::BacktrackingAllocator::go","hashes":["a7709848ab0a467bb6860b873ea0a3f3f38145088333faa6d144bb47e65ee815"],"id":"id-296","last_modified":1786610379675,"schema":1786610179947}
+{"description":"content (Mac nightly): JS::loader::ModuleLoaderBase::RegisterImportMap","hashes":["6b10cad2c6edf23ceae08173e9f67ab8f801eb521d2a798a3289fc47f874cba1"],"id":"id-296","last_modified":1786696776007,"schema":1786696573981}
