@@ -1,0 +1,1 @@
+{"bugIds":["2063243"],"category":"baseline","classifierFeatures":["tracking-protection","tracking-annotation"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"f41cc975-11ae-4a30-bd55-b78b38e887d4","last_modified":1786759817891,"schema":1786759817630,"topLevelUrlPattern":"*://www.southpark.de/*","urlPattern":"*://tags.tiqcdn.com/*"}
