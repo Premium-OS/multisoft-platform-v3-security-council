@@ -1,1 +1,1 @@
-{"description":"utility (Windows beta): RtlpWaitOnCriticalSection | RtlpEnterCriticalSectionContended | RtlEnterCriticalSection | CreateFontIndirectExW","hashes":["0b762e45a38070cea56a10984a7fed589de8286073e546833fd1bbec6c22aa9c"],"id":"id-264","last_modified":1786783160563,"schema":1786782926927}
+{"description":"rdd (Linux beta): <.text ELF section in libnvidia-glcore.so.595.84>","hashes":["76e5c39db5934b45668739b494d37d3c6a8b60413dd4bb869350034a7f16c226"],"id":"id-264","last_modified":1786868361650,"schema":1786868129341}

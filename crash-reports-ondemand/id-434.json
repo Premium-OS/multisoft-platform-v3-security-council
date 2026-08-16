@@ -1,1 +1,1 @@
-{"description":"utility (Mac release): _xpc_dictionary_node_free | _xpc_dictionary_dispose","hashes":["a0bba86b342d775f7a3ce1c7e1ea84d736cf2b8661741c6fa4144a98edc4ae70"],"id":"id-434","last_modified":1786783160576,"schema":1786783131994}
+{"description":"socket (Mac release): objc_msgSend | _xpc_dictionary_node_free | _xpc_dictionary_dispose","hashes":["d8e61a20919ab638899e1eb8cdd813f9f3e953f7172db64ee274cb22147f8cdc"],"id":"id-434","last_modified":1786868361660,"schema":1786868333703}
