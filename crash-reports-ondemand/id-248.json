@@ -1,1 +1,1 @@
-{"description":"content (Linux nightly): mozilla::detail::InvalidArrayIndex_CRASH | js::jit::BacktrackingAllocator::buildLivenessInfo","hashes":["c02756834f1667f54e99fbe6698977507428060a8e971a3f830715a8a8693955"],"id":"id-248","last_modified":1786783162202,"schema":1786782907989}
+{"description":"main (Mac nightly): CrashChannel::OpenContentStream","hashes":["0f59e1bf21c94807c42dd932a0db66cfadf822d8e505e28fcc07cca075ef45a0","060258f7047cf855fbad7f2971abb92ec1bb28c83ee7aaae8894d933a85e3640"],"id":"id-248","last_modified":1786868362923,"schema":1786868110576}
