@@ -1,0 +1,1 @@
+{"bugIds":["1959711"],"category":"convenience","classifierFeatures":["tracking-annotation"],"filterContentBlockingCategories":["standard"],"filter_expression":"env.version|versionCompare(\"142.0a1\") < 0","id":"543a6e2d-764d-4275-86ae-1bb648c7f643","isPrivateBrowsingOnly":true,"last_modified":1786977610390,"schema":1786977216992,"urlPattern":"*://accounts.google.com/*"}
