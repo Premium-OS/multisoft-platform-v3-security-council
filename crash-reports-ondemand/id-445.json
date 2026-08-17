@@ -1,1 +1,1 @@
-{"description":"utility (Linux nightly): libc.so.6 | libcuda.so.1","hashes":["da128693d1091db03a040f12181675cad2731734c482063fb134c457e6bd27ed","330b829b2c9403334bd31eac2bfe043ce437688a7df3f1f272cb0d98a4c6bcf0"],"id":"id-445","last_modified":1786868361124,"schema":1786868349298}
+{"description":"socket (Linux release): <.text ELF section in libxul.so>","hashes":["50d0e6ac8e5af8014861e35988974dad803b2b6eb75dcf6304c1dd46a97d849d"],"id":"id-445","last_modified":1786955349544,"schema":1786955342380}
