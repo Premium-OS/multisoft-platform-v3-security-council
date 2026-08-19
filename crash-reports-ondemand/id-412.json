@@ -1,1 +1,1 @@
-{"description":"utility (Linux nightly): libc.so.6 | libcuda.so.1","hashes":["da128693d1091db03a040f12181675cad2731734c482063fb134c457e6bd27ed","3883ec51e4c292a2bab1db2479d6839241d62c3aa80eb03a3c38f690268cea12"],"id":"id-412","last_modified":1787042370428,"schema":1787042324464}
+{"description":"socket (Windows beta): RtlpWakeSRWLock | LdrpFindLoadedDllByHandle","hashes":["2633688a2c4485d54f42635c66454307efa5c783b9b809e323bfaf6c194d4b6c"],"id":"id-412","last_modified":1787128792557,"schema":1787128748274}
