@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): libc.so | libGLESv2_mtk.so","hashes":["6e8aa2251d88757b45b31ec33166fbf968c94a87200a3662c21a52f04bae0180"],"id":"id-380","last_modified":1787128793240,"schema":1787128705713}
+{"description":"socket (Windows beta): RtlpWaitOnCriticalSection | RtlpEnterCriticalSectionContended | RtlEnterCriticalSection | prcore.dll | remote_eka_prague_loader.dll | inproc_agent.dll | BaseThreadInitThunk","hashes":["39eb6c423fc475dec12f0dc18e479ca5b69dc258c7a457e56e96669bfc705218"],"id":"id-380","last_modified":1787215752152,"schema":1787215673291}
