@@ -1,0 +1,1 @@
+{"bugIds":["2065039"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"8353fd56-6c8b-41ab-adc5-b483f647cca9","last_modified":1787364612699,"schema":1787364611529,"topLevelUrlPattern":"*://www.kamitokatachi.com/*","urlPattern":"*://cdn-ak.f.st-hatena.com/*"}

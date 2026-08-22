@@ -1,0 +1,1 @@
+{"bugIds":["2064095"],"category":"baseline","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"f3e2af93-7a7d-4b35-b5ba-ce1e93460583","last_modified":1787364612696,"schema":1787364612104,"topLevelUrlPattern":"*://giantfood.com/*","urlPattern":"*://f.wishabi.net/*"}
