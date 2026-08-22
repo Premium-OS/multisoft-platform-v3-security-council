@@ -1,1 +1,1 @@
-{"description":"gpu (Linux release): core::option::expect_failed | <std::collections::hash::map::HashMap<K, V, S, A> as core::ops::index::Index<&Q>>::index","hashes":["4217a5935544997ad13fc4e355d1d4e7e4c767b1f2e817e6b145534aa9f55ab7"],"id":"id-315","last_modified":1787300331516,"schema":1787300194965}
+{"description":"content (Linux nightly): mozilla::StyleAtom::IsStatic","hashes":["789de57ad15822464ab8337c0ba82618b93ada51fcd992e7110ba3ed3c7e3739"],"id":"id-315","last_modified":1787387944488,"schema":1787387800141}
