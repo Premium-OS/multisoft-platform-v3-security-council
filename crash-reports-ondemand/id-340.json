@@ -1,1 +1,1 @@
-{"description":"socket (Windows beta): gdi32.dll","hashes":["6bf8020e504e8321928d1dcbffa4a6283a61ebfd92084e5f7806c5cbf78ce77a"],"id":"id-340","last_modified":1787387946402,"schema":1787387830113}
+{"description":"gpu (Android nightly): libc.so | libGLESLayer_GPU_Control.so","hashes":["673cd481ab69a9022980d1ca5a4ed6918708ec2386b72c166442d58a7b1ea789"],"id":"id-340","last_modified":1787479754035,"schema":1787479628170}

@@ -1,1 +1,1 @@
-{"description":"gpu (Android beta): libc.so | libGLESv2_powervr.so","hashes":["9717207db8f69133706802f6ac13cca5f767ed4924cd76ba23af2e56b6b65ba2","c6d2ac757681bc115f9c1d9c36769a2c6fe302bf24633e6ab2a18175ed3b2643"],"id":"id-344","last_modified":1787387946442,"schema":1787387834823}
+{"description":"content (Android nightly): mozilla::RecursiveMutex::LockInternal","hashes":["ffa4c3edd37b8fca69b48339191c674204e23603121d91ea9c52b588d1411735"],"id":"id-344","last_modified":1787479754093,"schema":1787479632904}
