@@ -1,1 +1,1 @@
-{"description":"content (Linux nightly): <mozglue_static::GeckoAlloc as core::alloc::global::GlobalAlloc>::alloc","hashes":["1b1aa787f56415d938c03c3f7f4aa2a332203ba908dad713b9433d6babf86d1b","11e8af123ebe79d086f12022165c957b5d43aad5aee78448c9e612a1a9375872"],"id":"id-229","last_modified":1787387945401,"schema":1787387693450}
+{"description":"main (Mac beta): __CFStringHash","hashes":["22a61904ac236a558f68d9fca89a6c74c76086091c003ef1933ee6dd39a6a5a8"],"id":"id-229","last_modified":1787479752823,"schema":1787479492287}

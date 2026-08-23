@@ -1,1 +1,1 @@
-{"description":"content (Mac beta): nsPIDOMWindowInner::GetExtantDoc","hashes":["9d33d1444df5cc668a4f7f73cbec0fe8920f312b273d30845c3f600618f21c37","229eb12365bd16a203366efbda7a42abc38a2962892f76ae523274cd143fa4f3"],"id":"id-235","last_modified":1787387944873,"schema":1787387701010}
+{"description":"utility (Linux nightly): mozilla::BufferList<T>::IterImpl::RemainingInSegment","hashes":["af729fa2db465af589da07262094ff0535bb7551d4e0da5c31765897120236e6"],"id":"id-235","last_modified":1787479751919,"schema":1787479499892}

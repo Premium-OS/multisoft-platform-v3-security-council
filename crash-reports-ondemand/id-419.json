@@ -1,1 +1,1 @@
-{"description":"content (Mac beta): mozilla::detail::InvalidArrayIndex_CRASH | nsTArray_Impl<T>::ElementAt | nsTArray_Impl<T>::operator[] | mozilla::dom::StructuredCloneHolder::CustomFreeTransferHandler","hashes":["fe53ebaf6e403e51632eebeb0621e3f2191c2fc568303b101fe4c427fd80ce3e"],"id":"id-419","last_modified":1787387944728,"schema":1787387926466}
+{"description":"content (Android beta): JS::MutableHandle<T>::set","hashes":["1a9e44cec742c85a8954272af77c6829e354c7ea4469eb1b5ba998ff93ab7a34"],"id":"id-419","last_modified":1787479751805,"schema":1787479724886}
