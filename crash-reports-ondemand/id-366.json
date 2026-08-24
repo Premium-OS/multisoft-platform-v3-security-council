@@ -1,1 +1,1 @@
-{"description":"content (Android nightly): mozilla::detail::WeakReference::get","hashes":["414966cac83faec549f90a4568e3bd297e7237a82abea5c129759d6e227733eb"],"id":"id-366","last_modified":1787479752756,"schema":1787479659260}
+{"description":"socket (Windows beta): RtlpWaitOnCriticalSection | RtlpEnterCriticalSectionContended | RtlEnterCriticalSection | CreateFontIndirectExW","hashes":["33a847d01199c589aa9efbf5f0d28e630c61021765b2872ccbe2ae1e7ad71b24"],"id":"id-366","last_modified":1787561362308,"schema":1787561264458}

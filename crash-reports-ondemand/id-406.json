@@ -1,1 +1,1 @@
-{"description":"content (Mac beta): js::gc::Arena::getAllocKind","hashes":["e37091b36946fdaad550051c58881629bdde669ddf1ab971c9c7cb9bcbb67758"],"id":"id-406","last_modified":1787479751987,"schema":1787479709578}
+{"description":"gpu (Linux release): wgpu_core::storage::Storage<T>::get","hashes":["54c33727e8c4608284210190022cdb5dad30fc53099f0ac59213b74b4f4f06f2"],"id":"id-406","last_modified":1787561361762,"schema":1787561312466}
