@@ -1,0 +1,1 @@
+{"bugIds":["2064669"],"category":"convenience","classifierFeatures":["tracking-protection"],"filter_expression":"env.version|versionCompare(\"142.0a1\") >= 0","id":"cfed02e6-ede3-4274-9e2e-647c3ce13890","last_modified":1787579402515,"schema":1787364611761,"topLevelUrlPattern":"*://www.fram.com/*","urlPattern":"*://*.livechatinc.com/*"}
