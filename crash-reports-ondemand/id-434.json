@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): mozilla::layers::AndroidHardwareBuffer::DeserializeFromFileDescriptor","hashes":["39a939d14003e11c112278c2de40757bb17156c5a758a5ac0cf474af8a483396"],"id":"id-434","last_modified":1787479754983,"schema":1787479743116}
+{"description":"gpu (Android nightly): libc.so | libufwriter.so","hashes":["f25cf367277930502ea232f60cb45c111a8acca4e702cf12fcb9d1a4961f34a1","d867a649c902b8e664b821aaec276d52be10eb089776fe3a002cf5e393f027ba"],"id":"id-434","last_modified":1787561363590,"schema":1787561345938}
