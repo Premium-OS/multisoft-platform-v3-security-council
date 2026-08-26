@@ -1,1 +1,1 @@
-{"description":"utility (Linux nightly): mozilla::BufferList<T>::IterImpl::RemainingInSegment","hashes":["af729fa2db465af589da07262094ff0535bb7551d4e0da5c31765897120236e6"],"id":"id-336","last_modified":1787561361566,"schema":1787561225558}
+{"description":"gpu (Linux release): wgpu_core::storage::Storage<T>::get","hashes":["4b9be7cffa9ea2c98cd9b87aa263af450de8690b024f3e2da8aa48739a3a7136"],"id":"id-336","last_modified":1787736558334,"schema":1787736421500}

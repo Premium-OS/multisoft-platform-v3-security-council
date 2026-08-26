@@ -1,1 +1,1 @@
-{"description":"content (Linux beta): OOM | unknown | NS_ABORT_OOM | mozilla::dom::ContentChild::RecvConstructBrowser","hashes":["ab52671600bef7ecf74ddb1ed63b71cad30235923fd89d6e85bc3debb24fe940","8ed38cc35a9debbc9c07c3bfcd106cea3005a04cdcb239da3c8d40ec4c7b07fb"],"id":"id-357","last_modified":1787561361552,"schema":1787561253421}
+{"description":"content (Mac beta): js::gc::Arena::getAllocKind","hashes":["e37091b36946fdaad550051c58881629bdde669ddf1ab971c9c7cb9bcbb67758"],"id":"id-357","last_modified":1787736558321,"schema":1787736446706}
