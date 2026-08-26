@@ -1,1 +1,1 @@
-{"description":"utility (Linux release): mozilla::ipc::FatalError | mozilla::ipc::IProtocol::HandleFatalError | Mutex::Unlock","hashes":["ad64fc323c3d6842fa511b7465c7c6e452a6378b57df31615ff2c7bfdeb0f247"],"id":"id-275","last_modified":1787561363162,"schema":1787561152426}
+{"description":"content (Mac beta): js::frontend::ParseNode::getKind","hashes":["32ccb0908a58b97ea74768bbb0b90cef859b730fed4d01d26b88d494b4b561bd","ee2930709f966262e0991216c17245fe82600aea63410a42f513970b0b4b62ba"],"id":"id-275","last_modified":1787736559764,"schema":1787736345013}
