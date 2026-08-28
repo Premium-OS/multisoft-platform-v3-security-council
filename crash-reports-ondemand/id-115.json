@@ -1,1 +1,1 @@
-{"description":"socket (Windows beta): RtlpWaitOnCriticalSection | RtlpEnterCriticalSectionContended | RtlEnterCriticalSection | prcore.dll | remote_eka_prague_loader.dll | inproc_agent.dll | BaseThreadInitThunk","hashes":["39eb6c423fc475dec12f0dc18e479ca5b69dc258c7a457e56e96669bfc705218"],"id":"id-115","last_modified":1787736560287,"schema":1787736149617}
+{"description":"content (Linux nightly): libxul.so | libnspr4.so","hashes":["f109f6589932e104843a1cf5baff48f8b198ac9d097af66ce548db84502d9f59"],"id":"id-115","last_modified":1787908782766,"schema":1787908354475}
