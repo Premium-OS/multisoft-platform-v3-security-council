@@ -1,1 +1,1 @@
-{"description":"socket (Mac nightly): Abort | NS_DebugBreak | mozilla::Logger::~Logger","hashes":["1cff4d9d648a3d2e206acc2a3e5c348dd4f405ce01066a4a87d8bb1b57ec83e2"],"id":"id-255","last_modified":1787908781064,"schema":1787908527581}
+{"description":"content (Mac nightly): mozilla::dom::ViewTransition::MatchClassList","hashes":["41d3bca450dc7baa0d207f584d6ce4ba8e0f52d98288cba64c8987b454a7c5d1"],"id":"id-255","last_modified":1788079199513,"schema":1788078939320}

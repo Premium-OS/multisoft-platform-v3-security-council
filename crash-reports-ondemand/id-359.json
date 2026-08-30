@@ -1,1 +1,1 @@
-{"description":"main (Android nightly): java.lang.IllegalArgumentException: at org.mozilla.geckoview.GeckoRuntime.init(GeckoRuntime.java)","hashes":["f51149bd5abf1c670e22389015289dfcaf290b61479c9e8bfe369b9a7891ae8d"],"id":"id-359","last_modified":1787908780850,"schema":1787908658981}
+{"description":"content (Mac beta): mozilla::media::MustGetShutdownBarrier","hashes":["52bbb0daa9a035803c5446c1200235b09e95e5d5950576b1a075733ad70e1ad4"],"id":"id-359","last_modified":1788079199270,"schema":1788079070484}
