@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): OOM | large | NS_ABORT_OOM | nsTArray_Impl<T>::AppendElementInternal<T> | nsTArray<T>::AppendElement<T> | mozilla::AnimationEventDispatcher::QueueEvent","hashes":["d44df9a06249eb6c231a4b2d36e54515564e67b1d6aef2d4a9af2a64df0ee278"],"id":"id-384","last_modified":1787908782903,"schema":1787908689804}
+{"description":"gpu (Mac beta): abort | GeForceGLDriver","hashes":["4f562dd4fe991bed8bb3dde4a8c84948e6280007b2f9b4ef65429495557964e1"],"id":"id-384","last_modified":1788079201887,"schema":1788079101293}
