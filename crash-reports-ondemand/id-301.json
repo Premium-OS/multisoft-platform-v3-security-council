@@ -1,1 +1,1 @@
-{"description":"socket (Windows beta): RtlpWaitOnCriticalSection | RtlpEnterCriticalSectionContended | RtlEnterCriticalSection | CreateFontIndirectExW","hashes":["b598280b6e50a2fe1bfafe704756284f878f0c6e4ab694c8674085fe8c6ab672"],"id":"id-301","last_modified":1788079201242,"schema":1788078996216}
+{"description":"utility (Windows nightly): RtlReportFatalFailure","hashes":["0e9f0f659b6bb9479deee70238e7e8859312ee2e9a8595cba60329165c400831"],"id":"id-301","last_modified":1788165601276,"schema":1788165393730}
