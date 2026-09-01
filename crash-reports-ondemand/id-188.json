@@ -1,1 +1,1 @@
-{"description":"content (Android nightly): mozilla::AudioCallbackDriver::OutputChannelCount","hashes":["6029fb145d512a5b87b4ed50c8cf934bb9e5c09ae2eb150ae63ba721cff0ea87","3ba90eb9663969fe0fb22eb41a13ec77403e7167e1b0c1553c5e63bc4cea9aab"],"id":"id-188","last_modified":1788165600125,"schema":1788165253497}
+{"description":"gpu (Android beta): <usize as core::slice::index::SliceIndex<[T]>>::index","hashes":["863fe89ad07dfcca9178b6ba48369a59ac2f4b24c07ab4cf4d8fdb1bb9a058d4"],"id":"id-188","last_modified":1788253225104,"schema":1788252860872}
