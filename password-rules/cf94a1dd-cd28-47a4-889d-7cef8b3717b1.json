@@ -1,1 +1,1 @@
-{"Domain":"zoom.us","id":"cf94a1dd-cd28-47a4-889d-7cef8b3717b1","last_modified":1624479191553,"password-rules":"minlength: 8; maxlength: 32; max-consecutive: 6; required: lower; required: upper; required: digit;"}
+{"Domain":"zoom.us","id":"cf94a1dd-cd28-47a4-889d-7cef8b3717b1","last_modified":1788282013205,"password-rules":"minlength: 8; maxlength: 32; max-consecutive: 3; required: lower; required: upper; required: digit;"}

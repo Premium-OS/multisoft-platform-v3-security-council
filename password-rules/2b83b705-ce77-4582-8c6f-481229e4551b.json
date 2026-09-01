@@ -1,0 +1,1 @@
+{"Domain":"xiaomi.com","id":"2b83b705-ce77-4582-8c6f-481229e4551b","last_modified":1788282013220,"password-rules":"minlength: 8; maxlength: 16; required: upper,lower; required: digit,special;"}

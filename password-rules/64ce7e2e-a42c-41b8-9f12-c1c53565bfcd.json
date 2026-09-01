@@ -1,0 +1,1 @@
+{"Domain":"activision.com","id":"64ce7e2e-a42c-41b8-9f12-c1c53565bfcd","last_modified":1788282013213,"password-rules":"minlength: 8; maxlength: 20; max-consecutive: 2; required: lower, upper; required: digit;"}
