@@ -1,1 +1,1 @@
-{"description":"gpu (Android nightly): libGLESv2_swiftshader.so","hashes":["ced0648996aded3602eb34a7b922c94672a9eaef0615b4701043c00ae4edef5f"],"id":"id-368","last_modified":1788165601083,"schema":1788165477743}
+{"description":"gpu (Linux release): wgpu_core::storage::Storage<T>::get","hashes":["b0cc3506677e6a2e808e463aa6c3ab90834c770c7e9ec2e56909025617fc98bb"],"id":"id-368","last_modified":1788253226069,"schema":1788253097269}
