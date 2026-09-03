@@ -1,1 +1,1 @@
-{"description":"socket (Mac release): mozilla::ipc::MessagePump::Run","hashes":["52d635be4db140467368d9a8f2af902401dafb6a4c1a0b7167ade979f82fdba8","f4ebece8015e63227d251131bff52b631c29f3093b5c32bea26677034a03989d","bba3fe3a1abce26872411481fbb29390f6ac803f1ba3dd65e964ba3bc928f07b"],"id":"id-190","last_modified":1788253224615,"schema":1788252866019}
+{"description":"content (Mac beta): js::jit::CallDOMGetter","hashes":["98ae7fb82df8e8008473ed6b8c319d1d9df7292b1cd59ba35c6aa726055e263f"],"id":"id-190","last_modified":1788424798509,"schema":1788424446795}
