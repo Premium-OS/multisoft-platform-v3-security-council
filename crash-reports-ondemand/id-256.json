@@ -1,1 +1,1 @@
-{"description":"gpu (Windows nightly): <unknown in nvwgf2umx.dll>","hashes":["88c9cc38db764a8eff55d1cf270dc40ac5ed61faf9d1632a3c38151977e9fc39","36072751681bfbce2af68129bb3ba7f2f8c4bf08f0dd2b060134e3e0e0bb7725"],"id":"id-256","last_modified":1788424798150,"schema":1788424526299}
+{"description":"gpu (Linux release): <.text ELF section in libnvidia-eglcore.so.580.173.02>","hashes":["95dbb2650aff32b8ef373bb363d22501ee30819f89fdb17b2c5311338a658ab6"],"id":"id-256","last_modified":1788510537072,"schema":1788510308548}
