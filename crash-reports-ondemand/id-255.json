@@ -1,1 +1,1 @@
-{"description":"content (Linux nightly): arena_dalloc | BaseAllocator::free | MozJemalloc::free | PageFree","hashes":["6ba4bd3780b4091ba59656d035fedfa09d7c54d39103a6037dc2444438811870"],"id":"id-255","last_modified":1788424799811,"schema":1788424525120}
+{"description":"content (Mac beta): JS::GetTenuredGCThingZone","hashes":["69e2e5407539978324a1dee67cee6738be2601ee6759f52e4b979dfbd7820c87"],"id":"id-255","last_modified":1788510538633,"schema":1788510307410}

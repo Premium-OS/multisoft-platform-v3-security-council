@@ -1,1 +1,1 @@
-{"description":"content (Mac nightly): js::SlimLinkedListElement<T>::LinkElements","hashes":["905e4c733ea8f0b0644707d6720e4c85da218baf575887cfd412c642661d9ddb"],"id":"id-437","last_modified":1788424800500,"schema":1788424770990}
+{"description":"utility (Mac release): once_cell::sync::Lazy<T>::force::{{closure}}","hashes":["a7c9c6387f5bc46aad1415422cbb99f378cc280879f51edf29b6cfe0868642b1"],"id":"id-437","last_modified":1788510539219,"schema":1788510528590}
